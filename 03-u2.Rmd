@@ -1,1 +1,311 @@
-# Title
+# The Filmmaking Process
+
+## Overview {-}
+
+Filmmaking is exciting. We get to create and challenge ourselves as we make projects that can wow and inspire people. It is also a challenging art and craft. Film as a medium incorporates many other arts such as acting (like theatre); sets and production design (like painting and architecture); rhythm and timing (like music); scripts (like literature); movement (like dance), plasticity of form (like sculpture); as well as its unique combination of these many other arts.
+
+Given the many skills needed to make a great film over time, filmmakers have devised a system to make it easier for filmmakers. This process is so well honed that some filmmakers, like experimental filmmakers, can do it all: produce, direct, act, shoot, and edit their film. However, the larger the film production and the bigger the budget, the more complicated the process becomes and the more people need to do it.
+
+Like in a story that has a beginning, middle and end, the filmmaking process is divided into three sections or segments: pre-production, production, and post-production. (There is a fourth component dealing with marketing and distribution, but this will not be covered in this course.) We start with an overall look at the filmmaking process. This will give us the big picture of what will lie ahead so that we do not get lost in the details of the many elements of filmmaking, and so that we can place what we will be doing and practicing in a larger framework.
+
+### Topics {-}
+
+This unit is divided into the following topics:
+
+1. The Three Phases of Filmmaking  
+2. Pre-Production  
+3. Production  
+4. Post-Production  
+
+### Learning Outcomes {-}
+
+When you have completed this unit, you should be able to:
+
+- Describe the big picture of the film production process  
+
+- Determine what is involved in each phase and why it is important  
+
+- Capture an overview of the processes you will do during the course  
+
+- Define why excellence should be the benchmark of each phase of filmmaking.  
+
+### Activity Checklist {-}
+
+```{block2, type='reflect'}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+ <!-- [plugin:content-inject](_schedule) -->
+
+
+- View the video resource: [Shooting a Film- START to FINISH!]
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8NCLf9rF6IQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+  
+- Read the Pre-Production section of the course text.
+Next, watch 
+
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JE53JL60ihc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+Pitching and Pre-Production: Crash Course Film Production.
+
+- Read the Production section of the course text. Then, view the video on How to Shoot a Scene.  
+
+- Share in your journal and with your Facilitator and classmates why knowing the overall process is important and what you learned most from this unit.
+
+
+**Assessment** : Film Journal
+
+```
+
+
+### Resources {-}
+
+Here are the resources you will need to complete this unit.
+
+- Chapter Two of Digital Filmmaking: A Beginner’s Guide to Mastering the Craft, by Ned Vankevich (e-text)  
+
+- [**Pitching and Pre-Production: Crash Course Film Production #2**](https://www.youtube.com/watch?v=JE53JL60ihc)
+//todo #1
+- [**Shooting a film - START to FINISH\!**](https://www.youtube.com/watch?v=8NCLf9rF6IQ)
+//todo #2
+- [**Filmmaking From Beginning to End: Preproduction to Production**] 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oj_Blr8JE1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+
+- (Don’t worry if you  do not understand everything in these tutorials. You will at the right time as you follow this course.)
+
+- [**How to Shoot a Scene - Blocking Actors**](https://www.youtube.com/watch?v=y9_LW5H2EC4)
+
+- Other resources will be provided in the unit.
+
+## The Three Phases of Filmmaking
+
+In Unit 1 we focused on project excellence and great story telling and why they are important. This unit will help obtain these goals by breaking the filmmaking process down into three phases. Each phase depends upon the other and if we if fail to understand and execute each one well, the other phases and the film itself will suffer.
+
+The overall filmmaking process has not changed much over the past century. In short, it involves three phases: Pre-Production—preparing to shoot a project; Production—shooting or filming the project; Post-Production—editing or putting all of the production elements together in a unified final project.
+
+Understanding these three phases is vital to making a great film. You will not have to master each phase, no one can because there are too many elements and skills involved depending on the complexity of the film, its story, and its execution.
+
+### Learning Activities {-}
+
+ <!-- [plugin:content-inject](../_2-1) -->
+
+```{block2, type='reflect'}
+
+#### Shooting a Film {-}
+
+ To get a visual representation of the overall filmmaking process view the following resource:
+
+[plugin:youtube](https://www.youtube.com/watch?v=8NCLf9rF6IQ)
+ <!-- //todo #3 -->
+
+Don’t worry if you do not know all of the terms he is using such as blocking, dolly, tilt up, etc. These terms will be covered in the units ahead. For now, just take in the whole process and you will be amazed how much easier it will be to understand the later units as you explore the details of each phase.
+
+For now, just watch the video and enjoy the process.
+
+Helpful Hint: Don’t multi-task during the viewing of resources. It will divide your attention and you will not absorb as much content. As with most things in this course—be in the moment and focus on what is at hand.
+
+``` 
+
+```{block2, type='caution'}
+
+**Note** that while this learning activity is ungraded, it is designed to help you succeed in your assessments in this course.
+
+```
+
+## Pre-Production {-}
+
+Like most things in life, if you do not have a strong foundation, what follows after will wobble. Proper pre-production is the foundation of an excellent film (and your up-coming exercises). The better you plan something, the better the result.
+
+There are many elements to pre-production. When followed properly they enhance the 5 Cs of successful filmmaking (see the **Why Pre-Production is Important** section in Chapter 2 of the course text):
+
+- Creativity  
+- Calmness  
+- Co-ordination  
+- Coherence  
+- Consistency  
+
+Proper pre-production involves many important general steps (see **What Proper Pre-Production Entails** section in Chapter 2 of the course text).
+
+- Planning  
+- Anticipation  
+- Strategizing  
+- Testing  
+
+As can be gleaned from above, pre-production helps ensure that a film project maximizes the creative process and minimizes chaos, confusion, and uncertainty—the enemies of a good film.
+
+There are many steps in the prep-production process highlighted in Chapter 2. (See **Successful Steps of Pre-Production**.)
+
+They involve:
+
+- Creating a viable concept for a project  
+
+- Knowing who the audience is and genre requirements (people who like comedy want to laugh, people who like horror want to be scared)  
+
+- Creating a script to film  
+
+- Creating storyboards and shot lists  
+
+- Pitching your project to get funding, actors, crew members, etc.  
+
+- Budgeting the cost of the film  
+
+- Getting your actors and the right crew  
+
+- Finding locations and props  
+
+- Scheduling the shoot  
+
+- Testing your gear to make sure you know how to use it and that it works properly.  
+
+As can be seen, there is a lot involved before we film. Luckily, we will start with short exercises which will take minimal pre-production and gradually build to the more detailed aspects later.
+
+```{block2, type='caution'}
+
+**Note:** The lion’s share of this unit and Chapter Two in the course book is devoted to pre-production to emphasize how important this phase is. Most people might think production is the most important part of the filming process. In fact, each phase is. In Hollywood the development process (creating the screenplay) and pre-production for a film often takes far longer than production. Post-Production is also a longer process than production when a major film is involved.
+
+```
+
+### Learning Activities {-}
+
+ <!-- [plugin:content-inject](../_2-2) -->
+
+```{block2, type='reflect'}
+
+#### Pre-Production Planning {-}
+
+ Read the Pre-Production section of the course text. What part of the pre-production process appeals to you most? Why? Log this in your journal and share your responses with your facilitator and classmates when you meet for this unit.
+
+ View this resource and share with your facilitator and course mates why pitching is important:
+
+[plugin:youtube](https://www.youtube.com/watch?v=JE53JL60ihc) 
+ <!-- //todo #4 -->
+
+Murphy’s Law states that “what can go wrong will go wrong” but many people forget the last component “at the worse possible moment.” Have you ever experienced it? Share this experience with your facilitator and classmates, the result and if and how it was overcome.
+
+```
+
+## Production 
+
+The production phase involves the shooting of the film, what is often referred to as "principle photography". (Sometimes pick-up shots, re-dos, and B-roll footage are done during post-production.) For many filmmakers this is the most exciting part of filmmaking when they get a chance to go on location and watch actors do their magic.
+
+Like pre-production, the production phase must be attended to thoughtfully and diligently or you will not have what you need to edit your film and make your story work. This is why a large portion of this course and the course text are dedicated to this phase of filmmaking, which will only be covered briefly here.
+
+In addition to filming the actors, locations, action sequences, etc. production also includes recording on-location audio for the project. Capturing, recording, and creating good sound, like cinematography, takes lots of time and practice.
+
+Most of the production process takes place on real locations such as streets, schoolyards, restaurants, etc., and sets which are built for the filming. If you have the budget, filming on sets such as kitchens, living, rooms, police stations, etc. is easier than real locations. The reason for this is that you can control the lighting and use of space better and will not have extraneous and disruptive noises occurring in the environment.
+
+Production can also include green screen and CGI (computer generated imagery) work, but these are normally for bigger budget productions since they are specialized skills and it’s costly to do them well. They are also time consuming. (If you have After Effects and other special effects software skills please consider using them in this course.)
+
+Performance is a crucial part of the filming process. Many filmmakers forget this and get so caught up in the shooting process that they overlook or miss bad acting. Don’t fall into this trap. You want to work on having your actors deliver believable, motivated, non-melodramatic performances. More on this later.
+
+### Learning Activities {-}
+
+ <!-- [plugin:content-inject](../_2-3) -->
+
+```{block2, type='reflect'}
+
+#### Shooting a Scene {-}
+
+Read the Production section of the course text.
+What part of the production process appeals to you? Why?
+
+View this resource to get a feel for what is involved in shooting a scene:
+
+[plugin:youtube](https://www.youtube.com/watch?v=y9_LW5H2EC4) 
+ <!-- //todo #5 -->
+
+What did you learn from this? Share this with your Facilitator and classmates.
+
+```
+
+## Post-Production
+
+The final phase of the filmmaking process involves post-production where all elements of pre-production and production are “cut” or stitched together to create a finished film.
+
+Like production, the post process is hands-on and labor intensive. If done digitally, it involves using software such as Adobe Premier Pro, Apple Final Cut, Avid, DaVinici Resolve, etc. to edit the footage and make transitions such as fades, dissolves, wipes, etc. (to be covered later). This can be easy but a lot of work goes into choosing the best and rights shots and editing them together.
+
+There are four phases to cutting the picture of a film:
+
+- Assembly Cut: where the shots are placed together in proper order without trimming them.  
+- Rough Cut: where you begin to “trim the fat” from the beginning and end of shots to get a feel for how the story will flow.  
+- Fine Cuts: which will involve multiple versions as you trim or cut shots and scenes that do not work. You can further hone the film of any “excess” fat that does not add to the effective presentation of the story and characters.  
+- Final Cut: which is the “locked” picture version that the composer and sound design people need to add music and sound effects to precise moments in the story.  
+
+In addition to cutting the picture, post-production also entails:
+
+- **Sound Design** where the right music and sound effects are chosen and added.  
+
+- **Titling and Graphics** when the opening and ending film credits appear and any special written material that will appear on the screen such as: FIVE YEARS EARLIER.  
+
+- **Test Screening** your film to those you trust to make sure the story works and is clear, and to test how an audience will respond.  
+
+- **Color Correcting** where the flow of the color and light and dark nature of the images appears seamless and appropriate. This is where you correct over exposed and under expose shots or those with the wrong color temperature. (*Look these terms up in the film glossary you are using during this course. Refer to Activity 1.2 in Unit 1*)  
+
+- **Audio Mixing** which involves finding the right levels and balance between the sound elements such as dialogue, music, sound effects, room tone, etc.  
+
+- **Format Delivery**: What resolution will you use to export your film project? The wrong one can undermine the quality of your film.  
+
+As can be gleaned, there is a lot to post-production but by carefully studying and practicing the units ahead it will make it easier.
+
+If you are feeling overwhelmed and intimidated, you will not be alone. This is a lot to do and learn and this is why the bigger film projects can be done with team members.
+
+### Learning Activities {-}
+
+<!-- [plugin:content-inject](../_2-4) -->
+
+```{block2, type='assessment'}
+
+#### Reflect and Share {-}
+
+Based on this unit and your reading of Chapter 2 in the course text, share in your journal and with your Facilitator and classmates why knowing the overall process is important and what you learned most from this unit.
+
+Share also if you are feeling intimidated. Remember all but one of the graded assignments will be done in teams so you will not have to do it all alone.
+
+```
+
+## Summary {-}
+
+In this unit, you learned about the overall process of making a film as well as the steps involved in the following three phases:
+
+- Pre-Production  
+- Production  
+- Post-Production  
+
+## Assessment {-}
+
+<!-- [plugin:content-inject](../../assignments/_film-journal-->
+
+```{block2, type='assessment'}
+
+### Assignment 1: Film Journal {-}
+
+After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
+
+Note that entries are expected for every unit.  Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 30% of your course grade.
+
+#### Grading Criteria: {-}
+
+See the Assessments section for more details on submitting your journal, as well as the grading criteria.
+
+```
+
+## Checking your Learning {-}
+
+```{block2, type='progress'}
+
+Before you move on to the next unit, you may want to check to make sure that you are able to:
+
+- Describe the big picture of the film production process  
+
+- Determine what is involved in each phase and why it is important  
+
+- Capture an overview of what lies ahead  
+
+- Define why excellence should be the bench mark of each phase  
+
+```
