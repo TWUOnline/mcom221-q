@@ -1,1 +1,298 @@
-# Title
+# Cinematic Motion
+
+## Overview {-}
+
+In Unit 3 you created visual compositions with your camera. We hope you found it exciting to go out and explore your world through a lens and design a creative still image.
+
+In this Unit you begin your journey into the world of motion pictures. At heart, film (and video) is a temporal medium. It involves a series of images that unfold over time, most often at the rate of 24, 25, or 30 frames per second. This rate of frame-flow gives film its sense of moving pictures where a series of single frame images of a galloping horse look like the horse is actually running. This is why film is considered a kinetic medium where moving people and objects take center stage.
+
+We began with still photos in the previous unit because they are easier to control and to frame. In this unit we are going to add motion to what we compositionally frame. This will bring a lot more variables to image creation and make it more exciting for many people. As you focus on motion you must not be tempted to forget the lessons learned in the previous unit. Many of the same composition elements and principles will apply and the wise student will refresh his or her self with Unit 3 before engaging the activities for this unit.
+
+### Topics {-}
+
+This unit is divided into the following topics:
+
+1. Types of Cinematic Motion  
+2. Motivating Camera Movement  
+
+### Learning Outcomes {-}
+
+When you have completed this unit, you should be able to:
+
+- Describe and contrast the various types of film motion shots.  
+- Determine when and how to use cinematic motion.  
+- Create effective cinematic motion shots.  
+- Observe and reflect on your progress as a filmmaker and the transferrable skills you are honing.  
+
+### Activity Checklist {-}
+
+```{block2, type='reflect'}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+ <!-- [plugin:content-inject](_schedule) -->
+
+- Read the first section in Chapter 4 “Types of Cinematic Motion Shots”  
+- Practice doing as many of the main types of motion shots as you can. Discuss what you did and why with your peers in the Learning Lab.  
+- Read the rest of Chapter 4 in your textbook. Find someone to film and practice each of the cinematic motion techniques with your cell phone.  
+
+**Assessment**
+
+- Film Journal  
+- Motivated Camera Movement Exercise (ungraded, but part of journal entry)  
+
+```
+
+### Resources {-}
+
+Here are the resources you will need to complete this unit:
+
+- Chapter Four of the course text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft*, by Ned Vankevich
+- “[8 Basic Types of Camera Movements](https://www.youtube.com/watch?v=g6zMtnLC50w)”  
+- “[5 Brilliant Moments of Camera Movement](https://www.youtube.com/watch?v=h2c3JZ6X3f8)”  
+- “[Perfect your Film with Cinematic Motion](https://www.youtube.com/watch?v=VPfKsdPsS5w)”  
+- Guidelines for Motion Exercises  
+- Other online resources will be provided in the course text and unit.  
+
+## Types of Cinematic Motion Shots {-}
+
+In Unit 3 we explored how excellent or effective still (non-moving) visual compositions are made. The elements and principles of such images apply to filmmaking too. However, film and video add new variables and techniques given that they deal with moving or motion pictures.
+
+However, as we explore film motion, we must remember that film and video involve a series of still images being projected and that persistence of vision makes them appear connected. (See the first Helpful Hint in the course text Chapter 4.) This is why we need to incorporate what we have learned about visual composition as we create our “moving” pictures.
+
+The main types of motion shots include:
+
+- ZOOMS  
+- PAN SHOTS  
+- SWISH OR WHIP PAN  
+- TILT SHOTS  
+- DOLLY  
+- DOLLY ZOOMS  
+- TRACKING  
+- ARCING  
+- FOLLOW SHOTS  
+- CRANE SHOTS  
+- 360-DEGREE TRACKING SHOTS  
+- SLIDERS  
+- GOPRO  
+- DRONES  
+- SHAKY CAMERA  
+
+### Learning Activities {-}
+
+ <!-- [plugin:content-inject](../_4-1) -->
+
+ 
+```{block2, type='reflect'}
+
+#### Motion Shots Reading {-}
+
+ Study the first section in Chapter 4 “Types of Cinematic Motion Shots” to help you understand the different types of motion shots. Be sure to take notes and begin logging and identifying shot ideas you want to try and practice. Actively taking notes as you read is a great way to absorb the material.
+
+ <!-- [plugin:content-inject](../_4-2) -->
+
+#### Motion Shots Practice {-}
+
+ Study the definitions of the main types of motion shots and how to do them. Then practice doing as many of them as you can. (Obviously you cannot do a GoPro or drone shot without that specific equipment, but you might be imaginative and find an alternative to do a similar type of shot.)
+
+ Write in your journal your observations about each type of shot and what you learned from doing them. Share these insights and questions with your class mates when you meet.
+
+Before moving on to the next topic, view the following resources to augment your understanding of camera movement
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/h2c3JZ6X3f8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+```
+
+```{block2, type='caution'}
+
+**Note:** that this learning activity is ungraded, but is designed to help you succeed in your assessments in this course.
+
+*In addition, do not try doing zoom shots with your cell camera unless you have a special app that makes it smooth.  Squeezing your finger in and out to move closer or further away from your subject will result in a shaky shot.  Our goal is to disguise movement, not to draw attention to it.*
+
+```
+
+## Properly Motivated Camera Moving Shots
+
+A classical approach to filmmaking involves using shot and techniques that are motivated by the characters and story and which do not unnecessarily distract or pull the audience out of experiencing an event in your film. Put another way, if you do something that is jarring or not done well such as a shaky zoom shot it will draw attention to itself and distract the audience and prevent them from engaging the flow of your scene. What this means will become apparent as you progress in the course. 
+
+The following sections will help you have properly motivated and framed movement within the frame.
+
+- **Properly Motivated Movement Shots**
+- **Proper Placement in the Frame**
+- **Motivated Unmotivated Camera Movement**
+
+### Learning Activities {-}
+
+ <!-- [plugin:content-inject](../_4-3) -->
+
+```{block2, type='reflect'}
+
+#### Proper Motivation Exercise and Practice {-}
+
+Read the rest of Chapter 4 in your textbook.
+
+- After you have viewed the resources and studied the properly motivated camera movements, find someone to film and practice each of the techniques with your cell phone.
+
+For inspiration and how-to-do techniques view this resource: 8 Cinematic Camera Moves For Video
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6_p93J3OwfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+Bring your best shots to the Learning Lab to share with your facilitator and classmates and to get feedback.
+
+See the Assessment section for more guidelines and criteria for evaluating this exercise.
+
+```
+
+
+
+## Summary {-}
+
+In this unit, you learned about cinematic motion and how to motivate it and do it properly. As such, you have gained understanding and practice with another important basic of excellent filmmaking.
+
+## Assessment {-}
+
+ <!-- [plugin:content-inject](../../assignments/_movement_exercise) -->
+
+```{block2, type='assessment'}
+
+## Motivated Camera Movement Exercise {-}
+
+*(ungraded, but part of journal entry)*
+
+For this exercise on motion, you will shoot **5 different types** of motivated kinetic shots, e.g., a pan, tilt, zoom, following action shot, etc. that have smooth motion from the beginning to the end of the shot and “disguise” the camera technique by matching the rate of camera move and subject movement.  
+
+In our quest to learn the art of excellent filmmaking we will focus on creating motivated motion shots. In doing this we can use shots that are context-centered or context-free.  
+
+For example, a context-centered shot would use a pan shot to show the comradery or bond between a group of friends as they share and pass homemade cookies to
+each other. The motion of the pan shot would match the rate of the characters’ movement as they take a cookie and pass the plate to the next friend.
+
+A context-free shot would be to do a pan shot of a car as you practice following the motion with enough lead space as you keep the car in the same part of the
+frame as it passes. In other words, you will do a shot that follows motion for the sake of practicing how to do it.
+
+Don’t get too caught up in context-centered or context free shots. Just focus on mastering camera movement and motivating it such as using a follow zoom where
+you match the rate of the camera move and the subject movement so that we are not away of the zoom in or the zoom out as you follow the action. For example, you would start with a wide shot of someone entering a room and as he crosses the room the use the zoom to move in closer and end with a waist to the top of the head shot as the person is seated. Notice that this example would also
+include a motivated tilt down as the person sits. This is a great type of shot to practice to gain confidence in your motion shot skills.
+
+The above examples might seem simple but they will take practice to execute smoothly and not have any distracting bumps or mars in the smoothness of the motion or not having characters bump their heads on the top of the frame as they move or bump up against the edge of the frame.
+
+When you can control the action (unlike following an airplane across the sky) be sure to have a clean start and clear end to your shot. A clean start means
+rather than launching immediately into the shot and action you take a beat or short moment before stating the movement. A clear end means you hold the last
+shot for at least a second before the person leaves the frame and you turn off the camera. You will discover later that is important to have a clean open and clear end when editing shots together.
+
+Be sure to rehearse the shots and to do multiple takes. Only bring your best example of each shot type to class. The more you practice the better you will get.
+
+```
+
+```{block2, type='caution'}
+
+**Helpful Reminder**: Do not forget to create well composed shots. Review the principles of good composition and design from the last unit.
+
+```
+
+
+```{block2, type='assessment'}
+
+The following guidelines sheet will explain the specific requirements and logistics for this assignment.
+
+### Criteria for Assessing the Motion Shots {-}
+
+This exercise, like the previous one, will not be graded. You are learning the basics and it is not fair to penalize you at this early stage. However, as we are learning, film is a public medium and you will be showing your work to your peers so in some ways you will be accountable for the quality of your shots. In addition, if you do not practice these basics it will impact your grade in the next assignments if you do not execute the techniques well.
+
+The following questions will be discussed as you show your work:
+
+- Was the shot motivated?  
+- Was the shot smooth or distracting?  
+- Did it follow the action well?  
+- Did the shot have a clean start and a clear end?  
+- Was the shot well-composed in general?  
+- Was the shot well-composed throughout from the beginning to the end?  
+- What was interesting about the shot?  
+- Was there anything that pulled us of being involved with the shot?  
+- Did the shot combine more than one movement type? If so, how many and did they work well together? E.g., a zoom, pan, and tilt.  
+
+You will be wise to keep in mind the following as you design and practice your
+shots:
+
+- Your goal is to create smooth, seamless, cinematic camera motion and learn how to motivate and disguise it by having the camera move at the apparent rate of the moving subject.  
+- A Zoom should follow the movement and not go in and out during the move.  
+- A Pan should move at the apparent rate of the subject and not lead or follow it.  
+- Head room is important—be careful of bumping heads against the top of the frame during the shot or cutting parts of the head that look weird or inappropriate.  
+- Lead room—have space for the subject to move into without bumping into the frame or feeling too squeezed…unless motivated by the situation or context. Eg., someone being pressured.  
+- A Tilt should reveal something new and can be motivated by character movement, e.g. tilting down at the rate which the characters sits down or tilting up at the rate that someone picks something up.  
+- A Dolly shot should follow the action (side to side) or be led by the subject. E.g., dolly back while doing a walk and talk.  
+- Depth (S and arcing curves are normally more aesthetically pleasing).  
+- Tracking/Trucking (lateral/parallel movement) at the apparent rate of the subject, i.e., not faster or slower than the subject movement which draws attention to itself.
+- Arc (combo pan and track—curved movement) can be motivated by a character’s move or situation.  
+- Car/Helicopter/Camera Truck, etc. where we follow the subject at a smooth, non-attention grabbing rate.  
+- Crane  
+- Boom up/ Boom Down as a subject moves away.  
+- Selfie stick  
+- Drones  
+- Follow the subject at the appropriate rate.  
+- Gimbal shots  
+- Follow the subject at the appropriate rate.  
+
+For this exercise we will avoid the shaky camera and fast-moving hand-held techniques for obvious reasons.
+
+```
+
+```{block2, type='caution'}
+
+**Helpful Hint** : Before doing the following assignment read this resource for inspiration: “[Game Changers: Camera Movement](https://www.filmcomment.com/article/game-changers-camera-movement/),” and [8 Cinematic Camera Moves For Video](https://www.youtube.com/watch?v=6_p93J3OwfU).
+
+```
+
+```{block2, type='assessment'}
+
+### Guidelines for Cinematic Motion Exercise {-}
+
+- Your goal: to continue practicing basic filmmaking skills by exploring and experimenting with cinematic motion.  
+- Before doing the exercise below go back to the previous unit and refresh your understanding of excellent visual composition.  
+- You must shoot **5 different types** of motivated kinetic shots, e.g., a pan, tilt, zoom, following action shot, etc. that have smooth motion from the beginning to the end of the shot and “disguise” the camera technique by matching the rate of camera move and subject movement.  
+- Your shots can be context-centered (reveal a character or story element) or context-free (merely follow action and show smooth camera work and motion).
+- You must have a clean start and a clear end of the shot as discussed during the course.
+- Given the parameters of this exercise *you will not be allowed to use a shaky handheld camera effect or technique*. Later, when properly motivated you can, but not for this exercise.
+- We will go into cameras later but for now keep this assignment simple and you can use your cell phone or, if you have one, a DSLR for this assignment. You can consult tutorials on YouTube, UDEMY, or other learning websites for how to shoot video you specific phone or camera.
+- You are strongly encouraged to use a tripod, selfie stick, gimbal, monopod or other similar devices to help you make smooth camera moves.
+- Be sure to rehearse and to do multiple takes until you are satisfied that you have a smooth, motivated shot. Only submit your best example of each type of shot.
+- Place your shots in the Course Folder with your name on it. The upload site address will be handed out in class.
+- Label the image with the type of moving shot that you did so that we are clear what you intended and whether it worked or not.
+- As with the composition exercise do not take this assignment lightly. You will learn important things from it. Remember the goal is to disguise the movement of the camera by subject movement and matching the flow rate of each so that you technique follows the action in a non-distracted, seamless or disguised and “invisible” manner.
+- Do not get coaching or help for this exercise. Do it on your own. You will learn more from your personal successes and failures.
+- The due date for this activity will be given out during the course.
+- Those wanting to excel at this exercise will do some research on films that have exceptional motion shots and try re-creating one or try a technique we have not addressed. For example: [12 Best Long Takes in Film History](https://www.youtube.com/watch?v=oLFHdagIw6o&t=61s).
+
+Continue to cultivate a good learning perspective. Look upon the exercise and assignment for this unit as a fun adventure. Again, don’t be crippled by fear or perfectionism. Practice, practice, practice, and do you best. The fruits of this process will show up later.
+
+#### Grading Criteria: {-}
+
+See the Assessments section for more details, as well as the grading criteria.
+
+ <!--[plugin:content-inject](../../assignments/_film-journal) -->
+
+### Assignment 1: Film Journal {-}
+
+After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
+
+Note that entries are expected for every unit.  Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 30% of your course grade.
+
+```
+
+## Checking your Learning {-}
+
+```{block2, type='progress'}
+
+Before you move on to the next unit, you may want to check to make sure that you are able to:
+
+- Describe the various types of film motion shots
+- Contrast the various types of film motion shots
+- Determine when and how to use cinematic motion
+- Create effective cinematic motion shots
+- Make observations in your journal of what you have learned from this unit.
+
+```

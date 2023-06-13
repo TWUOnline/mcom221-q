@@ -1,7 +1,7 @@
 ---
 title: "Digital Filmmaking"
 author: "Ned Vankevich"
-date: "`r Sys.Date()`"
+date: "Last Updated `r format(Sys.time(), '%b %Y')`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
