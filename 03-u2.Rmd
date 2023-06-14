@@ -68,7 +68,8 @@ Here are the resources you will need to complete this unit.
 - Chapter Two of Digital Filmmaking: A Beginner’s Guide to Mastering the Craft, by Ned Vankevich (e-text)  
 
 - [**Pitching and Pre-Production: Crash Course Film Production #2**](https://www.youtube.com/watch?v=JE53JL60ihc)
-//todo #1
+
+//todo # 1 
 - [**Shooting a film - START to FINISH\!**](https://www.youtube.com/watch?v=8NCLf9rF6IQ)
 //todo #2
 - [**Filmmaking From Beginning to End: Preproduction to Production**] 
@@ -183,7 +184,7 @@ As can be seen, there is a lot involved before we film. Luckily, we will start w
  View this resource and share with your facilitator and course mates why pitching is important:
 
 [plugin:youtube](https://www.youtube.com/watch?v=JE53JL60ihc) 
- <!-- //todo #4 -->
+//todo #4 
 
 Murphy’s Law states that “what can go wrong will go wrong” but many people forget the last component “at the worse possible moment.” Have you ever experienced it? Share this experience with your facilitator and classmates, the result and if and how it was overcome.
 
