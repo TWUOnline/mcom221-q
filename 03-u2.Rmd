@@ -38,50 +38,29 @@ Here is a checklist of learning activities you will benefit from in completing t
  <!-- [plugin:content-inject](_schedule) -->
 
 
-- View the video resource: [Shooting a Film- START to FINISH!]
 
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8NCLf9rF6IQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-
-  
+- View the video resource: [Shooting a Film- START to FINISH!](https://www.youtube.com/watch?v=8NCLf9rF6IQ)
 - Read the Pre-Production section of the course text.
-Next, watch 
-
-<div class="video-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JE53JL60ihc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-
-Pitching and Pre-Production: Crash Course Film Production.
-
+Next, watch [Pitching and Pre-Production: Crash Course Film Production #2](https://www.youtube.com/watch?v=JE53JL60ihc)
 - Read the Production section of the course text. Then, view the video on How to Shoot a Scene.  
-
 - Share in your journal and with your Facilitator and classmates why knowing the overall process is important and what you learned most from this unit.
 
 
-**Assessment** : Film Journal
+**Assessment :** 
+- Film Journal
 
 ```
-
 
 ### Resources {-}
 
 Here are the resources you will need to complete this unit.
 
 - Chapter Two of Digital Filmmaking: A Beginner’s Guide to Mastering the Craft, by Ned Vankevich (e-text)  
-
-- [**Pitching and Pre-Production: Crash Course Film Production #2**](https://www.youtube.com/watch?v=JE53JL60ihc)
-
-//todo # 1 
-- [**Shooting a film - START to FINISH\!**](https://www.youtube.com/watch?v=8NCLf9rF6IQ)
-//todo #2
-- [**Filmmaking From Beginning to End: Preproduction to Production**] 
-
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oj_Blr8JE1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
-
-- (Don’t worry if you  do not understand everything in these tutorials. You will at the right time as you follow this course.)
-
-- [**How to Shoot a Scene - Blocking Actors**](https://www.youtube.com/watch?v=y9_LW5H2EC4)
-
-- Other resources will be provided in the unit.
+-  [**Pitching and Pre-Production: Crash Course Film Production #2**](https://www.youtube.com/watch?v=JE53JL60ihc)  
+- [**Shooting a film - START to FINISH\!**](https://www.youtube.com/watch?v=8NCLf9rF6IQ)  
+- [**Filmmaking From Beginning to End: Preproduction to Production**](https://www.youtube.com/watch?v=oj_Blr8JE1I) (Don’t worry if you  do not understand everything in these tutorials. You will at the right time as you follow this course.)  
+- [**How to Shoot a Scene - Blocking Actors**](https://www.youtube.com/watch?v=y9_LW5H2EC4)  
+- Other resources will be provided in the unit.  
 
 ## The Three Phases of Filmmaking
 
@@ -101,8 +80,8 @@ Understanding these three phases is vital to making a great film. You will not h
 
  To get a visual representation of the overall filmmaking process view the following resource:
 
-[plugin:youtube](https://www.youtube.com/watch?v=8NCLf9rF6IQ)
- <!-- //todo #3 -->
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8NCLf9rF6IQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
 
 Don’t worry if you do not know all of the terms he is using such as blocking, dolly, tilt up, etc. These terms will be covered in the units ahead. For now, just take in the whole process and you will be amazed how much easier it will be to understand the later units as you explore the details of each phase.
 
@@ -175,16 +154,15 @@ As can be seen, there is a lot involved before we film. Luckily, we will start w
 
  <!-- [plugin:content-inject](../_2-2) -->
 
-```{block2, type='reflect'}
 
 #### Pre-Production Planning {-}
 
- Read the Pre-Production section of the course text. What part of the pre-production process appeals to you most? Why? Log this in your journal and share your responses with your facilitator and classmates when you meet for this unit.
+Read the Pre-Production section of the course text. What part of the pre-production process appeals to you most? Why? Log this in your journal and share your responses with your facilitator and classmates when you meet for this unit.
 
- View this resource and share with your facilitator and course mates why pitching is important:
+View this resource and share with your facilitator and course mates why pitching is important:
 
-[plugin:youtube](https://www.youtube.com/watch?v=JE53JL60ihc) 
-//todo #4 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JE53JL60ihc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
 
 Murphy’s Law states that “what can go wrong will go wrong” but many people forget the last component “at the worse possible moment.” Have you ever experienced it? Share this experience with your facilitator and classmates, the result and if and how it was overcome.
 
@@ -206,7 +184,7 @@ Performance is a crucial part of the filming process. Many filmmakers forget thi
 
 ### Learning Activities {-}
 
- <!-- [plugin:content-inject](../_2-3) -->
+<!-- [plugin:content-inject](../_2-3) -->
 
 ```{block2, type='reflect'}
 

@@ -40,4 +40,6 @@ film-genres
 script-and-story-development
 creating-a-scriptment
 summary-making-your-short-film
-title
+course-summary-and-celebration
+course-awards
+your-future
