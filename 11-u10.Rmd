@@ -1,1 +1,216 @@
-# Title
+# Course Summary and Celebration
+
+## Overview {-}
+
+Congratulations. You are at the end of your creative journey into the world of filmmaking. We hope it has been a grand adventure.
+
+In this unit you celebrate your accomplishments and hopefully win a course award for them, and if they merit it, be considered for a film festival. You will also have a chance to reflect on what this course means for your future personal and professional develop and career. You will also self-assess your work and be encouraged to look at the big picture this course experience has offered.
+
+### Topics {-}
+
+This unit is divided into the following topics:
+
+1. Course Awards  
+2. Film Festivals  
+3. Your Future  
+
+## Learning Outcomes {-}
+
+When you have completed this unit, you should be able to:
+
+- Describe what you have learned from this course.  
+- Determine who wins awards for their work.  
+- Create a self-assessment that encapsulates what you learned.  
+- Think about the big picture of your life and share your reflections.  
+
+### Activity Checklist {-}
+
+```{block2, type='reflect'}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+<!-- [plugin:content-inject](_schedule) -->
+
+
+- Decide on your film favourites.  
+- Consider submitting to a film festival.  
+- Study resources that deal with jobs in the film industry and careers that can use the filmmaking skills you are acquiring.  
+
+**Assessment:**
+
+- Film Journal  
+- Final Exam: Self-Assessment / Journal (30%)  
+
+```
+
+### Resources {-}
+
+Here are the resources you will need to complete this unit.
+
+- Chapter Ten course text  
+-  [How to Pick Which Festivals to Submit to (And Get the Most from Your Submissions](https://medium.com/filmfreeway/how-to-pick-which-festivals-to-submit-to-5c230989c607)  
+-  [For a list of festivals focusing on short films see: “20 Film Festivals You Should Enter Your Short Film Into, Bridget Schneider](http://resourcemagonline.com/2017/11/20-film-festivals-you-should-enter-your-short-film-into/82548/)  
+-  [ESSENTIAL skills you need for a Career in filmmaking!](https://www.youtube.com/watch?v=1grxjdy831g)  
+-  [20+ FILM SET JOBS FOR YOU ](https://www.youtube.com/watch?v=Tvjg1ndrPlQ)  
+- [The 20 Best Careers in the Film Industry, Joanna Zambas](https://www.careeraddict.com/film-jobs)  
+- [Film Crew Positions And Why All Jobs on a Movie Set Matter,” George Edelman](https://nofilmschool.com/film-crew-jobs)  
+- [Film In Colorado, Job Descriptions](https://filmincolorado.com/resources/job-descriptions/) This is an example of a local film commission.  
+- [10 Life Skills You Need to Land Your Dream Career](https://career.noomii.com/life-skills-need-land-dream-career/)  
+- Other resources will be provided in the course text.  
+
+## Course Awards
+
+The first order of business on your capstone day is to celebrate who did outstanding work in the course. After you view all of the final film projects, your will vote on who wins the following awards based on the criteria of this course:
+
+- Best Overall Film  
+- Best Overall Director  
+- Best Overall Script  
+- Best Overall Cinematography  
+- Best Overall Editing  
+- Best Photographic Compositions  
+- Best Motional Exercises  
+- Best In-Camera Exercise  
+- Best Montage Exercise  
+- Best Final Film Project  
+- Most Improved Filmmaker  
+
+You will also have the opportunity to give feedback on why you voted on the filmmakers, films, and awards which won.
+
+### Learning Activities {-}
+
+<!-- [plugin:content-inject](../_10-1) -->
+
+```{block2, type='reflect'}
+
+#### Film Favourites {-}
+
+Be sure to review the sections in your course journal where you made comments about the films you liked during the course. Go back and view them in the Course Folder to confirm your decision.
+
+```
+
+## Film Festivals {-}
+
+Film festivals are great venues for building your reputation and advancing your career.
+
+If your film merits it, your instructor will recommend that your film be adjudicated for entry into Cinergy, the annual TWU campus student film festival held each spring.
+
+It will help you grow as a filmmaker if you research festivals and submit your work to them.
+
+### Learning Activities {-}
+
+<!-- [plugin:content-inject](../_10-2) -->
+
+```{block2, type='reflect'}
+
+#### Film Festival Options {-}
+
+Explore these resources and others and see if you can find a film festival to submit to. Please let us know if you win\!
+
+ - [How to Pick Which Festivals to Submit to And Get the Most from Your Submissions](https://medium.com/filmfreeway/how-to-pick-which-festivals-to-submit-to-5c230989c607)  
+ - [20 Film Festivals You Should Enter Your Short Film Into, Bridget Schneider](http://resourcemagonline.com/2017/11/20-film-festivals-you-should-enter-your-short-film-into/82548/)  
+
+```
+
+## Your Future
+
+This course is a stepping stone in the long journey of preparing for your career and life-learning.
+
+It will help you immensely in this process if you engage **now** in reflection on what you have learned and explore potential jobs and industry professions. After the course, your life will motor on and you might forget to do this.
+
+```{block2, type='caution'}
+
+**Helpful Hint:** Honestly assess your work and progress in the course. What strengths did you discover about yourself? What weaknesses do you have to work on? The important thing is not to condemn ourselves for our mistakes but to learn from them. Make a to do list for what you will do after this course to improve your personal and professional life. Log these insights in your journal and revisit them in six months to see where you stand then
+
+```
+
+### Learning Activities {-}
+
+<!-- [plugin:content-inject](../_10-3) -->
+
+```{block2, type='reflect'}
+
+#### Applying Your Film Skills {-}
+
+Study resources like the following that deal with jobs in the film industry and careers that can use the filmmaking skills you are acquiring.
+
+- **8 ESSENTIAL skills you need for a Career in filmmaking!,** 
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1grxjdy831g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+
+
+- **20+ FILM SET JOBS FOR YOU**
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Tvjg1ndrPlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+- [The 20 Best Careers in the Film Industry, Joanna Zambas](https://www.careeraddict.com/film-jobs)
+- [Film Crew Positions And Why All Jobs on a Movie Set Matter,” George Edelman](https://nofilmschool.com/film-crew-jobs)
+
+Which jobs appeal to you? Which careers appeal to you? Make a list, date it, and post it on your wall, bathroom mirror, or computer. Check it periodically to remind you of your goal and to assess how well you are on the road to it.
+
+```
+
+## Summary {-}
+
+- Course Awards  
+- Film Festivals  
+- Your Future  
+- Self-Assessment  
+
+## Assessment {-}
+
+<!-- [plugin:content-inject](../../assignments/_film-journal) -->
+
+```{block2, type='assessment'}
+
+### Assignment : {-}
+
+**Film Journal**
+After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
+
+```
+
+
+```{block2, type='caution'}
+
+**Note:** that entries are expected for every unit.  Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 30% of your course grade.
+
+```
+
+<!-- [plugin:content-inject](../../assignments/_assignment-10)  -->
+
+## Final Exam - Self-Assessment / Course Journal {-}
+
+```{block2, type='assessment'}
+
+The final exam for this course will involve a detailed self-assessment of what you have learned as a person and as a professional.
+
+Follow the guidelines in the self-assessment section of the final chapter for your final exam submission. Be sure to use entries you have made in your journal.
+
+As a reminder, the following is the point scale for determining your grade:
+
+| **Assignment**     | **Points** | **Due**        |
+|  | - | -- |
+| Assignment 1: In-Camera Exercise | 10 points  | End of Unit …  |
+| Assignment 2: Montage Project    | 20 points  | End of Unit …  |
+| Assignment 3: Final Film Project | 40 points  | End of Unit 10 |
+| Final Exam: Self-Assessment / Course Journal     | 30 points  | End of Unit 10 |
+| TOTAL              | 100 points |                |
+
+```
+
+## Checking your Learning {-}
+
+```{block2, type='progress'}
+
+Before you move on to the next unit, you may want to check to make sure that you are able to:
+
+- Describe what you have learned from this course.  
+- Determine who wins awards for their work.  
+- Create a self-assessment that encapsulates what you learned.  
+- Think about the big picture of your life and share your reflections.  
+
+```
