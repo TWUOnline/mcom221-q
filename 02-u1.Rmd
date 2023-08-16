@@ -40,30 +40,41 @@ When you have completed this unit, you should be able to:
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
- <!-- [plugin:content-inject](_schedule) -->
+ <!-- [plugin:content-inject](_schedule)
 
 - Write your first two Film Journal entries for this unit.  
 - Choose a glossary and start learning 5 new film terms a day.  
 - Read the Introduction which sets up the course ahead and Chapter One “Project Excellence and Professionalism” in the course textbook.  
 - Reflect on the 15 Tips for Doing Your Best.  
-- Reflection on the transferable life skills presented.  
+- Reflection on the transferable life skills presented.
+-->
 
-**Assessment**
+- **The Importance of the Film Journal:** Write your first two Film Journal entries for this unit.
+- **Read and Reflect:** Read the Introduction which sets up the course ahead and Chapter One “Project Excellence and Professionalism” in the course textbook.
+- Reflect on the 15 Tips for Doing Your Best
 
-- Film Journal  
+*Note that this learning activity is ungraded, but is designed to help you succeed in your assessments in this course.*
 
 ```
+
+### Assessment {-}
+
+See the Assessment section in Moodle for assignment details and due dates.
+
 
 ### Resources {-}
 
 Here are the resources you will need to complete this unit.
 
-- Introduction and Chapter One of the course text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft*, by Ned Vankevich (e-text)  
+- Introduction and Chapter One of the course text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft*, by Ned Vankevich (e-text)
+- Other resources will be provided in the unit.
+
+<!--
 - [How to Start a Creative Journal](https://karenbanes.com/how-to-start-a-creative-journal) (Be sure to click on the internal links on this website)  
 - [How to Journal Every Day for Increased Productivity, Clarity, and Mental Health](https://www.youtube.com/watch?v=hUTWo7_W0lc)  
 - [How To Grow Professionally](https://brandyourself.com/blog/guide/how-to-grow-professionally/)  
 - [Creative blocks website](https://www.goodtherapy.org/learn-about-therapy/issues/creative-blocks)  
-- Other resources will be provided in the unit.  
+-->
 
 ## Course Introduction
 
@@ -93,7 +104,6 @@ During this course you are encouraged to keep a “Film Journal.” This is impo
 
 Also, note that you may be asked to use your journal entries to participate in discussions, presentations, and other learning activities in the FAR Centre Facilitated Learning Labs. Please check with your facilitator about specific due dates for activities, including journal responses.
 
-
 #### Film Journal Entry: {-}
 
 Based on the importance of the course journal make your first two entries for this unit:
@@ -110,11 +120,11 @@ Based on the importance of the course journal make your first two entries for th
 **NOTE** : your journal entries do not have to be long but they should be detailed and specific enough to indicate that you have engaged the course material and projects.
 
 ```
-
+<!--
 ### Learning Activities {-}
-
+-->
 <!-- [plugin:content-inject](../_1-2) -->
-
+<!--
 ```{block2, type='reflect'}
 
 #### Film Terms and Vocabulary Needed for this Course {-}
@@ -141,7 +151,7 @@ After completing the activities above, consider the following questions:
 **Note:** that while the above learning activity is ungraded, it is designed to help you succeed in your assessments in this course.
 
 ```
-
+-->
 ## Excellence and Professional and Personal Development
 
 This course will focus on the classical approach to filmmaking, that is, making motivated film stories and executing them in ways that help audiences to fully engage the story and characters without unnecessary distractions. In doing so, the course has a lofty goal: to aim for excellence. Excellence means a high standard of being good. This is of course relative to being an Introductory course with students who are just beginning their filmmaking journey, or are taking this course as an elective. But like any course, if you shoot for an A you will do better than settling for average and mediocrity.
@@ -226,7 +236,7 @@ The following will help you to not just do well in this Film project, but will m
 Which of the tips in this section appeal to you most? Which do you need to focus on during the course? Write your response in your journal and share with your facilitator and/or classmates which are most important and why. Find an inspiring quote and share it with your peers.
 
 ```
-
+<!--
 ## Transferable Skills
 
 This class is about more than making films. If followed diligently, you will learn a lot about yourself, others, and the world around you. You will also learn skills and traits that will play an important role in your life journey ahead. Some of the transferable skills can include:
@@ -245,9 +255,10 @@ This class is about more than making films. If followed diligently, you will lea
 
 
 ### Learning Activities {-}
-
+-->
  <!-- [plugin:content-inject](../_1-5) -->
 
+<!--
 ```{block2, type='reflect'}
 
 #### Reflection on Life Skills {-}
@@ -261,6 +272,7 @@ Which of the life skills above are important to you and why? Log this in your jo
 **NOTE:** Be sure to revisit these journal entries on Tips to Do Well and Transferable Life Skills as you monitor your progress during the course. One of the actives in Unit Ten will involve your writing a summary of the best lessons you learned from the course and about yourself. Again, this is a reminder of how important our course journal will be. 
 
 ```
+-->
 
 ## Summary {-}
 
