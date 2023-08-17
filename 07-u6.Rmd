@@ -30,12 +30,26 @@ When you have completed this unit, you should be able to:
 
 ### Activity Checklist {-}
 
-
 ```{block2, type='reflect'}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-<!-- [plugin:content-inject](_schedule) -->
+- **Read, Study, and Reflect:** Read and study Chapter 6  of course e-text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft.* Write in your journal your initial thoughts regarding the benefits of doing an in-camera film
+- **Brainstorming:** Brainstorm at least five story ideas and use the “Fairy Tale Template for a Short Film” to write your story for your short film.
+
+*Note that these learning activities are ungraded, but designed to help you succeed in your assessments in this course.*
+
+```
+
+## Assessment {-}
+
+See the Assessment section in Moodle for assignment details and due dates.
+
+
+<!--
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+<!-- [plugin:content-inject](_schedule)
 
 
 - Read the first section of Chapter 6 and watch [Visual Storytelling 101](https://www.youtube.com/watch?v=iWQQgZh9EyE).  
@@ -53,13 +67,18 @@ Here is a checklist of learning activities you will benefit from in completing t
 - In-Camera Exercise (10%)
 
 - Log in your journal what you learned from the creating and filming of your In-Camera exercise.
+-->
 
-```
 
 ### Resources {-}
 
 Here are the resources you will need to complete this unit.
 
+- Chapter 6 of course text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft,* by Ned Vankevich (e-text)
+- Other online resources will be provided in the unit.
+
+
+<!--
 - Chapter Six course text  
 - [Visual Storytelling 101](https://www.youtube.com/watch?v=iWQQgZh9EyE)  
 - [Visual Storytelling in Filmmaking](https://www.youtube.com/watch?v=4X5xvlTZpcY)  
@@ -68,9 +87,9 @@ Here are the resources you will need to complete this unit.
 - [The eyeline match](https://www.youtube.com/watch?v=y_1H6V7uyYc)  
 - [Screen Direction rule](https://www.youtube.com/watch?v=9XOn5uxdSJc)  
 
-<!-- //todo #7 -->
+<!-- //todo #7
 - [Filmmaking Tutorial: Head room, lead room & Framing](https://www.youtube.com/watch?v=0pd0K2u1Bk8) YouTube, LightsFilmSchool.  
-
+-->
 
 ## In-Camera Project and Its Benefits
 
@@ -91,27 +110,29 @@ Here you will be forced to shoot at a location and move to the next, and if the 
 
 ```{block2, type='reflect'}
 
-#### Read, Reflect and View {-}
+#### Read, Study and Reflect{-}
 
-Read the first section of Chapter 6 about the benfits of doing an in-camera film. Write in your journal your initial thoughts regarding this assignment. Does it thrill and excite you or make you apprehensive and anxious? Or maybe a combination of these feelings and emotions. As artists we need to get in touch with our feelings and learn to work with them not fear them.
+Read and study Chapter 6. Write in your journal your initial thoughts regarding the benefits of doing an in-camera film. Does it thrill and excite you or make you apprehensive and anxious? Or maybe a combination of these feelings and emotions. As artists we need to get in touch with our feelings and learn to work with them not fear them.
 
-Share with your classmates your responses. This can help foster tighter bonds among you as you realize you are not alone in your feelings or need of support.
-
-To prime your imagination for the upcoming project, view this resource:
+To prime your imagination for the upcoming project, watch the video [Visual Storytelling 101](https://www.youtube.com/watch?v=iWQQgZh9EyE){target="_blank”}
 
 <div class="video-container">
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iWQQgZh9EyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 </div>
 
+```
+<!--
 What was your best take-away from it? Log this in your journal and if there is time, share your insights with your facilitator and classmates.
 
-```
 
 ```{block2, type='caution'}
 
 **Note:** that this learning activity is ungraded, but is designed to help you succeed in your assessments in this course.
 
 ```
+-->
 
 ## Secrets to a Simple Story
 
@@ -125,18 +146,6 @@ In order to do this first project, you will need to come up with a story to film
 
 You need to keep this simple formula in mind in the projects ahead. There will be many forces and temptations that will distract you and pull you away from this simple understanding. Resist them and go back to basics if you get lost, confused, or frustrated.
 
-### Learning Activities {-}
-
-<!-- [plugin:content-inject](../_6-2) -->
-
-```{block2, type='reflect'}
-
-#### Read and Reflect {-}
-
-Study the next section in the course text Secrets to a Simple Story. What stands out for you? Did it inspire you? Did it help you find a good story concept to film? Log these observations and reflections in your course journal.
-
-```
-
 ## Brainstorming and Successful Creativity
 
 The secret to a story sounds simple and it is. We need to create a character with a goal and stakes (the painful consequences that will happen to the character) who has to overcome opposition to that goal and an ending that reveal whether or not the character obtains the goal.
@@ -149,6 +158,20 @@ The great thing about brainstorming is that you do not have to judge and critici
 
 Even if you already have a story idea that you want to film you are strongly encouraged to engage in brainstorming activities during this section and the rest of the course. If you do, you unleash more of your creativity and you will most likely find a better story concept.
 
+<!--
+### Learning Activities {-}
+
+<!-- [plugin:content-inject](../_6-2)
+
+```{block2, type='reflect'}
+
+#### Read and Reflect {-}
+
+Study the next section in the course text Secrets to a Simple Story. What stands out for you? Did it inspire you? Did it help you find a good story concept to film? Log these observations and reflections in your course journal.
+
+```
+-->
+
 
 ### Learning Activities {-}
 
@@ -158,6 +181,19 @@ Even if you already have a story idea that you want to film you are strongly enc
 
 #### Brainstorming {-}
 
+After you feel you have a good grasp of brainstorming, engage in the process and come up with 5 story concepts that fit the criteria in the previous topic:
+
+- One or two main characters.
+- A single problem or conflict.
+- Knowing your genre (will your film be funny, dramatic, scary, etc.?).
+- A simple setting or number of locations.
+- A satisfying ending. After you have done this go through your concept list and choose your top one and apply it to the template in the next topic.
+
+**Helpful Hint:** If you find yourself stuck and can’t come up with a story concept, tell your facilitator and have a group brainstorming session. Take one of the ideas and develop it. Share your concept if you are stuck finding one of the criteria such as a goal or stakes and ask for brainstorming help to solve the problem. Remember, film is mostly a collaborative venture. 
+
+```
+
+<!--
 Study the Brainstorming section in Chapter 6, including the Steps for Successful Brainstorming and the Tips for Success Creativity. Then consult these resources:
 
 - <a href="https://www.studiobinder.com/blog/short-film-ideas-you-can-actually-produce/"> 30 Ways to Brainstorm Short Film Ideas You Can Actually Produce </a>
@@ -173,13 +209,13 @@ After you feel you have a good grasp of brainstorming, engage in the process and
 
 After you have done this go through your concept list and choose your top one and apply it to the template in the next topic.
 
-```
 
 ```{block2, type='caution'}
 
 **Helpful Hint**: If you find yourself stuck and can’t come up with a story concept, tell your facilitator and have a group brainstorming session. Take one of the ideas and develop it. Share your concept if you are stuck finding one of the criteria such as a goal or stakes ask for brainstorming help to solve the problem. Remember, film is mostly a collaborative venture.
 
 ```
+-->
 
 ## Short Film Story Template
 
@@ -199,7 +235,7 @@ Have fun with this template process. Also do not forget to use brainstorming for
 
 Once you have brainstormed and have a clear and solid concept film, e.g., a student who has the power to turn things in gold, use the template below and write your story for your short film by filling in the blanks.
 
-Study the illustration example given in the chapter and then apply the process to the creation of your film story. In crafting your story you are not allowed to use dialogue beyond “yes,” “no,” and “okay.” That is, you must find visual ways to establish your story’s setup and context and its build and payoff. For example, you cannot have you character say “I am on my way to the store.” You will just show him or her getting in the car, driving, arriving at the store parking lot, and entering the store. (This has visual direction vectors discussed below in Topic 5.)
+Study the illustration example given in the chapter and then apply the process to the creation of your film story. In crafting your story you are not allowed to use dialogue beyond “yes,” “no,” and “okay.” That is, you must find visual ways to establish your story’s setup and context and its build and payoff. For example, you cannot have your character say “I am on my way to the store.” You will just show him or her getting in the car, driving, arriving at the store parking lot, and entering the store. (This has visual direction vectors discussed below in Topic 3.)
 
 #### Fairy Tale Template for a Short Film {-}
 
@@ -241,13 +277,15 @@ Study the illustration example given in the chapter and then apply the process t
 **And Forever After (or Not) \_\_\_\_\_\_\_\_\_.**
       *Establish the end of the story and its closure which can be happy or sad.*
 
+```
+<!--
 Are you happy with your story? Do you have to make revisions? You should go through at least three drafts of your story to make sure it works. Test your story out on you family and friends. Ask them if it works but remember they are not filmmakers or professional critics so ignore things when they are too petty or too subjective.
 
 Read through the section in Chapter 6 on creating a Short Story Film Template.
 
 Be sure to lay out your story in single lines of action that can be filmed as in the example of PANIC in Chapter 6.
+-->
 
-```
 
 ## Direction Vectors and Eyeline Requirements
 
@@ -271,19 +309,36 @@ These requirements should not worry you since you have explored and tried many o
 
 #### Resources on Direction Vectors and Eyeline Requirements {-}
 
+In order to do well and follow the direction vectors and eyeline requirements for this first film project, be sure to consult the following resources which explain them in visual ways. As you do so, pre-visualize how you will film your project:
+
+<!--
 Read the next section in Chapter 6. In order to do well and follow the direction vectors and eyeline requirements for this first film project, be sure to consult the following resources which explain them in visual ways. <span class="underline">As you do so, pre-visualize how you will film your project</span>:
+-->
 
+[Watch: The eyeline match](https://www.youtube.com/watch?v=y_1H6V7uyYc){target="_blank”}
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/y_1H6V7uyYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/y_1H6V7uyYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+---
+
+[Watch: Screen Direction rule](https://www.youtube.com/watch?v=9XOn5uxdSJc){target="_blank”}
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9XOn5uxdSJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9XOn5uxdSJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+---
 
  <!-- //todo #8 
-[plugin:youtube](https://www.youtube.com/watch?v=0pd0K2u1Bk8) -->
+[plugin:youtube](https://www.youtube.com/watch?v=0pd0K2u1Bk8)
 
-In addition, be sure to review Units 3, 4, and 5 to make sure your shots will be well composed and that you will incorporate a variety of camera angles.
+In addition, be sure to review Units 3, 4, and 5 to make sure your shots will be well composed and that you will incorporate a variety of camera angles.-->
 
 Happy filming!
 
@@ -306,20 +361,34 @@ In this unit, you learned about:
 
 ```{block2, type='assessment'}
 
+<span class="blockhead">Assignment: Final Exam</span>
+
+After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
+
+Also, log in your journal what you learned from the creating and filming of your In-Camera exercise. Log what you thought about the films of your peers and what you learned from the feedback from them and your instructor.
+
+Be sure to make a note of what films stood out and who did them. You will consult this at the end of the course when the class determines: Best Overall Film. Most Imaginative Film, Best Story, Best Cinematography, Best Editing, etc.
+
+*See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
+
+
+```
+
+<!--
 ### Assignment :  {-}
 
 **Film Journal**
 After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
+-->
 
-```
-
+<!--
 ```{block2, type='caution'}
 
 **Note:** that entries are expected for every unit.  Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 30% of your course grade.
 
 ```
 
-<!-- [plugin:content-inject](../../assignments/_assignment-6) -->
+ [plugin:content-inject](../../assignments/_assignment-6) 
 
 ```{block2, type='assessment'}
 
@@ -399,7 +468,7 @@ See the course syllabus for more detail on the qualitative criteria for a grade.
 
 Now that you know what must be done and how you will be evaluated, check to make sure your story can accomplish the above requirements and that you can execute it accordingly.
 
-<!-- [plugin:content-inject](../_6-6) -->
+ [plugin:content-inject](../_6-6) 
 
 #### Assignment Reflection {-}
 
@@ -408,6 +477,7 @@ Log in your journal what you learned from the creating and filming of your In-Ca
 Be sure to make a note of what films stood out and who did them. You will consult this at the end of the course when the class determines: Best Overall Film. Most Imaginative Film, Best Story, Best Cinematography, Best Editing, etc.
 
 ```
+-->
 
 ## Checking your Learning {-}
 
