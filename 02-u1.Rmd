@@ -104,22 +104,26 @@ During this course you are encouraged to keep a “Film Journal.” This is impo
 
 Also, note that you may be asked to use your journal entries to participate in discussions, presentations, and other learning activities in the FAR Centre Facilitated Learning Labs. Please check with your facilitator about specific due dates for activities, including journal responses.
 
-#### Film Journal Entry: {-}
+#### Unit 1 Film Journal Entry: {-}
 
 Based on the importance of the course journal make your first two entries for this unit:
 
 - **Entry One:** After reading the course text Introduction, describe your best take-aways of what you have learned.
 - **Entry Two:** Study the recommended how-to-write-a-journal resources and log what you learned from them and how it will help you during the course.
-- [How to Start a Creative Journal](https://karenbanes.com/how-to-start-a-creative-journal) (Be sure to click on the internal links on this website)  
-- [How to Journal Every Day for Increased Productivity, Clarity, and Mental Health](https://www.youtube.com/watch?v=hUTWo7_W0lc)  
+- [How to Start a Creative Journal](https://karenbanes.com/how-to-start-a-creative-journal) (Be sure to click on the internal links on this website){target="_blank”}
+- [How to Journal Every Day for Increased Productivity, Clarity, and Mental Health](https://www.youtube.com/watch?v=hUTWo7_W0lc){target="_blank”}
+
+**NOTE:** *your journal entries do not have to be long but they should be detailed and specific enough to indicate that you have engaged the course material and projects.*
 
 ```
 
+<!--
 ```{block2, type='caution'}
 
 **NOTE** : your journal entries do not have to be long but they should be detailed and specific enough to indicate that you have engaged the course material and projects.
 
 ```
+-->
 <!--
 ### Learning Activities {-}
 -->
@@ -162,7 +166,7 @@ One of the transferable life skills of this course is to help us be more profess
 
 At the same time we must not confuse excellence with perfection. Our beginning films and projects will have lots of mistakes and things that do not work. This should not deter us from our goal of excellence. All great artists, athletes, business leaders, and a host of other professional make mistakes. The key is to learn from them and to keep improving our craft.
 
-HELPFUL HINT: For insight into how great artists, athletes, and performers use mistakes to grow in their art and craft see the following book by Daniel Coyle: [THE TALENT CODE: GREATNESS ISN’T BORN. IT’S GROWN. HERE’S HOW](http://danielcoyle.com/the-talent-code/).
+HELPFUL HINT: For insight into how great artists, athletes, and performers use mistakes to grow in their art and craft see the following book by Daniel Coyle: [THE TALENT CODE: GREATNESS ISN’T BORN. IT’S GROWN. HERE’S HOW](http://danielcoyle.com/the-talent-code/){target="_blank”}.
 
 Our goal then is to learn how to seek to produce visually-driven, digital film stories that are technically and artistically proficient, meaningfully engaging, motivated, and fraught with excellence.
 
@@ -180,7 +184,7 @@ Read Chapter One “Project Excellence and Professionalism” in the course text
 
 As you study and ponder what excellence and what professional and personal development mean, log in your journal why they are important and how you hope to focus on them during the course. Which character traits are your strongest and which do you need to work on? How will you do this? To help you with these entries study this resource:
 
-[How To Grow Professionally](https://brandyourself.com/blog/guide/how-to-grow-professionally/)
+[How To Grow Professionally](https://brandyourself.com/blog/guide/how-to-grow-professionally/){target="_blank”}
 
 ```
 
@@ -288,14 +292,18 @@ In this first unit, you have had the opportunity to learn about what this course
 
 After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
 
-Note that entries are expected for every unit.  Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 30% of your course grade.
-
-
-#### Grading Criteria: {-}
+Note that entries are expected for every unit.  Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 10% of your course grade.
 
 See the Assessments section for more details on submitting your journal, as well as the grading criteria.
 
 ```
+
+<!--
+#### Grading Criteria: {-}
+
+See the Assessments section for more details on submitting your journal, as well as the grading criteria.
+
+-->
 
 ## Checking your Learning {-}
 

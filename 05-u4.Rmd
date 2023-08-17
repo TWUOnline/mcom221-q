@@ -31,27 +31,34 @@ When you have completed this unit, you should be able to:
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
  <!-- [plugin:content-inject](_schedule) -->
-
+<!--
 - Read the first section in Chapter 4 “Types of Cinematic Motion Shots”  
 - Practice doing as many of the main types of motion shots as you can. Discuss what you did and why with your peers in the Learning Lab.  
 - Read the rest of Chapter 4 in your textbook. Find someone to film and practice each of the cinematic motion techniques with your cell phone.  
+-->
 
+- **Read and Study:** Read and study Chapter 4  of course e-text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft.*
+- **Motion Shots Practice:** Practice doing as many of the main types of motion shots as you can. Discuss what you did and why with your peers.
+- **Proper Motivation Practice:** Find someone to film and practice each of the cinematic motion techniques with your cell phone.
+
+```
+
+<!--
 **Assessment**
 
 - Film Journal  
 - Motivated Camera Movement Exercise (ungraded, but part of journal entry)  
+-->
 
-```
 
 ### Resources {-}
 
 Here are the resources you will need to complete this unit:
 
 - Chapter Four of the course text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft*, by Ned Vankevich
-- “[8 Basic Types of Camera Movements](https://www.youtube.com/watch?v=g6zMtnLC50w)”  
-- “[5 Brilliant Moments of Camera Movement](https://www.youtube.com/watch?v=h2c3JZ6X3f8)”  
-- “[Perfect your Film with Cinematic Motion](https://www.youtube.com/watch?v=VPfKsdPsS5w)”  
-- Guidelines for Motion Exercises  
+- [8 Basic Types of Camera Movements](https://www.youtube.com/watch?v=g6zMtnLC50w){target="_blank”}
+<!--[5 Brilliant Moments of Camera Movement](https://www.youtube.com/watch?v=h2c3JZ6X3f8){target="_blank”}-->
+- [Perfect your Film with Cinematic Motion](https://www.youtube.com/watch?v=VPfKsdPsS5w){target="_blank”}
 - Other online resources will be provided in the course text and unit.  
 
 ## Types of Cinematic Motion Shots {-}
@@ -87,24 +94,33 @@ The main types of motion shots include:
 
 #### Motion Shots Reading {-}
 
- Study the first section in Chapter 4 “Types of Cinematic Motion Shots” to help you understand the different types of motion shots. Be sure to take notes and begin logging and identifying shot ideas you want to try and practice. Actively taking notes as you read is a great way to absorb the material.
+Study Chapter 4  of course e-text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft.* This chapter will help you understand the different types of motion shots. Be sure to take notes and begin logging and identifying shot ideas you want to try and practice. Actively taking notes as you read is a great way to absorb the material.
 
  <!-- [plugin:content-inject](../_4-2) -->
 
 #### Motion Shots Practice {-}
 
- Study the definitions of the main types of motion shots and how to do them. Then practice doing as many of them as you can. (Obviously you cannot do a GoPro or drone shot without that specific equipment, but you might be imaginative and find an alternative to do a similar type of shot.)
+Study the definitions of the main types of motion shots and how to do them. Then practice doing as many of them as you can. (Obviously you cannot do a GoPro or drone shot without that specific equipment, but you might be imaginative and find an alternative to do a similar type of shot.)
 
- Write in your journal your observations about each type of shot and what you learned from doing them. Share these insights and questions with your class mates when you meet.
+Write in your journal your observations about each type of shot and what you learned from doing them. <!--Share these insights and questions with your class mates when you meet.Before moving on to the next topic, view the following resources to augment your understanding of camera movement-->
 
-Before moving on to the next topic, view the following resources to augment your understanding of camera movement
+#### Watch and Learn {-}
+
+Before moving on to the next topic, watch the video [“5 Brilliant Moments of Camera Movement”](https://www.youtube.com/watch?v=h2c3JZ6X3f8){target="_blank”} to augment your understanding of camera movement
 
 <div class="video-container">
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/h2c3JZ6X3f8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 </div>
+
+---
+
+**Note:** *Do not try doing zoom shots with your cell camera unless you have a special app that makes it smooth. Squeezing your finger in and out to move closer or further away from your subject will result in a shaky shot. Our goal is to disguise movement, not to draw attention to it.*
 
 ```
 
+<!--
 ```{block2, type='caution'}
 
 **Note:** that this learning activity is ungraded, but is designed to help you succeed in your assessments in this course.
@@ -112,6 +128,7 @@ Before moving on to the next topic, view the following resources to augment your
 *In addition, do not try doing zoom shots with your cell camera unless you have a special app that makes it smooth.  Squeezing your finger in and out to move closer or further away from your subject will result in a shaky shot.  Our goal is to disguise movement, not to draw attention to it.*
 
 ```
+-->
 
 ## Properly Motivated Camera Moving Shots
 
@@ -119,9 +136,9 @@ A classical approach to filmmaking involves using shot and techniques that are m
 
 The following sections will help you have properly motivated and framed movement within the frame.
 
-- **Properly Motivated Movement Shots**
-- **Proper Placement in the Frame**
-- **Motivated Unmotivated Camera Movement**
+- Properly Motivated Movement Shots
+- Proper Placement in the Frame
+- Motivated Unmotivated Camera Movement
 
 ### Learning Activities {-}
 
@@ -129,11 +146,20 @@ The following sections will help you have properly motivated and framed movement
 
 ```{block2, type='reflect'}
 
-#### Proper Motivation Exercise and Practice {-}
+#### Activity: Proper Motivation Exercise and Practice {-}
 
-Read the rest of Chapter 4 in your textbook.
+After you have viewed the resources and studied the properly motivated camera movements, find someone to film and practice each of the techniques with your cell phone. For inspiration and how-to-do techniques watch the video [“8 Cinematic Camera Moves For Video”](https://www.youtube.com/watch?v=6_p93J3OwfU){target="_blank”}
 
-- After you have viewed the resources and studied the properly motivated camera movements, find someone to film and practice each of the techniques with your cell phone.
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6_p93J3OwfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+```
+
+<!--
+After you have viewed the resources and studied the properly motivated camera movements, find someone to film and practice each of the techniques with your cell phone.
 
 For inspiration and how-to-do techniques view this resource: 8 Cinematic Camera Moves For Video
 
@@ -146,8 +172,7 @@ Bring your best shots to the Learning Lab to share with your facilitator and cla
 
 See the Assessment section for more guidelines and criteria for evaluating this exercise.
 
-```
-
+-->
 
 
 ## Summary {-}
@@ -160,10 +185,26 @@ In this unit, you learned about cinematic motion and how to motivate it and do i
 
 ```{block2, type='assessment'}
 
-## Motivated Camera Movement Exercise {-}
+<span class="blockhead">Final Exam</span>
 
-*(ungraded, but part of journal entry)*
+After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
 
+Note that entries are expected for every unit. Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 10% of your course grade.
+
+*See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
+
+<span class="blockhead">Motivated Camera Movement Exercise</span>
+
+*This activity is ungraded, but part of journal entry*
+
+For this exercise on motion, you will shoot **5 different types** of motivated kinetic shots, e.g., a pan, tilt, zoom, following action shot, etc. that have smooth motion from the beginning to the end of the shot and “disguise” the camera technique by matching the rate of camera move and subject movement.
+
+See the Assessments section for more details, as well as the grading criteria.
+
+```
+
+<!--*(ungraded, but part of journal entry)*-->
+<!--
 For this exercise on motion, you will shoot **5 different types** of motivated kinetic shots, e.g., a pan, tilt, zoom, following action shot, etc. that have smooth motion from the beginning to the end of the shot and “disguise” the camera technique by matching the rate of camera move and subject movement.  
 
 In our quest to learn the art of excellent filmmaking we will focus on creating motivated motion shots. In doing this we can use shots that are context-centered or context-free.  
@@ -185,9 +226,10 @@ rather than launching immediately into the shot and action you take a beat or sh
 shot for at least a second before the person leaves the frame and you turn off the camera. You will discover later that is important to have a clean open and clear end when editing shots together.
 
 Be sure to rehearse the shots and to do multiple takes. Only bring your best example of each shot type to class. The more you practice the better you will get.
+-->
 
-```
 
+<!--
 ```{block2, type='caution'}
 
 **Helpful Reminder**: Do not forget to create well composed shots. Review the principles of good composition and design from the last unit.
@@ -273,7 +315,7 @@ Continue to cultivate a good learning perspective. Look upon the exercise and as
 
 See the Assessments section for more details, as well as the grading criteria.
 
- <!--[plugin:content-inject](../../assignments/_film-journal) -->
+ <!--[plugin:content-inject](../../assignments/_film-journal) 
 
 ### Assignment 1: Film Journal {-}
 
@@ -282,6 +324,7 @@ After completing this unit, including the learning activities, you are asked to 
 Note that entries are expected for every unit.  Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 30% of your course grade.
 
 ```
+-->
 
 ## Checking your Learning {-}
 

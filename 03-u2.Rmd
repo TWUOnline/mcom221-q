@@ -49,11 +49,14 @@ Next, watch [Pitching and Pre-Production: Crash Course Film Production #2](https
 - Read and study Chapter 2, and answer to the questions provided
 - Share in your journal what you learn from shooting a film from start to finish.
 
-
-**Assessment :** 
-- Film Journal
+*Note that while this learning activity is ungraded, it is designed to help you succeed in your assessments in this course.**
 
 ```
+
+### Assessment {-}
+
+See the Assessment section in Moodle for assignment details and due dates.
+
 
 ### Resources {-}
 
@@ -192,20 +195,30 @@ Helpful Hint: Don’t multi-task during the viewing of resources. It will divide
 
  - **Audio Mixing** which involves finding the right levels and balance between the sound elements such as dialogue, music, sound effects, room tone, etc.  
 
- - **Format Delivery**: What resolution will you use to export your film project? The wrong one can undermine the quality of your film.  
-
- As can be gleaned, there is a lot to post-production but by carefully studying and practicing the units ahead it will make it easier.
-
- If you are feeling overwhelmed and intimidated, you will not be alone. This is a lot to do and learn and this is why the bigger film projects can be done with team members.</p>
-</details>
+ - **Format Delivery**: What resolution will you use to export your film project? The wrong one can undermine the quality of your film.As can be gleaned, there is a lot to post-production but by carefully studying and practicing the units ahead it will make it easier.</p>
+  </details>
+ 
+If you are feeling overwhelmed and intimidated, you will not be alone. This is a lot to do and learn and this is why the bigger film projects can be done with team members.</p>
 
 
-### Learning Activities {-}
+## Learning Activity
+
+### Activity: Reflect and Share {-}
+
+```{block2, type='reflect'}
+
+Based on this unit and your reading of Chapter 2 in the course text, share in your journal why knowing the overall process is important and what you learned most from this unit.
+
+Share also if you are feeling intimidated. Remember all but one of the graded assignments will be done in teams so you will not have to do it all alone.
+
+```
+
+<!--
+### Learning Activities {-}-->
 
  <!-- [plugin:content-inject](../_2-2) -->
-
-
-#### Pre-Production Planning {-}
+<!--
+#### Reflect and Share {-}
 
 Read the Pre-Production section of the course text. What part of the pre-production process appeals to you most? Why? Log this in your journal and share your responses with your facilitator and classmates when you meet for this unit.
 
@@ -222,6 +235,7 @@ Murphy’s Law states that “what can go wrong will go wrong” but many people
 
 <!-- [plugin:content-inject](../_2-3) -->
 
+<!--
 ```{block2, type='reflect'}
 
 #### Shooting a Scene {-}
@@ -234,15 +248,14 @@ View this resource to get a feel for what is involved in shooting a scene:
 [plugin:youtube](https://www.youtube.com/watch?v=y9_LW5H2EC4) 
  <!-- //todo #5 -->
 
-What did you learn from this? Share this with your Facilitator and classmates.
+<!--What did you learn from this? Share this with your Facilitator and classmates.
 
 ```
-
 
 ### Learning Activities {-}
 
 <!-- [plugin:content-inject](../_2-4) -->
-
+<!--
 ```{block2, type='assessment'}
 
 #### Reflect and Share {-}
@@ -252,6 +265,8 @@ Based on this unit and your reading of Chapter 2 in the course text, share in yo
 Share also if you are feeling intimidated. Remember all but one of the graded assignments will be done in teams so you will not have to do it all alone.
 
 ```
+-->
+
 
 ## Summary {-}
 
@@ -267,17 +282,22 @@ In this unit, you learned about the overall process of making a film as well as 
 
 ```{block2, type='assessment'}
 
-### Assignment 1: Film Journal {-}
+<span class="blockhead">Assignment 1: Film Journal</span>
 
 After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
 
 Note that entries are expected for every unit.  Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 30% of your course grade.
 
+*See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
+
+```
+
+<!--
 #### Grading Criteria: {-}
 
 See the Assessments section for more details on submitting your journal, as well as the grading criteria.
+-->
 
-```
 
 ## Checking your Learning {-}
 
@@ -286,11 +306,8 @@ See the Assessments section for more details on submitting your journal, as well
 Before you move on to the next unit, you may want to check to make sure that you are able to:
 
 - Describe the big picture of the film production process  
-
 - Determine what is involved in each phase and why it is important  
-
 - Capture an overview of what lies ahead  
-
 - Define why excellence should be the bench mark of each phase  
 
 ```

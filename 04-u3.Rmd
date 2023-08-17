@@ -31,12 +31,18 @@ Here is a checklist of learning activities you will benefit from in completing t
 
  <!-- [plugin:content-inject](_schedule) -->
 
+<!--
 - Read Chapter 3 - Elements of Composition and [11 Thoughts: An Introduction to Photographic Composition](https://www.bhphotovideo.com/explora/photography/tips-and-solutions/11-thoughts-introduction-photographic-composition), by Todd Vorenkamp.  
 
 - Study resources on techniques and principles of design. Read the next section of Chapter 3, Principles of Composition.  
 
 - Explore images online. Read the next section of Chapter 3 in the course text - Photographic Themes.  
+-->
 
+- Read and study Chapter 3 of course e-text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft.*
+- Read the article “11 Thoughts: An Introduction to Photographic Composition” by Todd Vorenkamp and reflect on the question provided.
+- Read the article “20 Composition Techniques That Will Improve Your Photos”, and practice and apply techniques and principles of design.
+- Review the suggested websites to enrich your understanding of photographic themes and find images that stand out in intriguing, startling, fascinating, and emotionally moving ways.
 
 **Assessment**
 
@@ -49,6 +55,10 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 Here are the resources you will need to complete this unit:
 
+- Chapter 3 of course text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft,* by Ned Vankevich (e-text)
+- Other online resources will be provided in the unit.
+
+<!--
 - Chapter Three of course text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft*, by Ned Vankevich (e-text)  
 - [The Visual Elements: The Building Blocks of Composition in Art](http://www.artyfactory.com/art_appreciation/visual-elements/visual-elements.html)  
 - [20 Composition Techniques That Will Improve Your Photos](https://petapixel.com/2016/09/14/20-composition-techniques-will-improve-photos/)  
@@ -57,8 +67,12 @@ Here are the resources you will need to complete this unit:
 - [Principles of Design](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf)  
 - Guidelines for Visual Composition Assignment.  
 - Other resources will be provided in the unit.  
+-->
 
-## Elements of Composition
+
+## Elements and Principles of Composition
+
+### Elements of Composition {-}
 
 At heart, visual composition means the intentional arrangement or conscious activity of constructing the “ingredients” of an image. As we grow in our filmmaking craft, we must continually be aware of what takes place within the frame (the border of a picture or a film shot). Focusing on a single image can help train us to do this.
 
@@ -78,23 +92,7 @@ The following are some of the formal elements that make up the design and struct
 - Space (positive/objects); (negative/space between objects)  
 - Depth (foreground/mid-ground/background)  
 
-
-
-### Learning Activities {-}
-
- <!-- [plugin:content-inject](../_3-1) -->
-
-#### Viewing and Studying Elements of Visual Composition {-}
-
-Read the section Elements of Composition in Chapter 3. Be sure to study each of the images provided in this section and how the elements are used. This will increase your understanding of how they function in visual compositions.
-
-Before exploring the rest of this chapter, study this essay to help guide you during the process we are exploring: [11 Thoughts: An Introduction to Photographic Composition](https://www.bhphotovideo.com/explora/photography/tips-and-solutions/11-thoughts-introduction-photographic-composition), by Todd Vorenkamp.
-
-Helpful Hint: New York-based B and H Photo is a great resource for buying and learning about photographic and film and video gear.
-
-Based on your study of this section, what are some observations you can share in your journal and with you facilitator and classmates?
-
-## Principles of Composition {-}
+### Principles of Composition {-}
 
 In addition to elements of design, there are also principles or general rules that help give structure to visual compositions and which can also lend meaning or a theme to an image. Elements are specific things whereas principles are more general. Here are four that the course text focuses on:
 
@@ -107,15 +105,36 @@ There are many other principles such as the use of triangles and frame within a 
 
 ### Learning Activities {-}
 
+ <!-- [plugin:content-inject](../_3-1) -->
+
+### Activity: Read and Study {-}
+
+```{block2, type='reflect'}
+
+Read and study Chapter 3. Be sure to study each of the images provided in this section and how the elements are used. This will increase your understanding of how they function in visual compositions.
+Before exploring the rest of this chapter, study this essay to help guide you during the process we are exploring:[11 Thoughts: An Introduction to Photographic Composition](https://www.bhphotovideo.com/explora/photography/tips-and-solutions/11-thoughts-introduction-photographic-composition){target="_blank”}, by Todd Vorenkamp.
+
+***Helpful Hint:*** *New York-based B and H Photo is a great resource for buying and learning about photographic and film and video gear.*
+
+<span class="blockhead">Question to  Consider</span>
+
+Based on your study of this section, what are some observations you can share in your journal and with you facilitator and classmates?
+
+```
+
+### Readings on Techniques and Principles of Composition {-}
+
+```{block2, type='reflect'}
+
  <!-- [plugin:content-inject](../_3-2) -->
 
-#### Readings on Techniques and Principles of Composition {-}
-
- Study these helpful resources: [20 Composition Techniques That Will Improve Your Photos](https://petapixel.com/2016/09/14/20-composition-techniques-will-improve-photos/), and "[Principles of Design](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf).  
+Study these helpful resources: [20 Composition Techniques That Will Improve Your Photos](https://petapixel.com/2016/09/14/20-composition-techniques-will-improve-photos/){target="_blank”}, and "[Principles of Design](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf){target="_blank”}
 
 Read the next section of Chapter 3, Principles of Composition, and see if you have a richer understanding of composition. Log your observations in your journal.
 
 Find an example of the use of frame-within-a-frame and triangular composition and share them with your facilitator and classmates.  
+
+```
 
 ## Photographic Themes
 
@@ -125,24 +144,27 @@ A more advanced approach to composition involves the use of creating a theme or 
 
 As you grow in your composition skills you will discover how to add more depth, interest, and meaning to your photographs and images.
 
-### Learning Activities {-}
 
 <!-- [plugin:content-inject](../_3-3) -->
 
-#### Read and Explore {-}
+### Activity: Read and Explore {-}
+
+```{block2, type='reflect'}
 
 You do not have to create a theme for your photographs in this unit. However, studying websites like the following can help enrich your understanding and find images that stand out in intriguing, startling, fascinating, and emotionally moving ways.  
 
-- [34 Powerful Photos That Tell a Story](https://www.jotform.com/blog/35-powerful-photos-that-each-tells-a-story/)  
+- [34 Powerful Photos That Tell a Story](https://www.jotform.com/blog/35-powerful-photos-that-each-tells-a-story/){target="_blank”}
 -  [Walker Evans MoMA Exhibit](https://www.moma.org/artists/1777)  
-- The outstanding Depression Era works of Dorothea Lange are also rich with theme. See "[The History Place Dorothea Lange](http://www.historyplace.com/unitedstates/lange/)".  
-- [Top 10 Most Famous Portrait Photographers In The World](https://www.boredpanda.com/top-10-photographers-for-travel-portraits/?utm_source=google&utm_medium=organic&utm_campaign=organic)  
+- The outstanding Depression Era works of Dorothea Lange are also rich with theme. See [The History Place Dorothea Lange](http://www.historyplace.com/unitedstates/lange/){target="_blank”} 
+- [Top 10 Most Famous Portrait Photographers In The World](https://www.boredpanda.com/top-10-photographers-for-travel-portraits/?utm_source=google&utm_medium=organic&utm_campaign=organic){target="_blank”}
 
-Helpful Hint: The photographs of Walker Evans and Dorethea Lange cited above are almost one-hundred years old. But they reveal the way their heartfelt themes and beauty are universal and timeless—the goal of excellent photos.
+***Helpful Hint:*** *The photographs of Walker Evans and Dorethea Lange cited above are almost one-hundred years old. But they reveal the way their heartfelt themes and beauty are universal and timeless—the goal of excellent photos.*
 
-Study the next section of Chapter 3 in the course text - Photographic Themes.
+<!--Study the next section of Chapter 3 in the course text - Photographic Themes.-->
 
 Log in your journal and share with a peer in your course what you learned about photographic themes.
+
+```
 
 ## Summary {-}
 
@@ -154,31 +176,41 @@ We have emphasized composition here because well composed shots are a foundation
 
 ## Assessment {-}
 
-<!-- [plugin:content-inject](../../assignments/_composition_exercise) -->
+```{block2, type='assessment'}
 
-### Assignment {-}
+<!-- [plugin:content-inject](../../assignments/_composition_exercise) -->
 
 <!-- [plugin:content-inject](../../assignments/_film-journal)  -->
 
-**Film Journal**
+<span class="blockhead">Film Journal</span>
 
 After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
 
-**Composition Exercise**
+Note that entries are expected for every unit. Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 10% of your course grade.
+
+*See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
+
+<span class="blockhead">Composition Exercise</span>
+
+*This activity is ungraded, but part of journal entry*
 
 Congratulations! You have earned the right to shoot your first assignment for the course.
 
 After you have done some composition research and explored great photographers and photos and their compositional techniques and aesthetics, review Chapter 3 and go out and find and create five outstanding visual compositions with your camera (cell phone, DSLR, etc.).  Share these with your family, friends, and peers and get their feedback about what worked and did not work. When you have found your best images upload them to the course online folder where the class assignments will be stored.  
 
-Remember, the name of the game is to learn not to be perfect.  
+Remember, the name of the game is to learn not to be perfect.bRefer to the specific guidelines in the assessment section. Be sure to study them carefully.
 
-Refer to the specific guidelines in the assessment section. Be sure to study them carefully.
+See the Assessments section for more details on your composition, as well as the grading criteria.
 
+```
+<!--
 #### Grading Criteria {-}
 
 See the Assessments section for more details on your composition, as well as the grading criteria.
 
 Note that entries are expected for every unit.  Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 30% of your course grade.
+-->
+
 
 ## Checking your Learning {-}
 
