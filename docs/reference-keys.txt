@@ -27,11 +27,9 @@ direction-vectors-and-eyeline-requirements
 editing-and-montage
 post-production-workflow
 montage
-picture-cutting-techniques
-types-of-montage-projects
 digital-video-editing-software
-pitching-your-montage-project
-steps-for-creating-your-montage
+montage-project
+creating-your-montage
 creating-narrative-and-other-short-films
 types-of-film
 film-genres
