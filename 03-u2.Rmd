@@ -12,21 +12,16 @@ Like in a story that has a beginning, middle and end, the filmmaking process is 
 
 This unit is divided into the following topics:
 
-1. The Three Phases of Filmmaking  
-2. Pre-Production  
-3. Production  
-4. Post-Production  
+1. The Three Phases of Filmmaking.
+2. Pre-Production, Production, and Post-Production.
 
 ### Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
 - Describe the big picture of the film production process  
-
 - Determine what is involved in each phase and why it is important  
-
 - Capture an overview of the processes you will do during the course  
-
 - Define why excellence should be the benchmark of each phase of filmmaking.  
 
 ### Activity Checklist {-}
@@ -44,12 +39,12 @@ Next, watch [Pitching and Pre-Production: Crash Course Film Production #2](https
 - Share in your journal and with your Facilitator and classmates why knowing the overall process is important and what you learned most from this unit.
 -->
 
-- Watch the video [“Shooting a Film- START to FINISH!”](https://www.youtube.com/watch?v=8NCLf9rF6IQ){target="_blank"}
-- Watch the video [“Pitching and Pre-Production”](https://www.youtube.com/watch?v=JE53JL60ihc){target="_blank"} to learn why pitching is important
+- Watch the video “Shooting a Film- START to FINISH!”
+- Watch the video “Pitching and Pre-Production” to learn why pitching is important.
 - Read and study Chapter 2, and answer to the questions provided
 - Share in your journal what you learn from shooting a film from start to finish.
 
-*Note that while this learning activity is ungraded, it is designed to help you succeed in your assessments in this course.**
+*Note that these learning activities are ungraded, but they are designed to help you succeed in your assessments in this course.*
 
 ```
 
@@ -76,21 +71,19 @@ Here are the resources you will need to complete this unit.
 
 ## The Three Phases of Filmmaking
 
-In Unit 1 we focused on project excellence and great story telling and why they are important. This unit will help obtain these goals by breaking the filmmaking process down into three phases. Each phase depends upon the other and if we if fail to understand and execute each one well, the other phases and the film itself will suffer.
+In Unit 1 we focused on project excellence and great storytelling and why they are important. This unit will help obtain these goals by breaking the filmmaking process down into three phases. Each phase depends upon the other and if we fail to understand and execute each one well, the other phases and the film itself will suffer.
 
 The overall filmmaking process has not changed much over the past century. In short, it involves three phases: Pre-Production—preparing to shoot a project; Production—shooting or filming the project; Post-Production—editing or putting all of the production elements together in a unified final project.
 
 Understanding these three phases is vital to making a great film. You will not have to master each phase, no one can because there are too many elements and skills involved depending on the complexity of the film, its story, and its execution.
 
-### Learning Activities {-}
+### Learning Activity {-}
 
- <!-- [plugin:content-inject](../_2-1) -->
+#### Activity: Shooting a Film {-}
 
 ```{block2, type='reflect'}
 
-#### Shooting a Film {-}
-
- To get a visual representation of the overall filmmaking process view the following resource:
+To get a visual representation of the overall filmmaking process view the following resource:
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8NCLf9rF6IQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
@@ -99,15 +92,10 @@ Don’t worry if you do not know all of the terms he is using such as blocking, 
 
 For now, just watch the video and enjoy the process.
 
-Helpful Hint: Don’t multi-task during the viewing of resources. It will divide your attention and you will not absorb as much content. As with most things in this course—be in the moment and focus on what is at hand.
+**Helpful Hint:** *Don’t multi-task during the viewing of resources. It will divide your attention and you will not absorb as much content. As with most things in this course—be in the moment and focus on what is at hand.*
 
 ``` 
 
-```{block2, type='caution'}
-
-**Note** that while this learning activity is ungraded, it is designed to help you succeed in your assessments in this course.
-
-```
 
 ## Pre-Production, Production, and Post-Production
 
@@ -201,9 +189,9 @@ Helpful Hint: Don’t multi-task during the viewing of resources. It will divide
 If you are feeling overwhelmed and intimidated, you will not be alone. This is a lot to do and learn and this is why the bigger film projects can be done with team members.</p>
 
 
-## Learning Activity
+### Learning Activity {-}
 
-### Activity: Reflect and Share {-}
+#### Activity: Reflect and Share {-}
 
 ```{block2, type='reflect'}
 
@@ -272,9 +260,9 @@ Share also if you are feeling intimidated. Remember all but one of the graded as
 
 In this unit, you learned about the overall process of making a film as well as the steps involved in the following three phases:
 
-- Pre-Production  
-- Production  
-- Post-Production  
+- Pre-Production: this must be done before making a film to save time and help ensure quality, as you write the script, plan the production, and work out the logistics such as casting and finding locations and props.
+- Production: this involves shooting the film and where you use camera angles, camera motions, and the blocking of actors to reveal the meaning of your story and its characters.
+- Post-Production: this involves the editing and completing of your film where you cut the shots and scenes together, and includes adding titling, credits, special effects, music and sound design, and colour grading.
 
 ## Assessment {-}
 

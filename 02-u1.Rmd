@@ -94,7 +94,7 @@ As can be gleaned from the above, this course will start with the most basic ele
 
 ### Learning Activities {-}
 
-#### The Importance of the Film Journal {-}
+#### Activity: The Importance of the Film Journal {-}
 
 ```{block2, type='reflect'}
 
@@ -172,7 +172,7 @@ As you can see excellence and professionalism go hand in hand. In order to grow 
 
 ### Learning Activity {-}
 
-#### Read and Reflect {-}
+#### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
 
@@ -227,7 +227,7 @@ The following will help you to not just do well in this Film project, but will m
 
 ### Learning Activity {-}
 
-#### Reflection {-}
+#### Activity: Reflection {-}
 
 ```{block2, type='reflect'}
 
