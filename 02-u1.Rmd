@@ -102,13 +102,13 @@ During this course you are encouraged to keep a “Film Journal.” This is impo
 
 Also, note that you may be asked to use your journal entries to participate in discussions, presentations, and other learning activities in the FAR Centre Facilitated Learning Labs. Please check with your facilitator about specific due dates for activities, including journal responses.
 
-#### Unit 1 Film Journal Entry: {-}
+<span class="blockhead">Unit 1 Film Journal Entry:</span>
 
 Based on the importance of the course journal make your first two entries for this unit:
 
 - Entry One: After reading the course text Introduction, describe your best take-aways of what you have learned.
 - Entry Two:Study the recommended how-to-write-a-journal resources and log what you learned from them and how it will help you during the course.
-  - [How to Start a Creative Journal](https://karenbanes.com/how-to-start-a-creative-journal) (Be sure to click on the internal links on this website){target="_blank”}
+  - [How to Start a Creative Journal](https://karenbanes.com/how-to-start-a-creative-journal/){target="_blank"}
   - [How to Journal Every Day for Increased Productivity, Clarity, and Mental Health](https://www.youtube.com/watch?v=hUTWo7_W0lc){target="_blank”}
 
 *Note:your journal entries do not have to be long but they should be detailed and specific enough to indicate that you have engaged the course material and projects.*
@@ -225,13 +225,11 @@ The following will help you to not just do well in this Film project, but will m
 - *"You will become clever through your mistakes."* - German Proverb in "The Talent Code"  
 
 
-### Learning Activities {-}
-
- <!-- [plugin:content-inject](../_1-4) -->
-
-```{block2, type='reflect'}
+### Learning Activity {-}
 
 #### Reflection {-}
+
+```{block2, type='reflect'}
 
 Which of the tips in this section appeal to you most? Which do you need to focus on during the course? Write your response in your journal and share with your facilitator and/or classmates which are most important and why. Find an inspiring quote and share it with your peers.
 
