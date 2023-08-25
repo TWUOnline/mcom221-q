@@ -49,11 +49,11 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Reflection on the transferable life skills presented.
 -->
 
-- **The Importance of the Film Journal:** Write your first two Film Journal entries for this unit.
-- **Read and Reflect:** Read the Introduction which sets up the course ahead and Chapter One “Project Excellence and Professionalism” in the course textbook.
+- The Importance of the Film Journal: Write your first two Film Journal entries for this unit.
+- Read and Reflect: Read the Introduction which sets up the course ahead and Chapter One “Project Excellence and Professionalism” in the course textbook.
 - Reflect on the 15 Tips for Doing Your Best
 
-*Note that this learning activity is ungraded, but is designed to help you succeed in your assessments in this course.*
+*Note that these learning activities are ungraded, but they are designed to help you succeed in your assessments in this course.*
 
 ```
 
@@ -94,11 +94,9 @@ As can be gleaned from the above, this course will start with the most basic ele
 
 ### Learning Activities {-}
 
- <!-- [plugin:content-inject](../_1-1) -->
+#### The Importance of the Film Journal {-}
 
 ```{block2, type='reflect'}
-
-#### The Importance of the Film Journal {-}
 
 During this course you are encouraged to keep a “Film Journal.” This is important for many reasons, including helping you to brainstorm ideas, as well as ponder and process what you are learning. The journal will also help you to keep a record of your course activities, and note feedback of what does and does not work in film projects of your fellow course members. In addition, some of the exercises for this course will not be graded (for reasons that will be explained ahead) but this does not mean you will not be accountable for doing them. Your journal will be submitted at the end of the course and will play a role in the grade you receive. In short, students who engage with the course well will in general receive higher marks.
 
@@ -108,12 +106,12 @@ Also, note that you may be asked to use your journal entries to participate in d
 
 Based on the importance of the course journal make your first two entries for this unit:
 
-- **Entry One:** After reading the course text Introduction, describe your best take-aways of what you have learned.
-- **Entry Two:** Study the recommended how-to-write-a-journal resources and log what you learned from them and how it will help you during the course.
-- [How to Start a Creative Journal](https://karenbanes.com/how-to-start-a-creative-journal) (Be sure to click on the internal links on this website){target="_blank”}
-- [How to Journal Every Day for Increased Productivity, Clarity, and Mental Health](https://www.youtube.com/watch?v=hUTWo7_W0lc){target="_blank”}
+- Entry One: After reading the course text Introduction, describe your best take-aways of what you have learned.
+- Entry Two:Study the recommended how-to-write-a-journal resources and log what you learned from them and how it will help you during the course.
+  - [How to Start a Creative Journal](https://karenbanes.com/how-to-start-a-creative-journal) (Be sure to click on the internal links on this website){target="_blank”}
+  - [How to Journal Every Day for Increased Productivity, Clarity, and Mental Health](https://www.youtube.com/watch?v=hUTWo7_W0lc){target="_blank”}
 
-**NOTE:** *your journal entries do not have to be long but they should be detailed and specific enough to indicate that you have engaged the course material and projects.*
+*Note:your journal entries do not have to be long but they should be detailed and specific enough to indicate that you have engaged the course material and projects.*
 
 ```
 
@@ -172,13 +170,11 @@ Our goal then is to learn how to seek to produce visually-driven, digital film s
 
 As you can see excellence and professionalism go hand in hand. In order to grow and excel in a craft we need to grow and excel at being professional. Implied here is that we also need to mature and grow personally as we develop the character traits necessary for being a mature, moral, and responsible person.
 
-### Learning Activities {-}
-
- <!-- [plugin:content-inject](../_1-3) -->
-
-```{block2, type='reflect'}
+### Learning Activity {-}
 
 #### Read and Reflect {-}
+
+```{block2, type='reflect'}
 
 Read Chapter One “Project Excellence and Professionalism” in the course textbook.
 
@@ -284,15 +280,13 @@ In this first unit, you have had the opportunity to learn about what this course
 
 ## Assessment {-}
 
-<!-- [plugin:content-inject](../../assignments/_film-journal)-->
+#### Course Journal {-}
 
 ```{block2, type='assessment'}
 
-### Film Journal {-}
-
 After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
 
-Note that entries are expected for every unit.  Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 10% of your course grade.
+Note that entries are expected after every unit. Your journal reflections are submitted at the end of the course as part of the Journal One: Personal Journal and self assessment.
 
 See the Assessments section for more details on submitting your journal, as well as the grading criteria.
 
