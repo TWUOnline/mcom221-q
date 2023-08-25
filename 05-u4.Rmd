@@ -15,16 +15,16 @@ This unit is divided into the following topics:
 1. Types of Cinematic Motion  
 2. Motivating Camera Movement  
 
-### Learning Outcomes {-}
+## Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
-- Describe and contrast the various types of film motion shots.  
-- Determine when and how to use cinematic motion.  
-- Create effective cinematic motion shots.  
-- Observe and reflect on your progress as a filmmaker and the transferrable skills you are honing.  
+- Describe the various types of film motion shots
+- Contrast the various types of film motion shots
+- Determine when and how to use cinematic motion
+- Create effective cinematic motion shots
 
-### Activity Checklist {-}
+## Activity Checklist {-}
 
 ```{block2, type='reflect'}
 
@@ -37,9 +37,9 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Read the rest of Chapter 4 in your textbook. Find someone to film and practice each of the cinematic motion techniques with your cell phone.  
 -->
 
-- **Read and Study:** Read and study Chapter 4  of course e-text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft.*
-- **Motion Shots Practice:** Practice doing as many of the main types of motion shots as you can. Discuss what you did and why with your peers.
-- **Proper Motivation Practice:** Find someone to film and practice each of the cinematic motion techniques with your cell phone.
+- Read and Study: Read and study Chapter 4  of course e-text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft.*
+- Motion Shots Practice: Practice doing as many of the main types of motion shots as you can. Discuss what you did and why with your peers.
+- Proper Motivation Practice: Find someone to film and practice each of the cinematic motion techniques with your cell phone.
 
 ```
 
@@ -51,17 +51,19 @@ Here is a checklist of learning activities you will benefit from in completing t
 -->
 
 
-### Resources {-}
+## Resources {-}
 
 Here are the resources you will need to complete this unit:
 
 - Chapter Four of the course text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft*, by Ned Vankevich
-- [8 Basic Types of Camera Movements](https://www.youtube.com/watch?v=g6zMtnLC50w){target="_blank”}
-<!--[5 Brilliant Moments of Camera Movement](https://www.youtube.com/watch?v=h2c3JZ6X3f8){target="_blank”}-->
-- [Perfect your Film with Cinematic Motion](https://www.youtube.com/watch?v=VPfKsdPsS5w){target="_blank”}
 - Other online resources will be provided in the course text and unit.  
 
-## Types of Cinematic Motion Shots {-}
+
+<!--- [8 Basic Types of Camera Movements](https://www.youtube.com/watch?v=g6zMtnLC50w){target="_blank”}-->
+<!--[5 Brilliant Moments of Camera Movement](https://www.youtube.com/watch?v=h2c3JZ6X3f8){target="_blank”}-->
+<!--- [Perfect your Film with Cinematic Motion](https://www.youtube.com/watch?v=VPfKsdPsS5w){target="_blank”}-->
+
+## Types of Cinematic Motion Shots
 
 In Unit 3 we explored how excellent or effective still (non-moving) visual compositions are made. The elements and principles of such images apply to filmmaking too. However, film and video add new variables and techniques given that they deal with moving or motion pictures.
 
@@ -85,26 +87,27 @@ The main types of motion shots include:
 - DRONES  
 - SHAKY CAMERA  
 
-### Learning Activities {-}
+### Activity: Motion Shots Reading {-}
 
- <!-- [plugin:content-inject](../_4-1) -->
-
- 
 ```{block2, type='reflect'}
-
-#### Motion Shots Reading {-}
 
 Study Chapter 4  of course e-text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft.* This chapter will help you understand the different types of motion shots. Be sure to take notes and begin logging and identifying shot ideas you want to try and practice. Actively taking notes as you read is a great way to absorb the material.
 
- <!-- [plugin:content-inject](../_4-2) -->
+```
 
-#### Motion Shots Practice {-}
+### Activity: Motion Shots Practice {-}
+
+```{block2, type='reflect'}
 
 Study the definitions of the main types of motion shots and how to do them. Then practice doing as many of them as you can. (Obviously you cannot do a GoPro or drone shot without that specific equipment, but you might be imaginative and find an alternative to do a similar type of shot.)
 
 Write in your journal your observations about each type of shot and what you learned from doing them. <!--Share these insights and questions with your class mates when you meet.Before moving on to the next topic, view the following resources to augment your understanding of camera movement-->
 
-#### Watch and Learn {-}
+```
+
+### Activity: Watch and Learn {-}
+
+```{block2, type='reflect'}
 
 Before moving on to the next topic, watch the video [“5 Brilliant Moments of Camera Movement”](https://www.youtube.com/watch?v=h2c3JZ6X3f8){target="_blank”} to augment your understanding of camera movement
 
@@ -140,13 +143,10 @@ The following sections will help you have properly motivated and framed movement
 - Proper Placement in the Frame
 - Motivated Unmotivated Camera Movement
 
-### Learning Activities {-}
 
- <!-- [plugin:content-inject](../_4-3) -->
+### Activity: Proper Motivation Exercise and Practice {-}
 
 ```{block2, type='reflect'}
-
-#### Activity: Proper Motivation Exercise and Practice {-}
 
 After you have viewed the resources and studied the properly motivated camera movements, find someone to film and practice each of the techniques with your cell phone. For inspiration and how-to-do techniques watch the video [“8 Cinematic Camera Moves For Video”](https://www.youtube.com/watch?v=6_p93J3OwfU){target="_blank”}
 
@@ -178,6 +178,9 @@ See the Assessment section for more guidelines and criteria for evaluating this 
 ## Summary {-}
 
 In this unit, you learned about cinematic motion and how to motivate it and do it properly. As such, you have gained understanding and practice with another important basic of excellent filmmaking.
+
+1. Types of Cinematic Motion and how to use tracking shots, following shots, dolly shots, amount others to add professionalism and more meaning in your projects.
+2. Motivating Camera Movement where you explore the classic cinema technique of discussing your moving shots by having the camera and subject movement in sync.
 
 ## Assessment {-}
 
@@ -336,6 +339,5 @@ Before you move on to the next unit, you may want to check to make sure that you
 - Contrast the various types of film motion shots
 - Determine when and how to use cinematic motion
 - Create effective cinematic motion shots
-- Make observations in your journal of what you have learned from this unit.
 
 ```

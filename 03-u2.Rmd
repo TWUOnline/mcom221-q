@@ -8,14 +8,14 @@ Given the many skills needed to make a great film over time, filmmakers have dev
 
 Like in a story that has a beginning, middle and end, the filmmaking process is divided into three sections or segments: pre-production, production, and post-production. (There is a fourth component dealing with marketing and distribution, but this will not be covered in this course.) We start with an overall look at the filmmaking process. This will give us the big picture of what will lie ahead so that we do not get lost in the details of the many elements of filmmaking, and so that we can place what we will be doing and practicing in a larger framework.
 
-### Topics {-}
+## Topics {-}
 
 This unit is divided into the following topics:
 
 1. The Three Phases of Filmmaking.
 2. Pre-Production, Production, and Post-Production.
 
-### Learning Outcomes {-}
+## Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
@@ -24,7 +24,7 @@ When you have completed this unit, you should be able to:
 - Capture an overview of the processes you will do during the course  
 - Define why excellence should be the benchmark of each phase of filmmaking.  
 
-### Activity Checklist {-}
+## Activity Checklist {-}
 
 ```{block2, type='reflect'}
 
@@ -48,12 +48,12 @@ Next, watch [Pitching and Pre-Production: Crash Course Film Production #2](https
 
 ```
 
-### Assessment {-}
+## Assessment {-}
 
 See the Assessment section in Moodle for assignment details and due dates.
 
 
-### Resources {-}
+## Resources {-}
 
 Here are the resources you will need to complete this unit.
 
@@ -77,9 +77,8 @@ The overall filmmaking process has not changed much over the past century. In sh
 
 Understanding these three phases is vital to making a great film. You will not have to master each phase, no one can because there are too many elements and skills involved depending on the complexity of the film, its story, and its execution.
 
-### Learning Activity {-}
 
-#### Activity: Shooting a Film {-}
+### Activity: Shooting a Film {-}
 
 ```{block2, type='reflect'}
 
@@ -189,9 +188,7 @@ For now, just watch the video and enjoy the process.
 If you are feeling overwhelmed and intimidated, you will not be alone. This is a lot to do and learn and this is why the bigger film projects can be done with team members.</p>
 
 
-### Learning Activity {-}
-
-#### Activity: Reflect and Share {-}
+### Activity: Reflect and Share {-}
 
 ```{block2, type='reflect'}
 

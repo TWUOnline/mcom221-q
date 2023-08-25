@@ -8,14 +8,14 @@ This unit will also give you a chance to apply what you are learning in a creati
 
 Visual composition will play an important role in this course, so taking the time to learn it is well worth the investment.
 
-### Topics {-}
+## Topics {-}
 
 This unit is divided into the following topics:
 
 1. Elements and Principles of Composition
 2. Photographic Themes  
 
-### Learning Outcomes {-}
+## Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
@@ -24,7 +24,9 @@ When you have completed this unit, you should be able to:
 - Study the works of noted photographers and apply composition elements and principles to photographs you create  
 - Create photos that reveal your understanding of the chapter’s content  
 
-### Activity Checklist {-}
+## Activity Checklist {-}
+
+```{block2, type='reflect'}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
@@ -48,7 +50,9 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Film Journal  
 - Visual Composition Exercise (ungraded, but part of journal entry)  
 
-### Resources {-}
+```
+
+## Resources {-}
 
 Here are the resources you will need to complete this unit:
 
@@ -100,7 +104,6 @@ In addition to elements of design, there are also principles or general rules th
 
 There are many other principles such as the use of triangles and frame within a frame in compositions.
 
-### Learning Activities {-}
 
 #### Activity: Read and Study {-}
 
@@ -116,7 +119,7 @@ Based on your study of this section, what are some observations you can share in
 
 ```
 
-#### Activity: Readings on Techniques and Principles of Composition {-}
+### Activity: Readings on Techniques and Principles of Composition {-}
 
 ```{block2, type='reflect'}
 
@@ -134,7 +137,7 @@ A more advanced approach to composition involves the use of creating a theme or 
 As you grow in your composition skills you will discover how to add more depth, interest, and meaning to your photographs and images.
 
 
-#### Activity: Read and Explore {-}
+### Activity: Read and Explore {-}
 
 ```{block2, type='reflect'}
 

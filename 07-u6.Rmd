@@ -8,17 +8,15 @@ We are now at a point in the course where you are going to be held accountable f
 
 But fear not. Based on your previous work and what you will learn in this unit you will be ready to make a film that is “public” worthy. In addition, this first film will only account for 10% of your grade so you are encouraged to explore and take risks.
 
-### Topics {-}
+## Topics {-}
 
 This unit is divided into the following topics:
 
-1. The In-Camera Project and Its Benefits  
-2. Secrets to a Simple Story  
-3. Brainstorming and Successful Creativity  
-4. Short Story Film Template  
-5. Direction Vectors and Eye-line Requirements  
+- In-Camera Project and Its Benefits
+- Brainstorming and Successful Creativity
+- Direction Vectors and Eye-line Requirements
 
-### Learning Outcomes {-}
+## Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
@@ -28,23 +26,22 @@ When you have completed this unit, you should be able to:
 - Determine how to tell a visually-centered story well  
 - Create a short simple story to film  
 
-### Activity Checklist {-}
+## Activity Checklist {-}
 
 ```{block2, type='reflect'}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-- **Read, Study, and Reflect:** Read and study Chapter 6  of course e-text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft.* Write in your journal your initial thoughts regarding the benefits of doing an in-camera film
-- **Brainstorming:** Brainstorm at least five story ideas and use the “Fairy Tale Template for a Short Film” to write your story for your short film.
+- Read, Study, and Reflect: Read and study Chapter 6  of course e-text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft.* Write in your journal your initial thoughts regarding the benefits of doing an in-camera film
+- Brainstorming: Brainstorm at least five story ideas and use the “Fairy Tale Template for a Short Film” to write your story for your short film.
 
-*Note that these learning activities are ungraded, but designed to help you succeed in your assessments in this course.*
+*Note that these learning activities are ungraded (unless specified), but designed to help you succeed in your assessments in this course*
 
 ```
 
 ## Assessment {-}
 
 See the Assessment section in Moodle for assignment details and due dates.
-
 
 <!--
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
@@ -58,7 +55,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Use the Fairy Tale Template to plan your film. Read through the section in Chapter 6 on creating a Short Story Film Template.  
 - Read the next section in Chapter 6 and view the videos listed.  
 
-**Assessment** 
+Assessment** 
 
 - Film Journal
 
@@ -70,7 +67,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 -->
 
 
-### Resources {-}
+## Resources {-}
 
 Here are the resources you will need to complete this unit.
 
@@ -104,13 +101,9 @@ Here you will be forced to shoot at a location and move to the next, and if the 
 - Making you attentive to each shot and how relates to the previos ones.  
 - Challenging your brainstorming and film logic skills.  
 
-### Learning Activities {-}
-
-<!-- [plugin:content-inject](../_6-1) -->
+### Activity: Read, Study and Reflect{-}
 
 ```{block2, type='reflect'}
-
-#### Read, Study and Reflect{-}
 
 Read and study Chapter 6. Write in your journal your initial thoughts regarding the benefits of doing an in-camera film. Does it thrill and excite you or make you apprehensive and anxious? Or maybe a combination of these feelings and emotions. As artists we need to get in touch with our feelings and learn to work with them not fear them.
 
@@ -123,18 +116,8 @@ To prime your imagination for the upcoming project, watch the video [Visual Stor
 </div>
 
 ```
-<!--
-What was your best take-away from it? Log this in your journal and if there is time, share your insights with your facilitator and classmates.
 
-
-```{block2, type='caution'}
-
-**Note:** that this learning activity is ungraded, but is designed to help you succeed in your assessments in this course.
-
-```
--->
-
-## Secrets to a Simple Story
+### Secrets to a Simple Story {-}
 
 In order to do this first project, you will need to come up with a story to film. Something has to happened to someone and they must engage in action to address it. But if we are to design a good story—one that holds the attention of our audience and engages them—we need to focus on several things in our short film project:
 
@@ -158,28 +141,10 @@ The great thing about brainstorming is that you do not have to judge and critici
 
 Even if you already have a story idea that you want to film you are strongly encouraged to engage in brainstorming activities during this section and the rest of the course. If you do, you unleash more of your creativity and you will most likely find a better story concept.
 
-<!--
-### Learning Activities {-}
 
-<!-- [plugin:content-inject](../_6-2)
+### Activity: Brainstorming {-}
 
 ```{block2, type='reflect'}
-
-#### Read and Reflect {-}
-
-Study the next section in the course text Secrets to a Simple Story. What stands out for you? Did it inspire you? Did it help you find a good story concept to film? Log these observations and reflections in your course journal.
-
-```
--->
-
-
-### Learning Activities {-}
-
-<!-- [plugin:content-inject](../_6-3)-->
-
-```{block2, type='reflect'}
-
-#### Brainstorming {-}
 
 After you feel you have a good grasp of brainstorming, engage in the process and come up with 5 story concepts that fit the criteria in the previous topic:
 
@@ -193,31 +158,8 @@ After you feel you have a good grasp of brainstorming, engage in the process and
 
 ```
 
-<!--
-Study the Brainstorming section in Chapter 6, including the Steps for Successful Brainstorming and the Tips for Success Creativity. Then consult these resources:
 
-- <a href="https://www.studiobinder.com/blog/short-film-ideas-you-can-actually-produce/"> 30 Ways to Brainstorm Short Film Ideas You Can Actually Produce </a>
-- <a href="https://www.indiewire.com/2015/08/19-great-ways-to-brainstorm-short-film-ideas-58785/"> 19 Great Ways to Brainstorm Short Film Ideas </a>
-
-After you feel you have a good grasp of brainstorming, engage in the process and come up with <span class="underline">20 story concepts</span> that fit the criteria in the previous topic:
-
-- One or two main characters.  
-- A single problem or conflict.  
-- Knowing your genre (will your film be funny, dramatic, scary, etc.?).  
-- A simple setting or number of locations.  
-- A satisfying ending.  
-
-After you have done this go through your concept list and choose your top one and apply it to the template in the next topic.
-
-
-```{block2, type='caution'}
-
-**Helpful Hint**: If you find yourself stuck and can’t come up with a story concept, tell your facilitator and have a group brainstorming session. Take one of the ideas and develop it. Share your concept if you are stuck finding one of the criteria such as a goal or stakes ask for brainstorming help to solve the problem. Remember, film is mostly a collaborative venture.
-
-```
--->
-
-## Short Film Story Template
+### Short Film Story Template {-}
 
 Once you have your core story concept you now need to make it into a full story with a beginning, middle, and end. We also need to make sure we do not make it too complicated or muddled.
 
@@ -225,67 +167,15 @@ Many of us have the tendency to overly complicate things: to add extraneous deta
 
 Have fun with this template process. Also do not forget to use brainstorming for each section of the template so that you come up with the best characters, situations, locations, and conflict which are not predicable or have a “been there, done that” (boring) quality.
 
-### Learning Activities {-}
-
-<!-- [plugin:content-inject](../_6-4) -->
+### Activity: Planning Your Film {-}
 
 ```{block2, type='reflect'}
 
-#### Planning Your Film {-}
-
-Once you have brainstormed and have a clear and solid concept film, e.g., a student who has the power to turn things in gold, use the template below and write your story for your short film by filling in the blanks.
+Once you have brainstormed and have a clear and solid concept film, e.g., a student who has the power to turn things in gold, use the [Fairy Tale Template for a Short Film](assets/unit6/Fairy_Tale_Template_for_a_Short_Film.pdf){target="_blank”} and write your story for your short film by filling in the blanks.
 
 Study the illustration example given in the chapter and then apply the process to the creation of your film story. In crafting your story you are not allowed to use dialogue beyond “yes,” “no,” and “okay.” That is, you must find visual ways to establish your story’s setup and context and its build and payoff. For example, you cannot have your character say “I am on my way to the store.” You will just show him or her getting in the car, driving, arriving at the store parking lot, and entering the store. (This has visual direction vectors discussed below in Topic 3.)
 
-#### Fairy Tale Template for a Short Film {-}
-
-(This template is inspired by the one developed by Alexander Mackendrick.  See *On Filmmaking: An Introduction to the Craft of the Director*. London: Faber & Faber, 2005, pgs. 78-85.)
-
-**Once Upon a Time \_\_\_\_\_\_\_\_\_.**
-      *(Establish where your story will take place.)*
-
-**There Lived a \_\_\_\_\_\_\_\_\_\_\_\_\_.**
-      *Establish the main character, hero, or protagonist.*
-
-**But there was a Problem in the Land \_\_\_\_\_\_\_\_\_\_\_\_.**
-      *Establish the inciting incident that starts the story’s main conflict that the protagonist must face and overcome.*
-
-**That the Hero had to Solve \_\_\_\_\_\_\_\_\_\_.**
-      *Establish the main character’s drive, motive, goal, and stakes.*
-
-**By Defeating a Villain or Evil Force \_\_\_\_\_\_\_\_\_\_.**
-      *Establish the chief antagonist the protagonist has to overcome.*
-
-**That resulted in Battles and Obstacles \_\_\_\_\_\_\_\_\_\_\_.**
-      *Establish the problems and difficulties the protagonist must overcome to achieve the goal.*
-
-**The Result of Which \_\_\_\_\_\_\_\_.**
-      *Establish the chain of cause and effect conflict events that form the middle of the story. These should escalate, that is, grow more intense and challenging as the action develops.*
-
-**Produced Twists and Turns \_\_\_\_\_\_\_\_\_\_.**
-      *Establish the surprises and unexpected turn of events as the protagonist battles his or her foe.*
-
-**Until the Time came that \_\_\_\_\_\_\_\_.**
-      *Establish the obligatory scene or major confrontation or climax of the action.*
-
-**When Suddenly \_\_\_\_\_\_\_\_\_\_\_.**
-      *Establish the final major twist or surprise that heightens the action of the climax. This is optional.*
-
-**And it Turns Out that \_\_\_\_\_\_.**
-      *Establish the resolution or wrapping up of the story.*
-
-**And Forever After (or Not) \_\_\_\_\_\_\_\_\_.**
-      *Establish the end of the story and its closure which can be happy or sad.*
-
 ```
-<!--
-Are you happy with your story? Do you have to make revisions? You should go through at least three drafts of your story to make sure it works. Test your story out on you family and friends. Ask them if it works but remember they are not filmmakers or professional critics so ignore things when they are too petty or too subjective.
-
-Read through the section in Chapter 6 on creating a Short Story Film Template.
-
-Be sure to lay out your story in single lines of action that can be filmed as in the example of PANIC in Chapter 6.
--->
-
 
 ## Direction Vectors and Eyeline Requirements
 
@@ -301,19 +191,12 @@ Before doing so, this exercise will require that you focus on several things fou
 
 These requirements should not worry you since you have explored and tried many of these techniques in the composition and film movements units.
 
-### Learning Activities {-}
 
-<!-- [plugin:content-inject](../_6-5) -->
+### Activity:  Resources on Direction Vectors and Eyeline Requirements {-}
 
 ```{block2, type='reflect'}
 
-#### Resources on Direction Vectors and Eyeline Requirements {-}
-
 In order to do well and follow the direction vectors and eyeline requirements for this first film project, be sure to consult the following resources which explain them in visual ways. As you do so, pre-visualize how you will film your project:
-
-<!--
-Read the next section in Chapter 6. In order to do well and follow the direction vectors and eyeline requirements for this first film project, be sure to consult the following resources which explain them in visual ways. <span class="underline">As you do so, pre-visualize how you will film your project</span>:
--->
 
 [Watch: The eyeline match](https://www.youtube.com/watch?v=y_1H6V7uyYc){target="_blank”}
 
@@ -335,10 +218,7 @@ Read the next section in Chapter 6. In order to do well and follow the direction
 
 ---
 
- <!-- //todo #8 
-[plugin:youtube](https://www.youtube.com/watch?v=0pd0K2u1Bk8)
-
-In addition, be sure to review Units 3, 4, and 5 to make sure your shots will be well composed and that you will incorporate a variety of camera angles.-->
+In addition, be sure to review Units 3, 4, and 5 to make sure your shots will be well composed and that you will incorporate a variety of camera angles.
 
 Happy filming!
 
@@ -348,16 +228,18 @@ Happy filming!
 
 In this unit, you learned about:
 
-- The In-Camera Project and Its Benefits  
-- Secrets to a Simple Story  
-- Brainstorming and Successful Creativity  
-- Short Story Film Template  
-- Direction Vectors and Eye-line Requirements  
-- In-Camera Exercise Guidelines  
+- The In-Camera Project and how It is beneficial to help you to understand how to think of filmmaking in a linear way.
+
+- Secrets to a Simple Story and how limiting your story to a key single concept or theme with only a few characters and locations will help you create a stronger film.
+
+- Brainstorming and Successful Creativity and how the more ideas and concepts you imagine and generate, the better your film will capture an audience's attention.
+
+- Short Story Film Template where a fairy tale story formula can help you design the beginning, middle, and end of your film.
+
+- Direction Vectors and Eye-line Requirements which are important cinematic compositional devices that prevent the audience’s confusion as you transition between shots.
+
 
 ## Assessment {-}
-
- <!-- [plugin:content-inject](../../assignments/_film-journal) -->
 
 ```{block2, type='assessment'}
 
@@ -371,113 +253,18 @@ Be sure to make a note of what films stood out and who did them. You will consul
 
 *See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
 
+---
+
+<span class="blockhead">In-Camera Exercise</span>
+
+*This activity is ungraded, but important*
+
+Create a brief mini movie that shows your understanding of how to apply composition, motivated camera movement, and a variety of shots to visually tell a story. That is, images and not dialogue should drive your story.
+
+See the Assessments section for more details on submitting your journal, as well as the grading criteria.
+
 
 ```
-
-<!--
-### Assignment :  {-}
-
-**Film Journal**
-After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
--->
-
-<!--
-```{block2, type='caution'}
-
-**Note:** that entries are expected for every unit.  Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 30% of your course grade.
-
-```
-
- [plugin:content-inject](../../assignments/_assignment-6) 
-
-```{block2, type='assessment'}
-
-**In-Camera Exercise (10%)**
-
-Having practiced working on composition and motion shots and learning about the variety and types of shot sizes and camera angles, you are now ready to apply all this knowledge and make your first film. Though it will be challenging, do not fear. You can do it.
-
-For this exercise project you make an in-camera mini-movie. That is, take the story you have developed in this chapter and film it. The catch is that you must do it in sequence: “in camera.” Put another way, you must shoot the film in the order that it will be screened and you cannot edit it beyond butting shots up against each other and taking out the call for action or call for cut at the end of the shot.
-
-The reason for this constraint of shooting all of the shots in their proper order and not using any editing beyond cutting the shots together is to help you intentionally plan your shots so that their meaning and mood flow and connect well.
-
-This will most likely be the last time you will film this way, given that screenplays are shot out of sequence according to location, crew, cast, and equipment needs. But here your job is to plan a simple mini-movie and work on using composition, motion shots, and film grammar to visually tell your story with no dialogue or added music or sound effects. This might sound intimidating, but if you have been diligent in your previous film exercises work, you will soar.
-
-The following guidelines must be adhered for your In-Camera film project:
-
-**Guidelines for In-Camera Project**
-
-1. You must explore and experiment with visual-centered storytelling. That is, make a film where the images and shots tell the story without the use of dialogue and verbal explanation.  
-2. There must be no dialogue. A character can say “yes,” “no,” or “okay” if receiving a phone call but you cannot have the character explain things. Work on letting your visuals do this.  
-3. This assignment must be an “In-Camera” project, that is, one that is shot in linear sequence from the beginning to the end. It should be about 1.5 to 2.5 minutes long. It can be a bit shorter or longer but not much.  
-4. Your mini-movie should have a clear beginning, middle, and end as per the template provided earlier.  
-5. You must choose a genre such as comedy, drama, horror, fantasy, etc. Nothing too elaborate, but we should have a feel for the type of mini film you have done. (We will discuss and cover genre in more detail later.)  
-6. You must use a variety of shot sizes, heights, angles, framing, perspectives, etc. that reveal your are understanding of film grammar and syntax. There should be multiple different types of shots and camera angles.  
-7. You must have some linear movement where you use motion shots to follow the action. Review the previous sections on motion shots.  
-8. Your shots must have:
-
-- Proper Lead Room  
-- Motivated Shot Movement  
-- Consistent Screen Direction  
-- Proper Eye-Line Vectors  
-- Proper Headroom  
-
-9. You must make sure your shots are motivated. Remember motivated means the camera and subject motion are matched or are in sync in a way that draws attention to the subject action and not the camera movement. Motivated also means the story and character situations justify your choice of shots.  
-10. You are not allowed to edit the film and move shots into different positions on your timeline. You can trim the beginning of a shot where you call “action” and the end when the shot goes longer than needed. You are not allowed to use transitions like dissolves and fades (covered later). You must only use cuts to butt the shots up against each other. You can use Premiere, Final Cut, Imovie, Fiolmora, Windows Movie Maker, or other software. There are plenty of tutorials on Youtube to show you how to use most software. Don’t waste your time on junky tutorials. You should be able to know a professional presentation when you see one.  
-11. The only music that can be used is that which is “diegetic,” that is, sound which has a source on-screen in your shots, e.g., a CD player in a car, Alex playing in the background, etc.  
-12. You must shoot this project yourself. Later you will divide into teams where someone shoots and someone directs but for this exercise you must produce, write, direct, shoot, and edit this project by yourself. However, you can have someone show you how to use editing software if you need it.  
-13. Given that you cannot edit this film, make sure you rehearse the shots to get them right. Your actors will need at least two or three takes to get the movement right.
-14. This project can be shot on your cell phone or with a DSLR camera if you have one.  
-15. Remember: The important thing is to focus on your story and telling it in an interesting visual way through good compositions, motivated movement, a variety of shot sizes and camera angles, etc. The “Fairy Tale” narrative pattern can help you create a solid story. Go for a “twist,” or surprised ending, if you can.  
-16. Please don’t wait until the last minute to do this assignment or you will waste your time and ours if you rush it. Creating story and filming it well will take more time than you think. And Murphy’s Law loves to bite procrastinators.  
-17. You must submit a write-up of what you attempted to do and what you learned from this exercise, especially from the feedback you received from your instructor and peers. This write-up must be emailed to <ned.vankevich@twu.ca> by the due date which will be determined during the course.  
-18. Be sure to upload your film to the course Cloud folder (this link will be sent to you) and label your file with your name, course, and the name of the assignment. E.g., Alfred Hitchcock, MCOM 221, In-Camera Project N.B.  
-19. Backup this assignment and all others by either emailing your assignment and images to yourself or copying them to an external drive, flash drive, the Cloud, etc.**This course will not accept excuses for lost or destroyed assignments,** such as my computer died or my files disappeared. Backing up work is the sign of a professional.  
-20. You will be graded on this activity as per the following guidelines.  
-
-
-**Grading Criteria for the In-Camera Assignment**
-
-You will be given verbal feedback in the Learning Lab by your instructor and peers after you show your film. You will also receive written feedback by your instructor on your write-up submission.
-
-The following questions will be discussed by your peers and considered by your instructor concerning your film:
-
-- Did you communicate a story with a clear beginning, middle, and end?  
-- Did you express a clear genre and was the coverage (type of shots used) appropriate for it?  
-- Did your film reveal that you understand how to use film grammar and syntax?  
-- Did you have a sufficient variety of shot sizes, angles, heights, framing, etc.?  
-- Were your motion shots motivated?  
-- Were the shots in focus and were they smooth or did they have bumps or unnecessary movements or elements?  
-- Did you follow the linear action of the story well?  
-- Were your shots well composed? Appropriate lead room, head room, eye vectors, etc.?  
-
-1. You will be adjudicated on how well you follow the “classical” approach to camera work and storytelling we have covered, how creative and compelling your story and its execution are within the limits of an introductory course, and how well you follow and execute the guidelines above.  
-2. This project will count as 10% of you grade and the breakdown will be:
-
-- Story 5%  
-- Visual execution 5%  
-3. Beyond following the guidelines above, your mini-film will merit the following grades:
-
-| A | Excellent camera shots and compositions that tell a compelling story. |
-| - |  |
-| B | Above average camera shots, compositions, and story.                  |
-| C | Average camera shots, compositions, and story.                        |
-| D | Unacceptable camera shots, compositions, and poorly done story.       |
-| E | Failure to do the activity at all levels.                             |
-
-See the course syllabus for more detail on the qualitative criteria for a grade.
-
-Now that you know what must be done and how you will be evaluated, check to make sure your story can accomplish the above requirements and that you can execute it accordingly.
-
- [plugin:content-inject](../_6-6) 
-
-#### Assignment Reflection {-}
-
-Log in your journal what you learned from the creating and filming of your In-Camera exercise. Log what you thought about the films of your peers and what you learned from the feedback from them and your instructor.
-
-Be sure to make a note of what films stood out and who did them. You will consult this at the end of the course when the class determines: Best Overall Film. Most Imaginative Film, Best Story, Best Cinematography, Best Editing, etc.
-
-```
--->
 
 ## Checking your Learning {-}
 

@@ -14,7 +14,7 @@ This course will focus on one aspect of narratives, namely visual storytelling. 
 
 In practical terms, the better you are at communicating stories (relative to each profession), the better you will be at your job. Fasten your seat belt, you are about to find out why we have focused on the above to start this course.
 
-### Topics {-}
+## Topics {-}
 
 This unit is divided into the following topics:
 
@@ -23,7 +23,7 @@ This unit is divided into the following topics:
 1. 15 Tips for Doing Your Best  
 1. Transferable Skills  
 
-### Learning Outcomes {-}
+## Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
@@ -34,7 +34,7 @@ When you have completed this unit, you should be able to:
 - Self-assess your strengths and weaknesses  
 - Plan what you want to focus on during the course in terms of your professional and personal growth.  
 
-### Activity Checklist {-}
+## Activity Checklist {-}
 
 ```{block2, type='reflect'}
 
@@ -57,12 +57,12 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ```
 
-### Assessment {-}
+## Assessment {-}
 
 See the Assessment section in Moodle for assignment details and due dates.
 
 
-### Resources {-}
+## Resources {-}
 
 Here are the resources you will need to complete this unit.
 
@@ -92,9 +92,8 @@ Of special note, Unit Ten and Chapter Ten will be a summary and a celebration of
 
 As can be gleaned from the above, this course will start with the most basic elements and proceed to creating a short film with a strong beginning, middle, and end. As you move through the course keep the mindset that this will be a fun, enjoyable, and exciting adventure.
 
-### Learning Activities {-}
 
-#### Activity: The Importance of the Film Journal {-}
+### Activity: The Importance of the Film Journal {-}
 
 ```{block2, type='reflect'}
 
@@ -170,9 +169,8 @@ Our goal then is to learn how to seek to produce visually-driven, digital film s
 
 As you can see excellence and professionalism go hand in hand. In order to grow and excel in a craft we need to grow and excel at being professional. Implied here is that we also need to mature and grow personally as we develop the character traits necessary for being a mature, moral, and responsible person.
 
-### Learning Activity {-}
 
-#### Activity: Read and Reflect {-}
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
 
@@ -225,9 +223,7 @@ The following will help you to not just do well in this Film project, but will m
 - *"You will become clever through your mistakes."* - German Proverb in "The Talent Code"  
 
 
-### Learning Activity {-}
-
-#### Activity: Reflection {-}
+### Activity: Reflection {-}
 
 ```{block2, type='reflect'}
 
@@ -278,7 +274,7 @@ In this first unit, you have had the opportunity to learn about what this course
 
 ## Assessment {-}
 
-#### Course Journal {-}
+### Course Journal {-}
 
 ```{block2, type='assessment'}
 

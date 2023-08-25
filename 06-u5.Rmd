@@ -8,7 +8,8 @@ When we watch a film or TV show most people have no idea how much work and detai
 
 This will be a fun chapter as you get to explore and experiment with the fundamental building blocks that create meaning in cinema. It is a unit that will challenge both your thinking and your intuition skills as you learn the basic components of filmmaking and how to use them in creative ways.
 
-### Topics {-}
+
+## Topics {-}
 
 This unit is divided into the following topics:
 
@@ -17,7 +18,7 @@ This unit is divided into the following topics:
 3. Camera Angles and Heights  
 4. Camera Subject Angles  
 
-### Learning Outcomes {-}
+## Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
@@ -27,19 +28,18 @@ When you have completed this unit, you should be able to:
 - Determine when and how to use subject angles  
 - Create shots that reveal what you discovered in this unit  
 
-### Activity Checklist {-}
+## Activity Checklist {-}
 
 ```{block2, type='reflect'}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-
 - Find and consult a film glossary such as Brooklyn College Film Glossary. Read and study the one you like throughout this course. Set a goal to learn 5 new terms or concepts each day. 
 - Watch two videos about Basic Shots in action
-- Read and Study Chapter 5, and a web essay on how to build your intuition such as [21 Eye-Opening Ways To Develop Your Intuition](https://liveboldandbloom.com/04/self-improvement/develop-your-intuition){target="_blank”}
-- Read the next section of Chapter 5 and John Suler's Photographic Psychology: Image and Psyche, Camera Angles.
+- Read and Study Chapter 5 and explain how frames and shots become scenes and sequences and how they add up to a complete film story.
+- After thoroughly reading and studying Chapter 5 to grasp the concepts of shots, camera angles, heights, and camera subject angles, engage in practical application.
 
-*Note that this learning activity is ungraded, but is designed to help you succeed in your assessments in this course.*
+*Note that these learning activities are ungraded, unless specified,  but are designed to help you succeed in your assessments in this course.*
 
 ```
 
@@ -58,25 +58,12 @@ Here is a checklist of learning activities you will benefit from in completing t
 See the Assessment section in Moodle for assignment details and due dates.
 
 
-
-
-### Resources {-}
+## Resources {-}
 
 Here are the resources you will need to complete this unit.
 
 - Chapter 5 of course text, *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft.*
 - Other online resources will be provided in the unit.
-
-
-<!--
-- Chapter 5 of course text, *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft*.  
-- [21 Eye-Opening Ways To Develop Your Intuition](https://liveboldandbloom.com/04/self-improvement/develop-your-intuition)  
-- Studying film shots is an essential part of mastering the craft of filmmaking. Study this helpful overview: [15 Essential Camera Shots, Angles and Movements in Filmmaking](https://www.youtube.com/watch?v=7y0ouVBcogU)  
-- For an overview of the types of film shots and angles see: [The Ultimate Guide to Camera Shots (over 50+ Types of Shots and Angles in Film)](https://www.studiobinder.com/blog/ultimate-guide-to-camera-shots/)  
-- [Brooklyn College Film Glossary](http://userhome.brooklyn.cuny.edu/anthro/jbeatty/COURSES/glossary.htm)  
-- [17 Lessons Henri Cartier-Bresson Has Taught Me About Street Photography](https://erickimphotography.com/blog/2014/12/09/17-lessons-henri-cartier-bresson-taught-street-photography/)  
-- Other online resources will be provided in the unit and text chapter.  
--->
 
 
 ## Basic Grammar of Film
@@ -86,7 +73,6 @@ In the previous units we look at the basic building blocks of visual composition
 However, as we focus on the components of filmmaking, we must not let the emphasis only be on film logic. We also want to cultivate the role that intuition and feeling play as we develop shots and put them together. This reminder is important because filmmaking is as much art as technical craft. We need to know the craft—the technical aspects—but also the art—the aesthetic and emotional dimensions. We need to keep this before us as we venture into the many elements and guidelines of effective filmmaking.
 
 In this first topic you will learn about:
-
 - Frames
 - Shots
 - Scenes
@@ -95,30 +81,13 @@ In this first topic you will learn about:
 
 These components give you the big picture of how the many smaller elements add up to create mood and meaning in a film project.
 
-### Learning Activities {-}
-
- <!-- [plugin:content-inject](../_5-1) -->
+### Activity: Read, and Explore {-}
 
 ```{block2, type='reflect'}
-
-#### Read, and Explore {-}
 
 Find and consult a film glossary such as [Brooklyn College Film Glossary](http://userhome.brooklyn.cuny.edu/anthro/jbeatty/COURSES/glossary.htm){target="_blank”}. Continue to read and study the one you like throughout this course and it will help you grow your film vocabulary and your understanding of the many components and processes involved in filmmaking. Set a goal to learn 5 new terms or concepts each day. 
 
 ```
-
-
-<!--
-Continue to read and study the one you like throughout this course and it will help you grow your film vocabulary and your understanding of the many components and processes involved in filmmaking. Set a goal to learn **5 new terms or concepts** each day. Bring 5 of the new terms to class and share one of them with your classmates. Listen closely to their terms and how your peers define them. This will enhance and re-enforce the concepts for everyone.
-
-Read the first section of Chapter 5.
-In your Film Journal, explain how frames and shots become scenes and sequences and how they add up to a complete film story.
-
-Finally, study a web essay on how to build your intuition such as [21 Eye-Opening Ways To Develop Your Intuition](https://liveboldandbloom.com/04/self-improvement/develop-your-intuition).
-
-Commit to doing one technique several times a day. Share the technique you will focus on with your facilitator and peers. What did you learn from this experience?
--->
-
 
 ## Basic Shots and Their Descriptions
 
@@ -149,13 +118,9 @@ In addition to shot size we also designate film shots by who or what is in the f
 - Cut-in and Insert  
 - Combo Shot  
 
-### Learning Activities {-}
-
- <!-- [plugin:content-inject](../_5-2) -->
+### Activity: Watch and Learn {-}
 
 ```{block2, type='reflect'}
-
-#### Watch and Learn {-}
 
 As they say, a picture is worth a thousand words, and when you see the shots in action in these resources they become more clear. Watch the video resources below to learn more about basic shots
 
@@ -180,21 +145,6 @@ As they say, a picture is worth a thousand words, and when you see the shots in 
 
 ```
 
-<!--
-Read the next section of Chapter 5.
-
-View the video resources below, as well as others listed in the course text.
-//todo #6 
-
-- [watch video here](https://www.youtube.com/watch?v=lRo2IqYbEaE)
-
-
-- <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7y0ouVBcogU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
-
-As they say, a picture is worth a thousand words, and when you see the shots in action in these resources they become more clear.
-
--->
 
 ## Camera Angles, Heights and Heights
 
@@ -218,7 +168,21 @@ The different camera heights include:
 - God’s Eye View  
 - Dutch Tilt or Dutch Canted Angle 
 
-### Camera Subject Angles {-}
+
+### Activity: Read and Study {-}
+
+```{block2, type='reflect'}
+
+Read and study Chapter 5. In your Film Journal, explain how frames and shots become scenes and sequences and how they add up to a complete film story. Also, summarize the best thing you learned about camera heights in this section.
+
+Commit to doing one technique several times a day, and reflect on what you learnt from this experience.
+
+**Helpful Hint:** It is recommended but not mandatory that you study a web essay on how to build your intuition such as[21 Eye-Opening Ways To Develop Your Intuition](https://liveboldandbloom.com/04/self-improvement/develop-your-intuition){target="_blank”}
+
+
+```
+
+## Camera Subject Angles 
 
 Subject angle refers to the perspective the audience has of the person being filmed. Subject angles are important because they affect the way the audience interprets the character or scene.
 
@@ -235,98 +199,32 @@ The following are key subject angles:
 Having completed this topic, you now have a firm grasp of the grammar of film and its components.
 
 
-### Learning Activities {-}
-
-### Activity: Read and Study {-}
+### Activity: Practice {-}
 
 ```{block2, type='reflect'}
 
-Read and study Chapter 5. In your Film Journal, explain how frames and shots become scenes and sequences and how they add up to a complete film story. Also, summarize the best thing you learned about camera heights in this section.
-
-Next, study a web essay on how to build your intuition such as [21 Eye-Opening Ways To Develop Your Intuition](https://liveboldandbloom.com/04/self-improvement/develop-your-intuition){target="_blank”}
-
-Commit to doing one technique several times a day, and reflect on what you learnt from this experience.
-
+After thoroughly reading and studying Chapter 5, it's time to put theory into practice. Engage in practical application using camera angles, heights and camera subjects
 
 ```
-
- <!-- [plugin:content-inject](../_5-3) 
-
-```{block2, type='reflect'}
-
-#### Studying Camera Heights {-}
-
-Read the next section of Chapter 5.
-
-To help re-enforce how camera height affects what we see and how we interpret it study this essay and its visual representations:
-
-- [Camera work 101: Camera Height](http://timurcivan.com/2015/02/camera-work-101-camera-height/)
-
-Summarize in your journal the best thing you learned about camera heights in this section.
-
-```
-
-
-### Learning Activities {-}
-
-<!-- [plugin:content-inject](../_5-4)
-
-```{block2, type='reflect'}
-
-#### Exploring Camera Shots and Angles {-}
-
-Read the final section of Chapter 5.
-
-Now that you know the overall basics of camera shots and angles, study the following detailed resource to enhance your understanding of the psychological and narrative impact they have on an audience:
-- John Suler's [Photographic Psychology: Image and Psyche, Camera Angles](http://truecenterpublishing.com/photopsy/camera_angles.htm)
-
-What new or deeper insights did you learn? Log these observations in your journal and share them with your facilitator and peers.
-
- <!-- [plugin:content-inject](../_5-5) 
-
-#### Exercise for Applying Grammar of Film {-}
-
-Now that you have done the theory, it is time to practice and apply what you have learned. Be sure to use both sides of your brain—the conscious, intentional shot logic part and the intuitive, feeling, follow your gut and take a risk part. Learning to combine both will help you grow immensely in your creativity.
-
-For this exercise you will engage in street photography, that is, go out into your local world and explore it through your cell phone camera lens and capture photos that use at least ten different shot sizes, subject framing, subject angles, and camera angles and heights.
-
-For inspiration about street photography see:
-
-- [17 Lessons Henri Cartier-Bresson Has Taught Me About Street Photography](https://erickimphotography.com/blog/2014/12/09/17-lessons-henri-cartier-bresson-taught-street-photography/)
-
-Share your four best shots with your classmates and log in your journal what learned from your street photography and exploring of camera angles.
-```
--->
 
 
 ## Summary {-}
 
-In this unit, you learned about the importance of film grammar and the multitude of shot sizes, framings, angles, etc. In doing so, you now a good foundational grasp of the basic components needed to make excellent film projects.
+In this unit, you learned about the importance of film grammar and the multitude of shot sizes, framings, angles, etc. In doing so, you now have a good foundational grasp of the basic components needed to make excellent film projects.
 
 ## Assessment {-}
 
-<!-- [plugin:content-inject](../../assignments/_film-journal) -->
-
 ```{block2, type='assessment'}
 
-<span class="blockhead">Assignment 1: Final Exam</span>
+<span class="blockhead">Course Journal</span>
 
 After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
 
-Note that entries are expected for every unit. Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 10% of your course grade.
+Note that entries are expected after every unit. Your journal reflections are submitted at the end of the course as part of the Journal One: Personal Journal and self assessment.
 
 *See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
 
-
 ```
-
-<!--
-```{block2, type='caution'}
-
-**Note:** that entries are expected for every unit.  Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 30% of your course grade.
-
-```
--->
 
 ## Checking your Learning {-}
 
