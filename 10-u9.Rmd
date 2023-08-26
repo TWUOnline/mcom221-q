@@ -12,22 +12,20 @@ Many of the items and techniques addressed here have been covered in the previou
 
 Let’s dig in.
 
-### Topics {-}
+## Topics {-}
 
 This unit is divided into the following topics:
 
-1. The Syntax of Film  
-2. The Importance and Types of Camera Coverage  
-3. Continuity  
-4. Storyboarding  
-5. Shot Lists  
-6. Casting  
-7. Other Types of Short Films  
-8. Sound Recording  
-9. The Final Steps 
-10. Guidelines for Doing and Evaluating the Final Film Project  
+- The Syntax of Film
+- The Importance and Types of Camera Coverage 
+- Continuity
+- Storyboarding and Shot Lists
+- Casting
+- Sound Recording
+- The Final Steps
 
-### Learning Outcomes {-}
+
+## Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
@@ -37,40 +35,36 @@ When you have completed this unit, you should be able to:
 - Create Storyboards and Shot Lists.  
 - Demonstrate Casting Skills.  
 - Apply L Cuts and J Cuts.  
-- Evaluate the final film project.  
 
-### Activity Checklist {-}
+
+## Activity Checklist {-}
 
 ```{block2, type='reflect'}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-<!-- [plugin:content-inject](_schedule) -->
+- Study the next section of Chapter 9 and watch the videos related to it. The selected videos for this unit  are extremely important for you to understand how to make your final project. Failure to study them could jeopardize your final project.
+- Please log in your journal your key takeaways from the watched videos along with your responses to specific questions.
+- Storyboard the scenes from your scriptment you plan to film.
+- Review Unit 7 to refresh your knowledge about what is involved in the post-production process. 
+- Study the guidelines and the Evaluation Criteria closely for the final project. They will help you to do well.
 
-- Read the first section of Chapter 9: The Syntax of Film and view the video resources.  
-- Study the next section of Chapter 9 The Importance and Types of Camera Coverage and then view the video resource.  
-- Read the Continuity section of Chapter 9 and view the video resources.  
-- Read the section on Storyboarding in Chapter 9 and consult the resource listed.  
-- Read about Shot Lists in Chapter 9 and view the resource listed.  
-- Read the Casting section in Chapter 9 and watch the videos and podcast.  
-- See the section on Other Types of Film in your text.
-- View the three resources for Sound Recording in Chapter Nine and find tutorials and instruction essays on the web that are appropriate to your cell phone and DSLR.  
-- Review Unit 7 to refresh yourself about what is involved in the post-production process.  
-- Study the guidelines and the Evaluation Criteria closely for the final project.  
-
-#### Assessment: {-}
-
-- **Film Journal**  
-- **Assignment : Final Film Project** (40%)  
 
 ```
+
+## Assessment {-}
+
+See the Assessment section in Moodle for assignment details and due dates.
 
 
 ## Resources {-}
 
 Here are the resources you will need to complete this unit.
 
-- Chapter Nine course text  
+- Chapter 8 of course text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft,* by Ned Vankevich (e-text)
+- Other resources will be available online and in the course text. 
+
+<!--
 - [How to Shoot a Scene! - Film Riot](https://www.youtube.com/watch?v=IK2IAEO-FUI)  
 - [Film Blocking Tutorial — Filmmaking Techniques for Directors: Ep3](https://www.youtube.com/watch?v=9AGaECt9j4g)  
 - [FilmSkills.com - Getting the right shots and coverage](https://www.youtube.com/watch?v=okphB85lfjk)  
@@ -86,34 +80,34 @@ Here are the resources you will need to complete this unit.
 - [How to Cast an ACTOR for a Low Budget Film | The Film Look](https://www.youtube.com/watch?v=YpCkRPqsiJ4)  
 - [Auditioning Actors](https://www.youtube.com/watch?v=x0G6n346m90)  
 - [SFX Secrets: The J Cut & The L Cut](https://www.youtube.com/watch?v=eyH-a964kAs)  
-- and [Video Editing Tips: J Cut vs L Cut](https://www.youtube.com/watch?v=fT5rRPMnka0)  
-- Other resources will be available online and in the course text. 
+- and [Video Editing Tips: J Cut vs L Cut](https://www.youtube.com/watch?v=fT5rRPMnka0)  -->
 
-## The Syntax of Film {-}
+## The Syntax of Film The Importance of Camera Coverage
 
 The first principle of this unit will focus on film syntax, where you take the grammar of film—the types of shots, shot sizes, shot angles and height, shot framing, subject angles, etc. and order them in a way that best communicates what you want to say. This is where higher-level creativity takes place.
 
 Filmmaking is like a language where you use the elements of grammar to make sentences. In this case, your shots to make scenes and the meaning the scenes will covey. The cumulation of sentences lead to paragraphs – the film equivalent of sequences, and the cumulation of paragraphs leads to sections (acts in film) and the cumulation of sections leads to your essay (in this case, your final film). You get the metaphor.
 
-### Learning Activities {-}
-
-<!-- [plugin:content-inject](../_9-1) -->
+### Activity: Read, Watch and Reflect {-}
 
 ```{block2, type='reflect'}
 
-#### Read, View, and Reflect {-}
-
-Read the first section of Chapter 9: The Syntax of Film. Before moving on to the next topic in this unit, view these resources to re-enforce the big picture:
+Read and study the first section of Chapter 9: The Syntax of Film. Then, before moving on to the next topic in this unit, watch the following tutorials to re-enforce the big picture. Do not forget to log in your journal your best take-aways from them.
 
 <div class="video-container">
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IK2IAEO-FUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IK2IAEO-FUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
+</div>
+
+---
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9AGaECt9j4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
 
-What were your best take-aways from these tutorials? Log this in your journal.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9AGaECt9j4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
 
 ```
 
@@ -123,7 +117,7 @@ What were your best take-aways from these tutorials? Log this in your journal.
 
 ```
 
-## The Importance and Types of Camera Coverage {-}
+## The Importance and Types of Camera Coverage 
 
 Exploring and understanding camera coverage is vital for those who want to create excellent films. Coverage refers to how a scene is captured. It involves how many shots are used and their type and kind to capture a scene in a film or video production. Coverage is thus the shot material an editor or post-production team will use to assemble the scenes and sequences of a movie. Having proper coverage is critical if a scene and a film is to make sense.
 
@@ -135,56 +129,57 @@ There are two main types of general coverage: **Master Shots and Mini-Masters**.
 
 Filmmaking is not a “paint by numbers” art. If you follow formulas, most likely your film will be predicable and lack freshness. This is why understanding shot progression is important. Choosing the types of shots you will use and their order will form a large part of your visual creativity in your film.
 
-### Learning Activities {-}
 
-<!-- [plugin:content-inject](../_9-2) -->
+### Activity: Read and Watch {-}
 
 ```{block2, type='reflect'}
 
-#### Read and View {-}
-
-Study the next section of Chapter 9 The Importance and Types of Camera Coverage and then view this resource:
+Study the next section of Chapter 9 "The Importance and Types of Camera Coverage". Next,  watch the video [What is a Master Shot](https://www.youtube.com/watch?v=cz3nBkIa9K0){target="_blank"}
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cz3nBkIa9K0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-Explain the value of why this type of shot can be beneficial as the first shot you do when you start your coverage of a scene? What is the downside of relying too much on a master shot?
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cz3nBkIa9K0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+---
+
+<span class="blockhead">Questions to Consider</span>
+
+- Explain the value of why this type of shot can be beneficial as the first shot you do when you start your coverage of a scene? What is the downside of relying too much on a master shot?
 
 ```
 
-## Continuity {-}
+## Continuity
 
 Continuity, or the non-distracting and motivated and smooth flow of action, is another skill set essential to the filmmaker’s took kit. Some techniques you have already studied, but others are new and important.
 
 The following are the major techniques of continuity that you must focus on:
 
 - Matching Action  
-
 - Directional Continuity  
-
 - Eyeline Continuity  
-
 - 180-Degree Rule  
-
 - 30-Degree Rule  
 
 Each of these individually and as a group will help immensely in creating well-constructed, well-motivated, and audience-engaging films.
 
-### Learning Activities {-}
-
-<!-- [plugin:content-inject](../_9-3) -->
+### Activity: Read and Watch {-}
 
 ```{block2, type='reflect'}
-
-#### Read and View {-}
 
 Read the Continuity section of Chapter 9.
 
 There are many resources that can help you to understand the various parts of continuity. It might seem like a lot but it will greatly benefit you if you view the following resources.
 
-**Match on Action technique**
+- [Match on Action technique](https://www.youtube-nocookie.com/embed/eou7A-e2e4I){target="_blank"}
+- [Match Cuts in Film Editing](https://www.youtube-nocookie.com/embed/El28XrjtcMI){target="_blank"}
+- [Screen Direction rule](https://www.youtube-nocookie.com/embed/9XOn5uxdSJc){target="_blank"}
+- [Screen direction](https://www.youtube-nocookie.com/embed/RogoUz_pk4Y){target="_blank"}
+- [Breaking Down the 180-Degree Rule](https://www.youtube-nocookie.com/embed/HinUychY3sE){target="_blank"}
+- [The 30 Degree Rule in Filmmaking | Kaicreative | Tips](https://www.youtube-nocookie.com/embed/1K8EUc98VoQ){target="_blank"}
 
-
+<!--
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eou7A-e2e4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 **Match Cuts in Film Editing**
@@ -208,12 +203,13 @@ There are many resources that can help you to understand the various parts of co
 **The 30 Degree Rule in Filmmaking | Kaicreative | Tips**
   
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1K8EUc98VoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+-->
 
 Do you feel you have a stronger grasp of continuity and of each the techniques addressed? If not, review the videos of those parts you do not understand.
 
 ```
 
-## Storyboarding {-}
+## Storyboarding and Shot Lists
 
 By now you might feel overwhelmed with camera coverage and all that it takes to shoot your story and script well. Storyboarding and storyboards can help simplify the process and make it easier to visualize what you want to do and how to do it.
 
@@ -225,31 +221,7 @@ The important thing is not the quality but that your storyboards make sense to y
 
 At the same time, do not become a slave to your storyboard. If you discover something better or get inspired on the film set, try the new thing. For safety, shoot it the storyboard way and then the new way and decide during post-production which one will work best.
 
-### Learning Activities {-}
-
-<!-- [plugin:content-inject](../_9-4) -->
-
-```{block2, type='reflect'}
-
-#### Read and View {-}
-
-Read the section on Storyboarding in Chapter 9.
-
-Consult this resource to help you see and better understand storyboards:
-
-https://www.wyzowl.com/what-is-a-storyboard/“What Is a Storyboard and How Do You Make One for Your Video? 
-
-Storyboard the scenes from your scriptment you plan to film. You can do this alone but it will be better if at least the director and cinematographer for you project work on this together. Ideally everyone on the team should work on this so that you will bond and have a unified vision of how to stage and shoot your shots.
-
-```
-
-```{block2, type='caution'}
-
-**Helpful Hint:** Remember your locations will determine a lot of how you can and cannot shoot a scene. A drone will not work in a small room. Therefore, be sure to scout your locations and take pictures of them as you desing your storyboards and shot lists. Be sure to also confirm that the locations will be available for your shooting schedule.
-
-```
-
-## Shot Lists {-}
+### Shot Lists {-}
 
 Once you have your scriptment describing all of the action and dialogue you will film and have storyboarded your film, you can now create a shot list which will help ensure you get all the shots needed for your coverage.
 
@@ -257,22 +229,30 @@ It is better if your whole production team gives feedback on the shot list. Ulti
 
 Study the Shot List Example in Chapter Nine to see what you need to include.
 
-<!-- [plugin:content-inject](../_9-5) -->
+
+#### Read and Watch {-}
 
 ```{block2, type='reflect'}
 
-#### Shot Lists {-}
-
-Read about Shot Lists in Chapter 9.
-
-In preparation, view this resource: 
-
-**Basics of Creating a Shot List** 
+- Read the section on Storyboarding and Shot Lists in Chapter 9.
+- Next, read the article ["What Is a Storyboard and How Do You Make One for Your Video?](https://www.wyzowl.com/what-is-a-storyboard/){target="_blank"} to better understand storyboards 
+- Storyboard the scenes from your scriptment you plan to film. You can do this alone but it will be better if at least the director and cinematographer for your project work on this together. Ideally everyone on the team should work on this so that you will bond and have a unified vision of how to stage and shoot your shots.
+- Watch the video [“Master the Art of Shot Lists: Boost Your Filmmaking Efficiency!”](https://www.youtube.com/watch?v=-rzJP_5L_yQ){target="_blank"}
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-rzJP_5L_yQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-rzJP_5L_yQ?si=NMtOpYRza2hBBRay" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+- Make sure to include your shot lists in your final project and course journal.
+
+---
+
+**Helpful Hint:** Remember your locations will determine a lot of how you can and cannot shoot a scene. A drone will not work in a small room. Therefore, be sure to scout your locations and take pictures of them as you desing your storyboards and shot lists. Be sure to also confirm that the locations will be available for your shooting schedule.
 
 ```
+
 
 ## Casting {-}
 
@@ -283,116 +263,97 @@ This pre-production process emphasized here will also help you to know if some s
 Having good actors is critical to having a good film. Follow the tips and guidelines in the chapter and work hard to find the best actors you can. It will pay off a lot.
 
 
- 
-<!-- [plugin:content-inject](../_9-6) -->
+#### Read and Watch {-}
 
 ```{block2, type='reflect'}
-
-#### Read, View and Listen {-}
 
 Read the Casting section in Chapter 9.
 
-Before auditioning and casting your film see this simple overview of the casting process: 
-
-**How to Cast an ACTOR for a Low Budget Film | The Film Look**
+Before auditioning and casting your film, watch the video [“How to Cast an ACTOR for a No Budget Film”](https://www.youtube.com/watch?v=YpCkRPqsiJ4){target="_blank"} for a simple overview of a casting process
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YpCkRPqsiJ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
 
-For practical tips for auditioning actors see: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpCkRPqsiJ4?si=ZCgrd0EvFRO7mOnX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Auditioning Actors**
+</div>
 
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x0G6n346m90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+---
 
-For detailed information regarding how to work with actors and casting for low budget films listen to this podcast: 
-
-**How to Cast a No Budget Indie Film with Casting Director Veronika Lee (Backstage Magazine),**
+For practical tips for auditioning actors watch the video [“Auditioning Actors”](https://www.youtube.com/watch?v=x0G6n346m90){target="_blank"}
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x0G6n346m90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x0G6n346m90?si=WezBWM_7IY4xE6yZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+---
+
+For detailed information regarding how to work with actors and casting for low budget films listen to this podcast:[How to Cast a No Budget Indie Film with Casting Director Veronika Lee](https://www.youtube.com/watch?v=-DwKilT0T34){target="_blank"}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-DwKilT0T34?si=whbwj7sEpuvcS9Lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
 
 ```
 
-## Other Types of Films {-}
 
-Some of you might want to do a documentary or an experimental film. Though this course centers on classical approaches to fictional narrative film, you are free to work on such projects. It is important that you pitch such projects ahead of time to your instructor to make sure it is doable within the confines of this course.
-
-<!-- [plugin:content-inject](../_9-8) -->
-
-```{block2, type='reflect'}
-
-#### Other Types of Film {-}
-
-See the section on Other Types of Film if you want to do a documentary or experimental film and view the resources for them.
-
-```
-
-## Sound Recording {-}
+## Sound Recording 
 
 Audio can make or break a film, especially in no-budget and low-budget filmmaking. Proper sound recording and sound editing is a course unto itself and if you want to go into filmmaking professionally you should take at least one course in this.
 
-Study the Sound Recording section in Chapter Nine and the suggested resources to help up get better quality sound for your project.
-
-
-
-<!-- [plugin:content-inject](../_9-9) -->
+### Activity: Read and Research {-}
 
 ```{block2, type='reflect'}
-
-
-#### Chapter Resources {-}
 
 How to capture great sound for a film without the use of professionals and professional gear is a challenge. View the three resources for this in Chapter Nine and find tutorials and instruction essays on the web that are appropriate to your cell phone and DSLR.
 
 ```
 
-## The Final Steps {-}
+## The Final Steps
 
 Bravo. Once you have reached this stage of this Unit and the previous one you should be well-equipped to produce and film your movie.
 
 You will then have to edit it. This section adds some new techniques that can help elevate your film project to a higher level, namely Split Edits. If you can, add this to the editing of your film, as well as L cuts and J cuts. They will make your film flow better and be more engaging and enjoyable. It might also help win you an award in the course.
 
-
-
-<!--[plugin:content-inject](../_9-9-2) -->
+### Activity: Review {-}
 
 ```{block2, type='reflect'}
-
-#### Review {-}
 
 Review Unit 7 to refresh yourself about what is involved in the post-production process. If possible, add Split Edits to elevate the quality and sophistication of your final film project.
 
 ```
 
-## Guidelines for Doing and Evaluating The Final Film Project {-}
-
-Continuity or the non-distracting and motivated and smooth flow of action is another skill set essential to the filmmaker’s took kit.
-
-Study these resources and practice applying them in your edited scenes especially those with dialogue or where one scene transitions into another:
+### Activity: Guidelines for Doing and Evaluating The Final Film Project {-}
 
 ```{block2, type='reflect'}
 
+Continuity or the non-distracting and motivated and smooth flow of action is another skill set essential to the filmmaker’s toolkit. Study the following resources and practice applying them in your edited scenes especially those with dialogue or where one scene transitions into another:
 
-**SFX Secrets: The J Cut & The L Cut**
+
+- [SFX Secrets: The J Cut & The L Cut](https://www.youtube-nocookie.com/embed/eyH-a964kAs){target="_blank"}
 
 <div class="video-container">
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eyH-a964kAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 </div>
 
+---
 
-**Video Editing Tips: J Cut vs L Cut**
+- [Video Editing Tips: J Cut vs L Cut](https://www.youtube-nocookie.com/embed/fT5rRPMnka0){target="_blank"}
 
-<div class="video-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fT5rRPMnka0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fT5rRPMnka0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
 
 In addition, study the *Steps to Making an Excellent Short Film* section in the chapter. It is both a good recap and a good checklist to help ensure you have the elements need to make an excellent final film.
 
-<!-- [plugin:content-inject](../_9-10) -->
-
-#### Final Project Guidelines {-}
-
-Study the guidelines and the Evaluation Criteria closely for the final project. They will help you to do well. This criteria closely tracks that which was used to evaluate your montages so the process should be more comfortable for you now.
+Please study the guidelines and the Evaluation Criteria closely for the final project. They will help you to do well. This criteria closely tracks that which was used to evaluate your montages so the process should be more comfortable for you now.
 
 - Did the film make sense and work overall?  
 - Did the film meet genre expectations?  
@@ -404,7 +365,7 @@ Study the guidelines and the Evaluation Criteria closely for the final project. 
 - What needed improvement?  
 - What did you like best about the film?  
 - What did you like least?  
-- Other comments.  
+- Other comments.
 
 ```
 
@@ -415,60 +376,29 @@ In this unit, you learned about:
 - The Syntax of Film  
 - The Importance and Types of Coverage  
 - Continuity  
-- Storyboarding  
-- Shot Lists  
+- Storyboarding and Shot Lists  
 - Casting  
 - Sound Recording  
-- Other Types of Short Films  
-- The Final Steps  
-- Guidelines for Doing and Evaluating the Final Film Project  
 
 ## Assessment {-}
 
-<!-- [plugin:content-inject](../../assignments/_film-journal) -->
-
 ```{block2, type='assessment'}
 
-### Assignment: {-}
-
-### Film Journal {-}
+<span class="blockhead">Course Journal</span>
 
 After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
 
-<!-- [plugin:content-inject](../../assignments/_assignment-9) -->
+Note that entries are expected after every unit. Your journal reflections are submitted at the end of the course as part of the Journal One: Personal Journal and self assessment.
 
-#### Final Film Project (40%) {-}
+*See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
 
-This final film project will account for 40% of your grade.
+<span class="blockhead">Final Film Project </span>
 
-See the details in the Assessment section.
-
-#### Grading Criteria: {-}
-
-**Grading Breakdown for Final Film Project**
-
-- Film Story and Script 10 Points  
-- Cinematography and Coverage 10 Points  
-- Editing 10 Points  
-- Acting 10 Points  
-  
-Total 40 points.=
-
-- 10 points = Excellent work  
-- 8 Points = Above Average work  
-- 6-7 points Average work  
-- 4-5 points Below Average Work  
-- 1-3 points failure to meet the criteria  
+This final film project will account for 40% of your grade. See the Assessments section for more details on your Final Film Project and how to submit it, as well as the grading criteria.
 
 ```
 
-```{block2, type='caution'}
-
-**Note:** that entries are expected for every unit.  Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 30% of your course grade.
-
-```
 ## Checking your Learning {-}
-
 
 ```{block2, type='progress'}
 
@@ -479,7 +409,6 @@ Before you move on to the next unit, you may want to check to make sure that you
 - Demonstrate How To Use Continuity.  
 - Create Storyboards and Shot Lists.  
 - Demonstrate Casting Skills.  
-- Apply L Cuts and J Cuts.  
-- Evaluate the final film project.  
+- Apply L Cuts and J Cuts. 
 
 ```
