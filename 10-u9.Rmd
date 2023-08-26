@@ -111,11 +111,6 @@ Read and study the first section of Chapter 9: The Syntax of Film. Then, before 
 
 ```
 
-```{block2, type='caution'}
-
-**Note:** that this learning activity is ungraded, but is designed to help you succeed in your assessments in this course. 
-
-```
 
 ## The Importance and Types of Camera Coverage 
 
