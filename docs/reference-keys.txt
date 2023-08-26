@@ -27,7 +27,6 @@ post-production-workflow
 montage
 digital-video-editing-software
 montage-project
-creating-your-montage
 creating-narrative-and-other-short-films
 types-of-film
 film-genres
