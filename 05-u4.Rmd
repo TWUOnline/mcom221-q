@@ -188,11 +188,11 @@ In this unit, you learned about cinematic motion and how to motivate it and do i
 
 ```{block2, type='assessment'}
 
-<span class="blockhead">Final Exam</span>
+<span class="blockhead">Course Journal</span>
 
 After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
 
-Note that entries are expected for every unit. Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 10% of your course grade.
+Note that entries are expected after every unit. Your journal reflections are submitted at the end of the course as part of the Journal One: Personal Journal and self assessment.
 
 *See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
 

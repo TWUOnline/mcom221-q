@@ -148,7 +148,7 @@ As they say, a picture is worth a thousand words, and when you see the shots in 
 
 ## Camera Angles, Heights and Heights
 
-### Camera Angles and Heights {-}
+<span class="blockhead">Camera Angles and Heights</span>
 
 Camera heights and angles reveal both text and subtext. That is, they show us what is being filmed (the object or subject) and often convey something about the meaning of the subject or object (the subtext).
 

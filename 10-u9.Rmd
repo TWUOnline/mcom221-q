@@ -82,7 +82,7 @@ Here are the resources you will need to complete this unit.
 - [SFX Secrets: The J Cut & The L Cut](https://www.youtube.com/watch?v=eyH-a964kAs)  
 - and [Video Editing Tips: J Cut vs L Cut](https://www.youtube.com/watch?v=fT5rRPMnka0)  -->
 
-## The Syntax of Film The Importance of Camera Coverage
+## The Syntax of Film
 
 The first principle of this unit will focus on film syntax, where you take the grammar of film—the types of shots, shot sizes, shot angles and height, shot framing, subject angles, etc. and order them in a way that best communicates what you want to say. This is where higher-level creativity takes place.
 
@@ -110,7 +110,6 @@ Read and study the first section of Chapter 9: The Syntax of Film. Then, before 
 
 
 ```
-
 
 ## The Importance and Types of Camera Coverage 
 
@@ -225,7 +224,7 @@ It is better if your whole production team gives feedback on the shot list. Ulti
 Study the Shot List Example in Chapter Nine to see what you need to include.
 
 
-#### Read and Watch {-}
+### Read and Watch {-}
 
 ```{block2, type='reflect'}
 
@@ -248,8 +247,7 @@ Study the Shot List Example in Chapter Nine to see what you need to include.
 
 ```
 
-
-## Casting {-}
+<span class="blockhead">Casting</span>
 
 Once you have your locations, storyboards, shot list, and schedule you are ready to cast your show. Casting is often done earlier in larger professional productions because they need to lock in busy actors. For this scale of micro or no budget filmmaking having your shooting schedule and your storyboards and shot lists can show seasoned actors that you know what you are doing and can help you land them.
 
@@ -258,7 +256,7 @@ This pre-production process emphasized here will also help you to know if some s
 Having good actors is critical to having a good film. Follow the tips and guidelines in the chapter and work hard to find the best actors you can. It will pay off a lot.
 
 
-#### Read and Watch {-}
+### Read and Watch {-}
 
 ```{block2, type='reflect'}
 

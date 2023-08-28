@@ -65,7 +65,7 @@ Here are the resources you will need to complete this unit.
 
 ## Types of Film and Genres
 
-### Types of Film {-}
+<span class="blockhead">Types of Film </span>
 
 There are three main types of short films that we can do for the project ahead:
 
@@ -148,7 +148,7 @@ To help you do this, follow the steps in Story Research Section of Chapter Eight
 
 Brainstorm either alone or with a partner and come up with a story concept to pitch to the class. The goal of this activity is to do find a compelling story and to pitch it in a way that will attract the teammates you will need to make your longer film.
 
-Check the Guidelines for Pitching a Film Project 
+Check the [Guidelines for Pitching a Film Project](assets/unit8/Guidelines_for_fairytale_template_for_a_short_film.pdf){target="_blank”}
 
 To prepare for your pitch make sure you:
 
@@ -220,7 +220,7 @@ In this unit, you learned about:
 
 ```{block2, type='assessment'}
 
-<span class="blockhead">Final Exercise</span>
+<span class="blockhead">Course Journal</span>
 
 After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
 

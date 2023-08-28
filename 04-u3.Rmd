@@ -73,7 +73,7 @@ Here are the resources you will need to complete this unit:
 
 ## Elements and Principles of Composition
 
-### Elements of Composition {-}
+<span class="blockhead">Elements of Composition</span>
 
 At heart, visual composition means the intentional arrangement or conscious activity of constructing the “ingredients” of an image. As we grow in our filmmaking craft, we must continually be aware of what takes place within the frame (the border of a picture or a film shot). Focusing on a single image can help train us to do this.
 

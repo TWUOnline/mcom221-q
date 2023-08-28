@@ -117,7 +117,7 @@ To prime your imagination for the upcoming project, watch the video [Visual Stor
 
 ```
 
-### Secrets to a Simple Story {-}
+<span class="blockhead"> Secrets to a Simple Story</span>
 
 In order to do this first project, you will need to come up with a story to film. Something has to happened to someone and they must engage in action to address it. But if we are to design a good story—one that holds the attention of our audience and engages them—we need to focus on several things in our short film project:
 
@@ -159,7 +159,7 @@ After you feel you have a good grasp of brainstorming, engage in the process and
 ```
 
 
-### Short Film Story Template {-}
+<span class="blockhead">Short Film Story Template</span>
 
 Once you have your core story concept you now need to make it into a full story with a beginning, middle, and end. We also need to make sure we do not make it too complicated or muddled.
 
@@ -243,7 +243,7 @@ In this unit, you learned about:
 
 ```{block2, type='assessment'}
 
-<span class="blockhead">Assignment: Final Exam</span>
+<span class="blockhead">Course Journal</span>
 
 After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
 
