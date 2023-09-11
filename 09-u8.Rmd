@@ -19,7 +19,7 @@ Before moving ahead, view this resource:
 
 </div>
 
-## Topics {-}
+### Topics {-}
 
 This unit is divided into the following topics:
 
@@ -28,7 +28,7 @@ This unit is divided into the following topics:
 - Script and Story Development  
 - Creating a Scriptment  
 
-## Learning Outcomes {-}
+### Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
@@ -38,7 +38,7 @@ When you have completed this unit, you should be able to:
 - Create a shooting script  
 
 
-## Activity Checklist {-}
+### Activity Checklist {-}
 
 ```{block2, type='reflect'}
 
@@ -52,11 +52,11 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ```
 
-## Assessment {-}
+### Assessment {-}
 
 See the Assessment section in Moodle for assignment details and due dates.
 
-## Resources {-}
+### Resources {-}
 
 Here are the resources you will need to complete this unit.
 
@@ -133,6 +133,8 @@ Once you have created a story concept that inspires you, pitch it to the class t
 In the next activity, you'll be asked to brainstorm and develop a core story idea to pitch to the class.
 
 To help you do this, follow the steps in Story Research Section of Chapter Eight and ask and answer the questions in the What to Look for Section. This should prime your creative pump for the next topic. Also view this helpful resource:
+
+[Watch: How to Write a Short Film](https://www.youtube.com/watch?v=wMqIQcTMlA0){target="_blank"}
 
 <div class="video-container">
 

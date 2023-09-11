@@ -8,14 +8,14 @@ Given the many skills needed to make a great film over time, filmmakers have dev
 
 Like in a story that has a beginning, middle and end, the filmmaking process is divided into three sections or segments: pre-production, production, and post-production. (There is a fourth component dealing with marketing and distribution, but this will not be covered in this course.) We start with an overall look at the filmmaking process. This will give us the big picture of what will lie ahead so that we do not get lost in the details of the many elements of filmmaking, and so that we can place what we will be doing and practicing in a larger framework.
 
-## Topics {-}
+### Topics {-}
 
 This unit is divided into the following topics:
 
 1. The Three Phases of Filmmaking.
 2. Pre-Production, Production, and Post-Production.
 
-## Learning Outcomes {-}
+### Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
@@ -24,7 +24,7 @@ When you have completed this unit, you should be able to:
 - Capture an overview of the processes you will do during the course  
 - Define why excellence should be the benchmark of each phase of filmmaking.  
 
-## Activity Checklist {-}
+### Activity Checklist {-}
 
 ```{block2, type='reflect'}
 
@@ -48,12 +48,12 @@ Next, watch [Pitching and Pre-Production: Crash Course Film Production #2](https
 
 ```
 
-## Assessment {-}
+### Assessment {-}
 
 See the Assessment section in Moodle for assignment details and due dates.
 
 
-## Resources {-}
+### Resources {-}
 
 Here are the resources you will need to complete this unit.
 
@@ -267,11 +267,11 @@ In this unit, you learned about the overall process of making a film as well as 
 
 ```{block2, type='assessment'}
 
-<span class="blockhead">Assignment 1: Film Journal</span>
+<span class="blockhead">Assignment 1: Course Journal</span>
 
 After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
 
-Note that entries are expected for every unit.  Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 30% of your course grade.
+Note that entries are expected after every unit. Your journal reflections are submitted at the end of the course as part of the Journal One: Personal Journal and self assessment.
 
 *See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
 

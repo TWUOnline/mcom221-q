@@ -8,7 +8,7 @@ We are now at a point in the course where you are going to be held accountable f
 
 But fear not. Based on your previous work and what you will learn in this unit you will be ready to make a film that is “public” worthy. In addition, this first film will only account for 10% of your grade so you are encouraged to explore and take risks.
 
-## Topics {-}
+### Topics {-}
 
 This unit is divided into the following topics:
 
@@ -16,7 +16,7 @@ This unit is divided into the following topics:
 - Brainstorming and Successful Creativity
 - Direction Vectors and Eye-line Requirements
 
-## Learning Outcomes {-}
+### Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
@@ -26,7 +26,7 @@ When you have completed this unit, you should be able to:
 - Determine how to tell a visually-centered story well  
 - Create a short simple story to film  
 
-## Activity Checklist {-}
+### Activity Checklist {-}
 
 ```{block2, type='reflect'}
 
@@ -39,7 +39,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ```
 
-## Assessment {-}
+### Assessment {-}
 
 See the Assessment section in Moodle for assignment details and due dates.
 
@@ -67,7 +67,7 @@ Assessment**
 -->
 
 
-## Resources {-}
+### Resources {-}
 
 Here are the resources you will need to complete this unit.
 

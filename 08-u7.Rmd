@@ -12,7 +12,7 @@ As you saw in Unit 2, editing is the third major phase of filmmaking and a major
 
 Don’t worry if you do not want to be an editor. You will work in teams this time and as long as the work on the film is shared equally between yourself and your partner(s), you can offer editing suggestions but will not have to push the buttons. (This is how it works in the industry where the director and producer tell the editor what they want and the editor does the technical work.)
 
-## Topics {-}
+### Topics {-}
 
 This unit is divided into the following topics covered in the course text:
 
@@ -22,7 +22,7 @@ This unit is divided into the following topics covered in the course text:
 - Montage Project
 
 
-## Learning Outcomes {-}
+### Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
@@ -33,7 +33,7 @@ When you have completed this unit, you should be able to:
 - Evaluate the quality of a montage
 
 
-## Activity Checklist {-}
+### Activity Checklist {-}
 
 ```{block2, type='reflect'}
 
@@ -55,12 +55,12 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ```
 
-## Assessment {-}
+### Assessment {-}
 
 See the Assessment section in Moodle for assignment details and due dates.
 
 
-## Resources {-}
+### Resources {-}
 
 Here are the resources you will need to complete this unit.
 
@@ -314,7 +314,7 @@ Be sure to note which films and filmmakers had the best cinematography, editing,
 
 ## Summary {-}
 
-In this unit, you learned about…
+In this unit, you learned about:
 
 - Post-Production Workflow which helps you to organize the process of how you will edit your film project.
 - Montage which is a technique or type of film where pictures and sounds are interwoven to create a story, mood, and theme.
@@ -340,9 +340,9 @@ Note that entries are expected after every unit. Your journal reflections are su
 
 ---
 
-<span class="blockhead">Montage Project (30%)</span>
+<span class="blockhead">Montage Short Project (30%)</span>
 
-This montage project will account for 20 percent of your grade and will be broken down according to the following:
+This montage project will account for 30 % of your grade and will be broken down according to the following:
 
 - Story/Montage Concept: 20%  
 - Cinematography: 20%  

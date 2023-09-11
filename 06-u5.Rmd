@@ -9,7 +9,7 @@ When we watch a film or TV show most people have no idea how much work and detai
 This will be a fun chapter as you get to explore and experiment with the fundamental building blocks that create meaning in cinema. It is a unit that will challenge both your thinking and your intuition skills as you learn the basic components of filmmaking and how to use them in creative ways.
 
 
-## Topics {-}
+### Topics {-}
 
 This unit is divided into the following topics:
 
@@ -18,7 +18,7 @@ This unit is divided into the following topics:
 3. Camera Angles and Heights  
 4. Camera Subject Angles  
 
-## Learning Outcomes {-}
+### Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
@@ -28,7 +28,7 @@ When you have completed this unit, you should be able to:
 - Determine when and how to use subject angles  
 - Create shots that reveal what you discovered in this unit  
 
-## Activity Checklist {-}
+### Activity Checklist {-}
 
 ```{block2, type='reflect'}
 
@@ -53,12 +53,12 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Complete the Street Photography exercise.
 -->
 
-## Assessment {-}
+### Assessment {-}
 
 See the Assessment section in Moodle for assignment details and due dates.
 
 
-## Resources {-}
+### Resources {-}
 
 Here are the resources you will need to complete this unit.
 
@@ -124,8 +124,7 @@ In addition to shot size we also designate film shots by who or what is in the f
 
 As they say, a picture is worth a thousand words, and when you see the shots in action in these resources they become more clear. Watch the video resources below to learn more about basic shots
 
-[Watch: Introduction to shot types and camera movement](https://www.youtube.com/watch?v=lRo2IqYbEaE)
-{target="_blank”}
+[Watch: Introduction to shot types and camera movement](https://www.youtube.com/watch?v=lRo2IqYbEaE){target="_blank"}
 
 <div class="video-container">
 

@@ -14,7 +14,7 @@ This course will focus on one aspect of narratives, namely visual storytelling. 
 
 In practical terms, the better you are at communicating stories (relative to each profession), the better you will be at your job. Fasten your seat belt, you are about to find out why we have focused on the above to start this course.
 
-## Topics {-}
+### Topics {-}
 
 This unit is divided into the following topics:
 
@@ -23,7 +23,7 @@ This unit is divided into the following topics:
 1. 15 Tips for Doing Your Best  
 1. Transferable Skills  
 
-## Learning Outcomes {-}
+### Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
@@ -34,7 +34,7 @@ When you have completed this unit, you should be able to:
 - Self-assess your strengths and weaknesses  
 - Plan what you want to focus on during the course in terms of your professional and personal growth.  
 
-## Activity Checklist {-}
+### Activity Checklist {-}
 
 ```{block2, type='reflect'}
 
@@ -57,12 +57,12 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ```
 
-## Assessment {-}
+### Assessment {-}
 
 See the Assessment section in Moodle for assignment details and due dates.
 
 
-## Resources {-}
+### Resources {-}
 
 Here are the resources you will need to complete this unit.
 
@@ -274,9 +274,9 @@ In this first unit, you have had the opportunity to learn about what this course
 
 ## Assessment {-}
 
-### Course Journal {-}
-
 ```{block2, type='assessment'}
+
+<span class="blockhead">Course Journal</span>
 
 After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
 

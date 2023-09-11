@@ -12,7 +12,7 @@ Many of the items and techniques addressed here have been covered in the previou
 
 Let’s dig in.
 
-## Topics {-}
+### Topics {-}
 
 This unit is divided into the following topics:
 
@@ -25,7 +25,7 @@ This unit is divided into the following topics:
 - The Final Steps
 
 
-## Learning Outcomes {-}
+### Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
@@ -37,7 +37,7 @@ When you have completed this unit, you should be able to:
 - Apply L Cuts and J Cuts.  
 
 
-## Activity Checklist {-}
+### Activity Checklist {-}
 
 ```{block2, type='reflect'}
 
@@ -52,12 +52,12 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ```
 
-## Assessment {-}
+### Assessment {-}
 
 See the Assessment section in Moodle for assignment details and due dates.
 
 
-## Resources {-}
+### Resources {-}
 
 Here are the resources you will need to complete this unit.
 
@@ -94,6 +94,8 @@ Filmmaking is like a language where you use the elements of grammar to make sent
 
 Read and study the first section of Chapter 9: The Syntax of Film. Then, before moving on to the next topic in this unit, watch the following tutorials to re-enforce the big picture. Do not forget to log in your journal your best take-aways from them.
 
+[Watch: How to Shoot a Scene! - Film Riot](https://www.youtube.com/watch?v=IK2IAEO-FUI){target="_blank"}
+
 <div class="video-container">
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IK2IAEO-FUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
@@ -101,6 +103,8 @@ Read and study the first section of Chapter 9: The Syntax of Film. Then, before 
 </div>
 
 ---
+
+[Watch: Film Blocking Tutorial — Filmmaking Techniques for Directors: Ep3](https://www.youtube.com/watch?v=9AGaECt9j4g){target="_blank"}
 
 <div class="video-container">
 
@@ -215,7 +219,7 @@ The important thing is not the quality but that your storyboards make sense to y
 
 At the same time, do not become a slave to your storyboard. If you discover something better or get inspired on the film set, try the new thing. For safety, shoot it the storyboard way and then the new way and decide during post-production which one will work best.
 
-### Shot Lists {-}
+<span class="blockhead">Shot Lists</span>
 
 Once you have your scriptment describing all of the action and dialogue you will film and have storyboarded your film, you can now create a shot list which will help ensure you get all the shots needed for your coverage.
 
@@ -385,9 +389,9 @@ Note that entries are expected after every unit. Your journal reflections are su
 
 *See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
 
-<span class="blockhead">Final Film Project </span>
+<span class="blockhead">Short Film Project </span>
 
-This final film project will account for 40% of your grade. See the Assessments section for more details on your Final Film Project and how to submit it, as well as the grading criteria.
+This final short film project will account for 40% of your grade. See the Assessments section for more details on your Final short Film Project and how to submit it, as well as the grading criteria.
 
 ```
 

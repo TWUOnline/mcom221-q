@@ -15,7 +15,7 @@ This unit is divided into the following topics:
 1. Types of Cinematic Motion  
 2. Motivating Camera Movement  
 
-## Learning Outcomes {-}
+### Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
@@ -24,7 +24,7 @@ When you have completed this unit, you should be able to:
 - Determine when and how to use cinematic motion
 - Create effective cinematic motion shots
 
-## Activity Checklist {-}
+### Activity Checklist {-}
 
 ```{block2, type='reflect'}
 
@@ -41,6 +41,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Motion Shots Practice: Practice doing as many of the main types of motion shots as you can. Discuss what you did and why with your peers.
 - Proper Motivation Practice: Find someone to film and practice each of the cinematic motion techniques with your cell phone.
 
+*Note that these learning activities are ungraded, unless specifie, but they are designed to help you succeed in your assessments in this course.*
+
 ```
 
 <!--
@@ -51,7 +53,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 -->
 
 
-## Resources {-}
+### Resources {-}
 
 Here are the resources you will need to complete this unit:
 

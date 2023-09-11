@@ -8,14 +8,14 @@ This unit will also give you a chance to apply what you are learning in a creati
 
 Visual composition will play an important role in this course, so taking the time to learn it is well worth the investment.
 
-## Topics {-}
+### Topics {-}
 
 This unit is divided into the following topics:
 
 1. Elements and Principles of Composition
 2. Photographic Themes  
 
-## Learning Outcomes {-}
+### Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
@@ -24,7 +24,7 @@ When you have completed this unit, you should be able to:
 - Study the works of noted photographers and apply composition elements and principles to photographs you create  
 - Create photos that reveal your understanding of the chapter’s content  
 
-## Activity Checklist {-}
+### Activity Checklist {-}
 
 ```{block2, type='reflect'}
 
@@ -45,14 +45,18 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Read the article “20 Composition Techniques That Will Improve Your Photos”, and practice and apply techniques and principles of design.
 - Review the suggested websites to enrich your understanding of photographic themes and find images that stand out in intriguing, startling, fascinating, and emotionally moving ways.
 
-<span class="blockhead">Assessment</span>
+*Note that these learning activities are ungraded (unless specified), but they are designed to help you succeed in your assessments in this course.*
+
+```
+
+### Assessment
 
 - Film Journal  
 - Visual Composition Exercise (ungraded, but part of journal entry)  
 
-```
 
-## Resources {-}
+
+### Resources {-}
 
 Here are the resources you will need to complete this unit:
 
@@ -78,7 +82,7 @@ Here are the resources you will need to complete this unit:
 At heart, visual composition means the intentional arrangement or conscious activity of constructing the “ingredients” of an image. As we grow in our filmmaking craft, we must continually be aware of what takes place within the frame (the border of a picture or a film shot). Focusing on a single image can help train us to do this.
 
 ```{block2, type='caution'}
-**Important Tip**: Before continuing below, study this overview of the building blocks of composition in art: [The Visual Elements: The Building Blocks of Composition in Art](http://www.artyfactory.com/art_appreciation/visual-elements/visual-elements.html).
+**Important Tip**: Before continuing below, study this overview of the building blocks of composition in art: [The Visual Elements: The Building Blocks of Composition in Art](http://www.artyfactory.com/art_appreciation/visual-elements/visual-elements.html){target="_blank"}
 
 ```
 
@@ -93,7 +97,7 @@ The following are some of the formal elements that make up the design and struct
 - Space (positive/objects); (negative/space between objects)  
 - Depth (foreground/mid-ground/background)  
 
-### Principles of Composition {-}
+### Principles of Composition
 
 In addition to elements of design, there are also principles or general rules that help give structure to visual compositions and which can also lend meaning or a theme to an image. Elements are specific things whereas principles are more general. Here are four that the course text focuses on:
 
@@ -105,7 +109,7 @@ In addition to elements of design, there are also principles or general rules th
 There are many other principles such as the use of triangles and frame within a frame in compositions.
 
 
-#### Activity: Read and Study {-}
+### Activity: Read and Study {-}
 
 ```{block2, type='reflect'}
 
@@ -124,7 +128,7 @@ Based on your study of this section, what are some observations you can share in
 ```{block2, type='reflect'}
 
 
-Read the article [20 Composition Techniques That Will Improve Your Photos](https://petapixel.com/2016/09/14/20-composition-techniques-will-improve-photos/){target="_blank”}, and "[Principles of Design](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf){target="_blank”}. Practice and apply techniques and principles of design.
+Read the article [28 Composition Techniques That Will Improve Your Photos](https://petapixel.com/photography-composition-techniques/){target="_blank"}, and [Principles of Design](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf){target="_blank”}. Practice and apply techniques and principles of design.
 
 ```
 
@@ -170,11 +174,11 @@ We have emphasized composition here because well composed shots are a foundation
 
 <!-- [plugin:content-inject](../../assignments/_film-journal)  -->
 
-<span class="blockhead">Film Journal</span>
+<span class="blockhead">Course Journal</span>
 
 After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
 
-Note that entries are expected for every unit. Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 10% of your course grade.
+Note that entries are expected after every unit. Your journal reflections are submitted at the end of the course as part of the Journal One: Personal Journal and self assessment.
 
 *See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
 
@@ -188,7 +192,7 @@ After you have done some composition research and explored great photographers a
 
 Remember, the name of the game is to learn not to be perfect.bRefer to the specific guidelines in the assessment section. Be sure to study them carefully.
 
-See the Assessments section for more details on your composition, as well as the grading criteria.
+*See the Assessments section for more details on your composition, as well as the grading criteria.*
 
 ```
 <!--
