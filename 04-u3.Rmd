@@ -49,7 +49,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ```
 
-### Assessment
+### Assessment {-}
 
 - Film Journal  
 - Visual Composition Exercise (ungraded, but part of journal entry)  
@@ -97,7 +97,7 @@ The following are some of the formal elements that make up the design and struct
 - Space (positive/objects); (negative/space between objects)  
 - Depth (foreground/mid-ground/background)  
 
-### Principles of Composition
+<span class="blockhead">Principles of Composition</span>
 
 In addition to elements of design, there are also principles or general rules that help give structure to visual compositions and which can also lend meaning or a theme to an image. Elements are specific things whereas principles are more general. Here are four that the course text focuses on:
 

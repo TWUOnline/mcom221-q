@@ -15,6 +15,7 @@ This unit is divided into the following topics:
 1. The Three Phases of Filmmaking.
 2. Pre-Production, Production, and Post-Production.
 
+
 ### Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
@@ -24,20 +25,12 @@ When you have completed this unit, you should be able to:
 - Capture an overview of the processes you will do during the course  
 - Define why excellence should be the benchmark of each phase of filmmaking.  
 
+
 ### Activity Checklist {-}
 
 ```{block2, type='reflect'}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
-
- <!-- [plugin:content-inject](_schedule) -->
-<!--
-- View the video resource: [Shooting a Film- START to FINISH!](https://www.youtube.com/watch?v=8NCLf9rF6IQ)
-- Read the Pre-Production section of the course text.
-Next, watch [Pitching and Pre-Production: Crash Course Film Production #2](https://www.youtube.com/watch?v=JE53JL60ihc)
-- Read the Production section of the course text. Then, view the video on How to Shoot a Scene.  
-- Share in your journal and with your Facilitator and classmates why knowing the overall process is important and what you learned most from this unit.
--->
 
 - Watch the video “Shooting a Film- START to FINISH!”
 - Watch the video “Pitching and Pre-Production” to learn why pitching is important.
@@ -47,6 +40,7 @@ Next, watch [Pitching and Pre-Production: Crash Course Film Production #2](https
 *Note that these learning activities are ungraded, but they are designed to help you succeed in your assessments in this course.*
 
 ```
+
 
 ### Assessment {-}
 
@@ -60,14 +54,6 @@ Here are the resources you will need to complete this unit.
 - Chapter Two of *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft,* by Ned Vankevich (e-text)
 - Other online resources will be provided in the unit.
 
-<!--
-- Chapter Two of Digital Filmmaking: A Beginner’s Guide to Mastering the Craft, by Ned Vankevich (e-text)  
--  [**Pitching and Pre-Production: Crash Course Film Production #2**](https://www.youtube.com/watch?v=JE53JL60ihc)  
-- [**Shooting a film - START to FINISH\!**](https://www.youtube.com/watch?v=8NCLf9rF6IQ)  
-- [**Filmmaking From Beginning to End: Preproduction to Production**](https://www.youtube.com/watch?v=oj_Blr8JE1I) (Don’t worry if you  do not understand everything in these tutorials. You will at the right time as you follow this course.)  
-- [**How to Shoot a Scene - Blocking Actors**](https://www.youtube.com/watch?v=y9_LW5H2EC4)  
-- Other resources will be provided in the unit.  
--->
 
 ## The Three Phases of Filmmaking
 
@@ -110,7 +96,7 @@ For now, just watch the video and enjoy the process.
   - Coherence  
   - Consistency  
 
-   Proper pre-production involves many important general steps (see **What Proper Pre-Production Entails** section in Chapter 2 of the course text).
+  Proper pre-production involves many important general steps (see **What Proper Pre-Production Entails** section in Chapter 2 of the course text).
 
    - Planning  
    - Anticipation  
@@ -141,6 +127,7 @@ For now, just watch the video and enjoy the process.
  **Note:** The lion’s share of this unit and Chapter Two in the course book is devoted to pre-production to emphasize how important this phase is. Most people might think production is the most important part of the filming process. In fact, each phase is. In Hollywood the development process (creating the screenplay) and pre-production for a film often takes far longer than production. Post-Production is also a longer process than production when a major film is involved.</p>
 </details>
 
+---
 
 <details>
   <summary><b>**Production**</b> - Click here to expand</summary>
@@ -157,13 +144,15 @@ For now, just watch the video and enjoy the process.
  Performance is a crucial part of the filming process. Many filmmakers forget this and get so caught up in the shooting process that they overlook or miss bad acting. Don’t fall into this trap. You want to work on having your actors deliver believable, motivated, non-melodramatic performances. More on this later.</p>
 </details>
 
+---
+
 <details>
   <summary><b>**Post-Production**</b> - Click here to expand</summary>
- <p> The final phase of the filmmaking process involves post-production where all elements of        pre-production and production are “cut” or stitched together to create a finished film.
+ <p> The final phase of the filmmaking process involves post-production where all elements of pre-production and production are “cut” or stitched together to create a finished film.
 
  Like production, the post process is hands-on and labor intensive. If done digitally, it involves using software such as Adobe Premier Pro, Apple Final Cut, Avid, DaVinici Resolve, etc. to edit the footage and make transitions such as fades, dissolves, wipes, etc. (to be covered later). This can be easy but a lot of work goes into choosing the best and rights shots and editing them together.
 
- There are four phases to cutting the picture of a film:
+There are four phases to cutting the picture of a film:
 
  - Assembly Cut: where the shots are placed together in proper order without trimming them.  
  - Rough Cut: where you begin to “trim the fat” from the beginning and end of shots to get a feel for how the story will flow.  
@@ -185,6 +174,8 @@ For now, just watch the video and enjoy the process.
  - **Format Delivery**: What resolution will you use to export your film project? The wrong one can undermine the quality of your film.As can be gleaned, there is a lot to post-production but by carefully studying and practicing the units ahead it will make it easier.</p>
   </details>
  
+---
+
 If you are feeling overwhelmed and intimidated, you will not be alone. This is a lot to do and learn and this is why the bigger film projects can be done with team members.</p>
 
 

@@ -228,7 +228,7 @@ It is better if your whole production team gives feedback on the shot list. Ulti
 Study the Shot List Example in Chapter Nine to see what you need to include.
 
 
-### Read and Watch {-}
+### Activity: Read and Watch {-}
 
 ```{block2, type='reflect'}
 
