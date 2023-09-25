@@ -15,7 +15,7 @@ properly-motivated-camera-moving-shots
 the-grammar-of-film
 basic-grammar-of-film
 basic-shots-and-their-descriptions
-camera-angles-heights-and-heights
+camera-angles-and-heights
 camera-subject-angles
 visual-storytelling
 in-camera-project-and-its-benefits
@@ -24,6 +24,8 @@ direction-vectors-and-eyeline-requirements
 editing-and-montage
 post-production-workflow
 montage
+picture-cutting-techniques
+types-of-montage-projects
 digital-video-editing-software
 montage-project
 creating-narrative-and-other-short-films
@@ -34,6 +36,8 @@ making-your-short-film
 the-syntax-of-film
 the-importance-and-types-of-camera-coverage
 continuity
-storyboarding-and-shot-lists
+storyboarding
+shot-lists
+casting
 sound-recording
 the-final-steps

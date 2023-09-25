@@ -207,19 +207,19 @@ Do you feel you have a stronger grasp of continuity and of each the techniques a
 
 ```
 
-## Storyboarding and Shot Lists
+## Storyboarding
 
 By now you might feel overwhelmed with camera coverage and all that it takes to shoot your story and script well. Storyboarding and storyboards can help simplify the process and make it easier to visualize what you want to do and how to do it.
 
 It will help your scene coverage if you storyboard your shots. They do not have to be elaborate. They can be simple stick figures such as this one that shows a long shot of someone pushing or struggling against something (the context of your story will determine this).
 
-![graphic stick figure pushing](assets/unit5/Picture1.png)
+![*graphic stick figure pushing*](assets/unit5/Picture1.png)
 
 The important thing is not the quality but that your storyboards make sense to you and your crew so you will know how to approach a shot and why.
 
 At the same time, do not become a slave to your storyboard. If you discover something better or get inspired on the film set, try the new thing. For safety, shoot it the storyboard way and then the new way and decide during post-production which one will work best.
 
-<span class="blockhead">Shot Lists</span>
+## Shot Lists 
 
 Once you have your scriptment describing all of the action and dialogue you will film and have storyboarded your film, you can now create a shot list which will help ensure you get all the shots needed for your coverage.
 
@@ -245,13 +245,12 @@ Study the Shot List Example in Chapter Nine to see what you need to include.
 
 - Make sure to include your shot lists in your final project and course journal.
 
----
 
 **Helpful Hint:** Remember your locations will determine a lot of how you can and cannot shoot a scene. A drone will not work in a small room. Therefore, be sure to scout your locations and take pictures of them as you desing your storyboards and shot lists. Be sure to also confirm that the locations will be available for your shooting schedule.
 
 ```
 
-<span class="blockhead">Casting</span>
+## Casting 
 
 Once you have your locations, storyboards, shot list, and schedule you are ready to cast your show. Casting is often done earlier in larger professional productions because they need to lock in busy actors. For this scale of micro or no budget filmmaking having your shooting schedule and your storyboards and shot lists can show seasoned actors that you know what you are doing and can help you land them.
 
@@ -274,7 +273,6 @@ Before auditioning and casting your film, watch the video [“How to Cast an ACT
 
 </div>
 
----
 
 For practical tips for auditioning actors watch the video [“Auditioning Actors”](https://www.youtube.com/watch?v=x0G6n346m90){target="_blank"}
 
@@ -284,7 +282,7 @@ For practical tips for auditioning actors watch the video [“Auditioning Actors
 
 </div>
 
----
+
 
 For detailed information regarding how to work with actors and casting for low budget films listen to this podcast:[How to Cast a No Budget Indie Film with Casting Director Veronika Lee](https://www.youtube.com/watch?v=-DwKilT0T34){target="_blank"}
 
@@ -297,7 +295,7 @@ For detailed information regarding how to work with actors and casting for low b
 ```
 
 
-## Sound Recording 
+## Sound Recording
 
 Audio can make or break a film, especially in no-budget and low-budget filmmaking. Proper sound recording and sound editing is a course unto itself and if you want to go into filmmaking professionally you should take at least one course in this.
 
