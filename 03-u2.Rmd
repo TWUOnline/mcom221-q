@@ -82,11 +82,9 @@ For now, just watch the video and enjoy the process.
 ``` 
 
 
-## Pre-Production, Production, and Post-Production
+### Pre-Production {-}
 
-<details>
-  <summary><b>**Pre-Production**</b> - Click here to expand</summary>
-  <p>Like most things in life, if you do not have a strong foundation, what follows after will wobble. Proper pre-production is the foundation of an excellent film (and your up-coming exercises). The better you plan something, the better the result.
+Like most things in life, if you do not have a strong foundation, what follows after will wobble. Proper pre-production is the foundation of an excellent film (and your up-coming exercises). The better you plan something, the better the result.
 
   There are many elements to pre-production. When followed properly they enhance the 5 Cs of successful filmmaking (see the **Why Pre-Production is Important** section in Chapter 2 of the course text):
 
@@ -122,16 +120,13 @@ For now, just watch the video and enjoy the process.
 
  As can be seen, there is a lot involved before we film. Luckily, we will start with short exercises which will take minimal pre-production and gradually build to the more detailed aspects later.
 
- Note: The lion’s share of this unit and Chapter Two in the course book is devoted to pre-production to emphasize how important this phase is. Most people might think production is the most important part of the filming process. In fact, each phase is. In Hollywood the development process (creating the screenplay) and pre-production for a film often takes far longer than production. Post-Production is also a longer process than production when a major film is involved.
 
- **Note:** The lion’s share of this unit and Chapter Two in the course book is devoted to pre-production to emphasize how important this phase is. Most people might think production is the most important part of the filming process. In fact, each phase is. In Hollywood the development process (creating the screenplay) and pre-production for a film often takes far longer than production. Post-Production is also a longer process than production when a major film is involved.</p>
-</details>
+ **Note:** The lion’s share of this unit and Chapter Two in the course book is devoted to pre-production to emphasize how important this phase is. Most people might think production is the most important part of the filming process. In fact, each phase is. In Hollywood the development process (creating the screenplay) and pre-production for a film often takes far longer than production. Post-Production is also a longer process than production when a major film is involved.
 
----
 
-<details>
-  <summary><b>**Production**</b> - Click here to expand</summary>
- <p>The production phase involves the shooting of the film, what is often referred to as "principle photography". (Sometimes pick-up shots, re-dos, and B-roll footage are done during post-production.) For many filmmakers this is the most exciting part of filmmaking when they get a chance to go on location and watch actors do their magic.
+### Production {-}
+
+The production phase involves the shooting of the film, what is often referred to as "principle photography". (Sometimes pick-up shots, re-dos, and B-roll footage are done during post-production.) For many filmmakers this is the most exciting part of filmmaking when they get a chance to go on location and watch actors do their magic.
 
  Like pre-production, the production phase must be attended to thoughtfully and diligently or you will not have what you need to edit your film and make your story work. This is why a large portion of this course and the course text are dedicated to this phase of filmmaking, which will only be covered briefly here.
 
@@ -141,16 +136,13 @@ For now, just watch the video and enjoy the process.
 
  Production can also include green screen and CGI (computer generated imagery) work, but these are normally for bigger budget productions since they are specialized skills and it’s costly to do them well. They are also time consuming. (If you have After Effects and other special effects software skills please consider using them in this course.)
 
- Performance is a crucial part of the filming process. Many filmmakers forget this and get so caught up in the shooting process that they overlook or miss bad acting. Don’t fall into this trap. You want to work on having your actors deliver believable, motivated, non-melodramatic performances. More on this later.</p>
-</details>
+ Performance is a crucial part of the filming process. Many filmmakers forget this and get so caught up in the shooting process that they overlook or miss bad acting. Don’t fall into this trap. You want to work on having your actors deliver believable, motivated, non-melodramatic performances. More on this later.
 
----
+### Post-Production {-}
 
-<details>
-  <summary><b>**Post-Production**</b> - Click here to expand</summary>
- <p> The final phase of the filmmaking process involves post-production where all elements of pre-production and production are “cut” or stitched together to create a finished film.
+The final phase of the filmmaking process involves post-production where all elements of pre-production and production are “cut” or stitched together to create a finished film.
 
- Like production, the post process is hands-on and labor intensive. If done digitally, it involves using software such as Adobe Premier Pro, Apple Final Cut, Avid, DaVinici Resolve, etc. to edit the footage and make transitions such as fades, dissolves, wipes, etc. (to be covered later). This can be easy but a lot of work goes into choosing the best and rights shots and editing them together.
+Like production, the post process is hands-on and labor intensive. If done digitally, it involves using software such as Adobe Premier Pro, Apple Final Cut, Avid, DaVinici Resolve, etc. to edit the footage and make transitions such as fades, dissolves, wipes, etc. (to be covered later). This can be easy but a lot of work goes into choosing the best and rights shots and editing them together.
 
 There are four phases to cutting the picture of a film:
 
@@ -171,10 +163,8 @@ There are four phases to cutting the picture of a film:
 
  - **Audio Mixing** which involves finding the right levels and balance between the sound elements such as dialogue, music, sound effects, room tone, etc.  
 
- - **Format Delivery**: What resolution will you use to export your film project? The wrong one can undermine the quality of your film.As can be gleaned, there is a lot to post-production but by carefully studying and practicing the units ahead it will make it easier.</p>
-  </details>
- 
----
+ - **Format Delivery**: What resolution will you use to export your film project? The wrong one can undermine the quality of your film.As can be gleaned, there is a lot to post-production but by carefully studying and practicing the units ahead it will make it easier.
+
 
 If you are feeling overwhelmed and intimidated, you will not be alone. This is a lot to do and learn and this is why the bigger film projects can be done with team members.</p>
 
