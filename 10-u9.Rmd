@@ -216,6 +216,7 @@ It will help your scene coverage if you storyboard your shots. They do not have 
 <div style="font-size: 14px;">
 
 ![*graphic stick figure pushing*](assets/unit5/Picture1.png)
+
 </div>
 
 The important thing is not the quality but that your storyboards make sense to you and your crew so you will know how to approach a shot and why.
