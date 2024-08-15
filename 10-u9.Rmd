@@ -61,26 +61,23 @@ See the Assessment section in Moodle for assignment details and due dates.
 
 Here are the resources you will need to complete this unit.
 
-- Chapter 8 of course text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft,* by Ned Vankevich (e-text)
-- Other resources will be available online and in the course text. 
-
-<!--
-- [How to Shoot a Scene! - Film Riot](https://www.youtube.com/watch?v=IK2IAEO-FUI)  
-- [Film Blocking Tutorial — Filmmaking Techniques for Directors: Ep3](https://www.youtube.com/watch?v=9AGaECt9j4g)  
-- [FilmSkills.com - Getting the right shots and coverage](https://www.youtube.com/watch?v=okphB85lfjk)  
-- [What Is A Master Shot?](https://www.youtube.com/watch?v=cz3nBkIa9K0)  
-- [Match on Action technique](https://www.youtube.com/watch?v=eou7A-e2e4I)  
-- [Match Cuts in Film Editing](https://www.youtube.com/watch?v=El28XrjtcMI)  
-- [Screen Direction rule](https://www.youtube.com/watch?v=9XOn5uxdSJc)  
+- Chapter 8 of course text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft,* by Ned Vankevich (e-text)  
+- [How to Shoot a Scene! - Film Riot](https://www.youtube.com/watch?v=IK2IAEO-FUI){target="_blank"}    
+- [Film Blocking Tutorial — Filmmaking Techniques for Directors: Ep3](https://www.youtube.com/watch?v=9AGaECt9j4g){target="_blank"}   
+- [FilmSkills.com - Getting the right shots and coverage](https://www.youtube.com/watch?v=okphB85lfjk){target="_blank"}     
+- [What Is A Master Shot?](https://www.youtube.com/watch?v=cz3nBkIa9K0){target="_blank"}     
+- [Match on Action technique](https://www.youtube.com/watch?v=eou7A-e2e4I){target="_blank"}     
+- [Match Cuts in Film Editing](https://www.youtube.com/watch?v=El28XrjtcMI){target="_blank"}     
+- [Screen Direction rule](https://www.youtube.com/watch?v=9XOn5uxdSJc){target="_blank"}     
 - [Screen direction](https://www.youtube.com/watch?v=RogoUz_pk4Y)  
-- [Breaking Down the 180-Degree Rule](https://www.youtube.com/watch?v=HinUychY3sE)  
-- [The 30 Degree Rule in Filmmaking | Kaicreative | Tips](https://www.youtube.com/watch?v=1K8EUc98VoQ)  
-- [Is a Storyboard and How Do You Make One for Your Video?](https://www.wyzowl.com/what-is-a-storyboard/What)  
-- [Basics of Creating a Shot List](https://www.youtube.com/watch?v=-rzJP_5L_yQ)  
-- [How to Cast an ACTOR for a Low Budget Film | The Film Look](https://www.youtube.com/watch?v=YpCkRPqsiJ4)  
-- [Auditioning Actors](https://www.youtube.com/watch?v=x0G6n346m90)  
-- [SFX Secrets: The J Cut & The L Cut](https://www.youtube.com/watch?v=eyH-a964kAs)  
-- and [Video Editing Tips: J Cut vs L Cut](https://www.youtube.com/watch?v=fT5rRPMnka0)  -->
+- [Breaking Down the 180-Degree Rule](https://www.youtube.com/watch?v=HinUychY3sE){target="_blank"}     
+- [The 30 Degree Rule in Filmmaking | Kaicreative | Tips](https://www.youtube.com/watch?v=1K8EUc98VoQ){target="_blank"}     
+- [Is a Storyboard and How Do You Make One for Your Video?](https://www.wyzowl.com/what-is-a-storyboard/What){target="_blank"}     
+- [Basics of Creating a Shot List](https://www.youtube.com/watch?v=-rzJP_5L_yQ){target="_blank"}     
+- [How to Cast an ACTOR for a Low Budget Film | The Film Look](https://www.youtube.com/watch?v=YpCkRPqsiJ4){target="_blank"}     
+- [Auditioning Actors](https://www.youtube.com/watch?v=x0G6n346m90){target="_blank"}     
+- [SFX Secrets: The J Cut & The L Cut](https://www.youtube.com/watch?v=eyH-a964kAs){target="_blank"}     
+- and [Video Editing Tips: J Cut vs L Cut](https://www.youtube.com/watch?v=fT5rRPMnka0){target="_blank"}     
 
 ## The Syntax of Film
 
