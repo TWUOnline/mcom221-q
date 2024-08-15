@@ -67,7 +67,6 @@ Here are the resources you will need to complete this unit.
 - Chapter 7 of course text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft,* by Ned Vankevich (e-text)
 - Other online resources will be provided in the unit.
 
-<!--
 - Chapter Seven course text  
 - [Stages of Post Production for Filmmaking in Cinema](https://www.youtube.com/watch?v=IFjyVW21Vpw)  
 - [“20 Montages That Might Be The Best Part Of The Movie](https://www.refinery29.com/en-us/best-movie-montages)  
@@ -77,7 +76,7 @@ Here are the resources you will need to complete this unit.
 - [VIDEO EDITING TRANSITIONS (Taylor Cut Tutorial)](https://www.youtube.com/watch?v=bdpbYeoZKnk)  
 - [Critiquing Your Short Films](https://www.youtube.com/watch?v=x5ASDkOSIBE)  
 - Other online resources provided in the course text and this unit.  
--->
+
 
 ## Post-Production Workflow
 
