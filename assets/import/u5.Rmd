@@ -1,0 +1,246 @@
+# The Grammar of Film 
+
+## Overview {-}
+
+We go back to theory in this unit and then have a chance to practice and apply it.
+
+When we watch a film or TV show most people have no idea how much work and detail it took to make the production. Nor do they know the rules, guidelines, principles, and practices that were followed to create it. This unit and the ones following will help you explore what these best practices are and understand how to apply them to your work.
+
+This will be a fun chapter as you get to explore and experiment with the fundamental building blocks that create meaning in cinema. It is a unit that will challenge both your thinking and your intuition skills as you learn the basic components of filmmaking and how to use them in creative ways.
+
+
+### Topics {-}
+
+This unit is divided into the following topics:
+
+1. Basic Grammar of Film  
+2. Basic Shots and Their Descriptions  
+3. Camera Angles and Heights  
+4. Camera Subject Angles  
+
+### Learning Outcomes {-}
+
+When you have completed this unit, you should be able to:
+
+- Define the basic elements of the grammar of film  
+- Describe basic shots and their descriptions  
+- Contrast camera angles and heights  
+- Determine when and how to use subject angles  
+- Create shots that reveal what you discovered in this unit  
+
+### Activity Checklist {-}
+
+```{block2, type='reflect'}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+- Find and consult a film glossary such as Brooklyn College Film Glossary. Read and study the one you like throughout this course. Set a goal to learn 5 new terms or concepts each day. 
+- Watch two videos about Basic Shots in action
+- Read and Study Chapter 5 and explain how frames and shots become scenes and sequences and how they add up to a complete film story.
+- After thoroughly reading and studying Chapter 5 to grasp the concepts of shots, camera angles, heights, and camera subject angles, engage in practical application.
+
+*Note that these learning activities are ungraded, unless specified,  but are designed to help you succeed in your assessments in this course.*
+
+```
+
+
+ <!-- [plugin:content-inject](_schedule)
+
+- Consult a film glossary, read the first section of Chapter 5, and study [21 Eye-Opening Ways To Develop Your Intuition](https://liveboldandbloom.com/04/self-improvement/develop-your-intuition).  
+- Read the next section of Chapter 5 and view the video resources listed.  
+- Read [Camera work 101: Camera Height](http://timurcivan.com/2015/02/camera-work-101-camera-height/)
+- Read the next section of Chapter 5 and John Suler's [Photographic Psychology: Image and Psyche, Camera Angles](http://truecenterpublishing.com/photopsy/camera_angles.htm).  
+- Complete the Street Photography exercise.
+-->
+
+### Assessment {-}
+
+See the Assessment section in Moodle for assignment details and due dates.
+
+
+### Resources {-}
+
+
+Here are the resources you will need to complete this unit.
+
+  - Chapter 5 of course text, *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft*.
+  - [21 Eye-Opening Ways To Develop Your Intuition](https://liveboldandbloom.com/04/self-improvement/develop-your-intuition){target="_blank"}  
+  - Studying film shots is an essential part of mastering the craft of filmmaking. Study this helpful overview: [15 Essential Camera Shots, Angles and Movements in Filmmaking](https://www.youtube.com/watch?v=7y0ouVBcogU){target="_blank"}  
+  - For an overview of the types of film shots and angles see: [The Ultimate Guide to Camera Shots (over 50+ Types of Shots and Angles in Film)](https://www.studiobinder.com/blog/ultimate-guide-to-camera-shots/){target="_blank"}  
+  - [Brooklyn College Film Glossary](http://userhome.brooklyn.cuny.edu/anthro/jbeatty/COURSES/glossary.htm){target="_blank"}  
+  - [17 Lessons Henri Cartier-Bresson Has Taught Me About Street Photography](https://erickimphotography.com/blog/2014/12/09/17-lessons-henri-cartier-bresson-taught-street-photography/){target="_blank"}  
+  - Other online resources will be provided in the unit and text chapter.
+
+
+
+## Basic Grammar of Film
+
+In the previous units we look at the basic building blocks of visual composition and cinematic motion. In this unit we are going to learn how to put them together with a variety of other shots to make cinematic context and meaning. This is the grammar of film used to make cinematic “sentences” which convey meaning and context to an audience as we create scenes, sequences, and short films.
+
+However, as we focus on the components of filmmaking, we must not let the emphasis only be on film logic. We also want to cultivate the role that intuition and feeling play as we develop shots and put them together. This reminder is important because filmmaking is as much art as technical craft. We need to know the craft—the technical aspects—but also the art—the aesthetic and emotional dimensions. We need to keep this before us as we venture into the many elements and guidelines of effective filmmaking.
+
+In this first topic you will learn about:
+- Frames
+- Shots
+- Scenes
+- Sequences
+- Acts
+
+These components give you the big picture of how the many smaller elements add up to create mood and meaning in a film project.
+
+### Activity: Read, and Explore {-}
+
+```{block2, type='reflect'}
+
+Find and consult a film glossary such as [Brooklyn College Film Glossary](http://userhome.brooklyn.cuny.edu/anthro/jbeatty/COURSES/glossary.htm){target="_blank”}. Continue to read and study the one you like throughout this course and it will help you grow your film vocabulary and your understanding of the many components and processes involved in filmmaking. Set a goal to learn 5 new terms or concepts each day. 
+
+```
+
+## Basic Shots and Their Descriptions
+
+This is a vital section. You need to know the following shots and how to describe them because you will have to use this language to communicated to your crew. Few things are more frustrating for a film crew than the director or cinematographer not knowing what they want or how to name and describe a shot.
+
+- Extreme Long Shot (ELS)  
+- Long Shot (LS) also called Wide Shot (WS)  
+- Establishing Shot (ES)  
+- Full Shot (FS)  
+- Medium Long Shot (MLS) also known as Medium Wide Shot (MWS)  
+- Cowboy Shot  
+- Medium Shot (MS)  
+- Medium Close Up (MCU)  
+- Close Up (CU)  
+- Extreme Close Up (ECU)  
+
+In addition to shot size we also designate film shots by who or what is in the frame and how they are positioned:
+
+- Single Shot  
+- Two Shot  
+- Three Shot  
+- Group Shot  
+- Over-The-Shoulder Shot  
+- Reverse Shot  
+- Point of View Shot (POV)  
+- Reaction Shot  
+- Cutaway  
+- Cut-in and Insert  
+- Combo Shot  
+
+### Activity: Watch and Learn {-}
+
+```{block2, type='reflect'}
+
+As they say, a picture is worth a thousand words, and when you see the shots in action in these resources they become more clear. Watch the video resources below to learn more about basic shots
+
+[Watch: Introduction to shot types and camera movement](https://www.youtube.com/watch?v=lRo2IqYbEaE){target="_blank"}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lRo2IqYbEaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+
+
+[Watch: 15 Essential Camera Shots, Angles and Movements in Filmmaking](https://www.youtube.com/watch?v=7y0ouVBcogU){target="_blank”}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7y0ouVBcogU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+```
+
+
+## Camera, Angles, and Heights
+
+
+Camera heights and angles reveal both text and subtext. That is, they show us what is being filmed (the object or subject) and often convey something about the meaning of the subject or object (the subtext).
+
+In essence, there are no “neutral” camera angles. Our camera height placement will convey something and it is important for the filmmaker to know what that something is.
+
+The different camera heights include:
+
+- Eye-Level  
+- Low Angle  
+- High Angle  
+- Shoulder Level  
+- Hip Level  
+- Knee Level Shot  
+- Ground Level  
+- Worm’s Eye View  
+- Bird’s Eye View  
+- God’s Eye View  
+- Dutch Tilt or Dutch Canted Angle 
+
+
+### Activity: Read and Study {-}
+
+```{block2, type='reflect'}
+
+Read and study Chapter 5. In your Film Journal, explain how frames and shots become scenes and sequences and how they add up to a complete film story. Also, summarize the best thing you learned about camera heights in this section.
+
+Commit to doing one technique several times a day, and reflect on what you learnt from this experience.
+
+**Helpful Hint:** It is recommended but not mandatory that you study a web essay on how to build your intuition such as[21 Eye-Opening Ways To Develop Your Intuition](https://liveboldandbloom.com/04/self-improvement/develop-your-intuition){target="_blank”}
+
+
+```
+
+## Camera Subject Angles 
+
+Subject angle refers to the perspective the audience has of the person being filmed. Subject angles are important because they affect the way the audience interprets the character or scene.
+
+The following are key subject angles:
+
+- Profile  
+- Full-Face  
+- Three-quarter  
+- Quarter angle  
+- Full-Back  
+- Combo  
+- Silhouettes  
+
+Having completed this topic, you now have a firm grasp of the grammar of film and its components.
+
+
+### Activity: Practice {-}
+
+```{block2, type='reflect'}
+
+After thoroughly reading and studying Chapter 5, it's time to put theory into practice. Engage in practical application using camera angles, heights and camera subjects
+
+```
+
+
+## Summary {-}
+
+In this unit, you learned about the importance of film grammar and the multitude of shot sizes, framings, angles, etc. In doing so, you now have a good foundational grasp of the basic components needed to make excellent film projects.
+
+## Assessment {-}
+
+```{block2, type='assessment'}
+
+<span class="blockhead">Course Journal</span>
+
+After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
+
+Note that entries are expected after every unit. Your journal reflections are submitted at the end of the course as part of the Journal One: Personal Journal and self assessment.
+
+*See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
+
+```
+
+## Checking your Learning {-}
+
+```{block2, type='progress'}
+
+Before you move on to the next unit, you may want to check to make sure that you are able to:
+
+- Define the basic elements of the grammar of film.  
+- Describe basic shots and their descriptions.  
+- Contrast camera angles and heights.  
+- Determine when and how to use subject angles.  
+- Create shots that reveal what you discovered in this unit.  
+
+```

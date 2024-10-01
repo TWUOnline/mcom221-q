@@ -1,0 +1,288 @@
+# Visual Storytelling
+
+## Overview {-}
+
+Congratulations. You are now ready to make a rare type of film. Rare you say? Yes, because you are going to shoot your film project in a way that is not done very often, that is, in full sequential order. What this means will be explained ahead.
+
+We are now at a point in the course where you are going to be held accountable for your work. The earlier exercises were not graded to give you the chance to explore and make mistakes, without regard to a grade. We now have to cross into that territory. The main reason for this is that, as mentioned previously, film is a public medium and your work will be critiqued when it is shown. So this will be a great opportunity to learn to give and receive feedback.
+
+But fear not. Based on your previous work and what you will learn in this unit you will be ready to make a film that is “public” worthy. In addition, this first film will only account for 10% of your grade so you are encouraged to explore and take risks.
+
+### Topics {-}
+
+This unit is divided into the following topics:
+
+- In-Camera Project and Its Benefits
+- Brainstorming and Successful Creativity
+- Direction Vectors and Eye-line Requirements
+
+### Learning Outcomes {-}
+
+When you have completed this unit, you should be able to:
+
+- Describe what constitutes a liner story  
+- Define what constitutes an “In-Camera” film  
+- Analyze and apply a story template  
+- Determine how to tell a visually-centered story well  
+- Create a short simple story to film  
+
+### Activity Checklist {-}
+
+```{block2, type='reflect'}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+- Read, Study, and Reflect: Read and study Chapter 6  of course e-text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft.* Write in your journal your initial thoughts regarding the benefits of doing an in-camera film
+- Brainstorming: Brainstorm at least five story ideas and use the “Fairy Tale Template for a Short Film” to write your story for your short film.
+
+*Note that these learning activities are ungraded (unless specified), but designed to help you succeed in your assessments in this course*
+
+```
+
+### Assessment {-}
+
+See the Assessment section in Moodle for assignment details and due dates.
+
+<!--
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+<!-- [plugin:content-inject](_schedule)
+
+
+- Read the first section of Chapter 6 and watch [Visual Storytelling 101](https://www.youtube.com/watch?v=iWQQgZh9EyE).  
+- Study the next section in the course text Secrets to a Simple Story.  
+- Study the Brainstorming section in Chapter 6 and consult the resource listed.  
+- Use the Fairy Tale Template to plan your film. Read through the section in Chapter 6 on creating a Short Story Film Template.  
+- Read the next section in Chapter 6 and view the videos listed.  
+
+Assessment** 
+
+- Film Journal
+
+**Assignment**
+
+- In-Camera Exercise (10%)
+
+- Log in your journal what you learned from the creating and filming of your In-Camera exercise.
+-->
+
+
+### Resources {-}
+
+Here are the resources you will need to complete this unit.
+
+  - Chapter Six course text  
+  - [Visual Storytelling 101](https://www.youtube.com/watch?v=iWQQgZh9EyE){target="_blank"}  
+  - [Visual Storytelling in Filmmaking](https://www.youtube.com/watch?v=4X5xvlTZpcY){target="_blank"}  
+  - [“30 Ways to Brainstorm Short Film Ideas You Can Actually Produce](https://www.studiobinder.com/blog/short-film-ideas-you-can-actually-produce/){target="_blank"}  
+  - [19 Great Ways to Brainstorm Short Film Ideas](https://www.indiewire.com/2015/08/19-great-ways-to-brainstorm-short-film-ideas-58785/){target="_blank"}  
+  - [The eyeline match](https://www.youtube.com/watch?v=y_1H6V7uyYc){target="_blank"}  
+  - [Screen Direction rule](https://www.youtube.com/watch?v=9XOn5uxdSJc){target="_blank"}  
+  - [Filmmaking Tutorial: Head room, lead room & Framing](https://www.youtube.com/watch?v=0pd0K2u1Bk8){target="_blank"} YouTube, LightsFilmSchool.
+
+
+
+<!--
+- Chapter Six course text  
+- [Visual Storytelling 101](https://www.youtube.com/watch?v=iWQQgZh9EyE)  
+- [Visual Storytelling in Filmmaking](https://www.youtube.com/watch?v=4X5xvlTZpcY)  
+- [“30 Ways to Brainstorm Short Film Ideas You Can Actually Produce](https://www.studiobinder.com/blog/short-film-ideas-you-can-actually-produce/)  
+- [19 Great Ways to Brainstorm Short Film Ideas](https://www.indiewire.com/2015/08/19-great-ways-to-brainstorm-short-film-ideas-58785/)  
+- [The eyeline match](https://www.youtube.com/watch?v=y_1H6V7uyYc)  
+- [Screen Direction rule](https://www.youtube.com/watch?v=9XOn5uxdSJc)  
+
+<!-- //todo #7
+- [Filmmaking Tutorial: Head room, lead room & Framing](https://www.youtube.com/watch?v=0pd0K2u1Bk8) YouTube, LightsFilmSchool.  
+-->
+
+## In-Camera Project and Its Benefits
+
+Your first film project will be something you might never do again if you go into the film and television world. You will shoot a short film with no dialogue in the exact sequential order that it will appear when you screen it for classs.
+
+Almost always, films are shot out of sequence to save time and money by doing all the scenes in one location at a time and then all the scenes in another location at one time, etc.
+
+Here you will be forced to shoot at a location and move to the next, and if the first location is needed you will have to go back to it. Why do this? There are multiple benefits, as the course text chapter highlights. Some of them include:
+
+- Forcing you to think of a simple story that fits these parameters.  
+- Challenging you to plan your shots in a linear, well-thought out way.  
+- Making you attentive to each shot and how relates to the previos ones.  
+- Challenging your brainstorming and film logic skills.  
+
+### Activity: Read, Study and Reflect{-}
+
+```{block2, type='reflect'}
+
+Read and study Chapter 6. Write in your journal your initial thoughts regarding the benefits of doing an in-camera film. Does it thrill and excite you or make you apprehensive and anxious? Or maybe a combination of these feelings and emotions. As artists we need to get in touch with our feelings and learn to work with them not fear them.
+
+To prime your imagination for the upcoming project, watch the video [Visual Storytelling 101](https://www.youtube.com/watch?v=iWQQgZh9EyE){target="_blank”}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iWQQgZh9EyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+```
+
+<span class="blockhead"> Secrets to a Simple Story</span>
+
+In order to do this first project, you will need to come up with a story to film. Something has to happened to someone and they must engage in action to address it. But if we are to design a good story—one that holds the attention of our audience and engages them—we need to focus on several things in our short film project:
+
+- One or two main characters.  
+- A single problem or conflict.  
+- Knowing your genre (will your film be funny, dramatic, scary, etc.?).  
+- A simple setting or number of locations.  
+- A satisfying ending.  
+
+You need to keep this simple formula in mind in the projects ahead. There will be many forces and temptations that will distract you and pull you away from this simple understanding. Resist them and go back to basics if you get lost, confused, or frustrated.
+
+## Brainstorming and Successful Creativity
+
+The secret to a story sounds simple and it is. We need to create a character with a goal and stakes (the painful consequences that will happen to the character) who has to overcome opposition to that goal and an ending that reveal whether or not the character obtains the goal.
+
+However, the challenge for most of us is, what story do I tell?
+
+Brainstorming is a great tool and way to discover and find the right story you want to tell. Brainstorming involves the spontaneous development of ideas. Brainstorming can be done alone or within a group.
+
+The great thing about brainstorming is that you do not have to judge and criticize the process and results. In addition, you are not trying to perfect. You are only looking for that one idea that sparks your creativity and you ignore the others. This non-judgmentalism and jettisoning of perfectionism is important because these two tendencies stifle creativity.
+
+Even if you already have a story idea that you want to film you are strongly encouraged to engage in brainstorming activities during this section and the rest of the course. If you do, you unleash more of your creativity and you will most likely find a better story concept.
+
+
+### Activity: Brainstorming {-}
+
+```{block2, type='reflect'}
+
+After you feel you have a good grasp of brainstorming, engage in the process and come up with 5 story concepts that fit the criteria in the previous topic:
+
+- One or two main characters.
+- A single problem or conflict.
+- Knowing your genre (will your film be funny, dramatic, scary, etc.?).
+- A simple setting or number of locations.
+- A satisfying ending. After you have done this go through your concept list and choose your top one and apply it to the template in the next topic.
+
+**Helpful Hint:** If you find yourself stuck and can’t come up with a story concept, tell your facilitator and have a group brainstorming session. Take one of the ideas and develop it. Share your concept if you are stuck finding one of the criteria such as a goal or stakes and ask for brainstorming help to solve the problem. Remember, film is mostly a collaborative venture. 
+
+```
+
+
+<span class="blockhead">Short Film Story Template</span>
+
+Once you have your core story concept you now need to make it into a full story with a beginning, middle, and end. We also need to make sure we do not make it too complicated or muddled.
+
+Many of us have the tendency to overly complicate things: to add extraneous detail or to have elements that are not clear well explained. The template is this section is designed to prevent these issues as you use a fairy tale structure to find your characters, the problem they are facing, and show what happens in a clear way with a beginning, middle, and end of the story.
+
+Have fun with this template process. Also do not forget to use brainstorming for each section of the template so that you come up with the best characters, situations, locations, and conflict which are not predicable or have a “been there, done that” (boring) quality.
+
+### Activity: Planning Your Film {-}
+
+```{block2, type='reflect'}
+
+Once you have brainstormed and have a clear and solid concept film, e.g., a student who has the power to turn things in gold, use the [Fairy Tale Template for a Short Film](assets/unit6/Fairy_Tale_Template_for_a_Short_Film.pdf){target="_blank”} and write your story for your short film by filling in the blanks.
+
+Study the illustration example given in the chapter and then apply the process to the creation of your film story. In crafting your story you are not allowed to use dialogue beyond “yes,” “no,” and “okay.” That is, you must find visual ways to establish your story’s setup and context and its build and payoff. For example, you cannot have your character say “I am on my way to the store.” You will just show him or her getting in the car, driving, arriving at the store parking lot, and entering the store. (This has visual direction vectors discussed below in Topic 3.)
+
+```
+
+## Direction Vectors and Eyeline Requirements
+
+Now that you have your story and one-line action descriptions, and have your actors, props, and locations set-up, you are ready to film your story (the In-Camera film project) with your cell phone.
+
+Before doing so, this exercise will require that you focus on several things found in the Direction Vectors and Eyeline Requirements section:
+
+- Proper Lead Room  
+- Motivated Shot Movement  
+- Consistent Screen Direction  
+- Proper Eye-Line Vectors  
+- Proper Headroom  
+
+These requirements should not worry you since you have explored and tried many of these techniques in the composition and film movements units.
+
+
+### Activity:  Resources on Direction Vectors and Eyeline Requirements {-}
+
+```{block2, type='reflect'}
+
+In order to do well and follow the direction vectors and eyeline requirements for this first film project, be sure to consult the following resources which explain them in visual ways. As you do so, pre-visualize how you will film your project:
+
+[Watch: The eyeline match](https://www.youtube.com/watch?v=y_1H6V7uyYc){target="_blank”}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/y_1H6V7uyYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+---
+
+[Watch: Screen Direction rule](https://www.youtube.com/watch?v=9XOn5uxdSJc){target="_blank”}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9XOn5uxdSJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+---
+
+In addition, be sure to review Units 3, 4, and 5 to make sure your shots will be well composed and that you will incorporate a variety of camera angles.
+
+Happy filming!
+
+```
+
+## Summary {-}
+
+In this unit, you learned about:
+
+- The In-Camera Project and how It is beneficial to help you to understand how to think of filmmaking in a linear way.
+
+- Secrets to a Simple Story and how limiting your story to a key single concept or theme with only a few characters and locations will help you create a stronger film.
+
+- Brainstorming and Successful Creativity and how the more ideas and concepts you imagine and generate, the better your film will capture an audience's attention.
+
+- Short Story Film Template where a fairy tale story formula can help you design the beginning, middle, and end of your film.
+
+- Direction Vectors and Eye-line Requirements which are important cinematic compositional devices that prevent the audience’s confusion as you transition between shots.
+
+
+## Assessment {-}
+
+```{block2, type='assessment'}
+
+<span class="blockhead">Course Journal</span>
+
+After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
+
+Also, log in your journal what you learned from the creating and filming of your In-Camera exercise. Log what you thought about the films of your peers and what you learned from the feedback from them and your instructor.
+
+Be sure to make a note of what films stood out and who did them. You will consult this at the end of the course when the class determines: Best Overall Film. Most Imaginative Film, Best Story, Best Cinematography, Best Editing, etc.
+
+*See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
+
+---
+
+<span class="blockhead">In-Camera Exercise</span>
+
+*This activity is ungraded, but important*
+
+Create a brief mini movie that shows your understanding of how to apply composition, motivated camera movement, and a variety of shots to visually tell a story. That is, images and not dialogue should drive your story.
+
+See the Assessments section for more details on submitting your journal, as well as the grading criteria.
+
+
+```
+
+## Checking your Learning {-}
+
+```{block2, type='progress'}
+
+Before you move on to the next unit, you may want to check to make sure that you are able to:
+
+- Describe what constitutes a good, basic, and simple story  
+- Define what constitutes an “In-Camera” film  
+- Analyze and apply a story template  
+- Determine how to tell a visual-centered story well  
+- Create a short simple story to film  
+
+```
