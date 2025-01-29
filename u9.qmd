@@ -331,7 +331,7 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 :::
 
-<!--## Assessment {.unnumbered}
+## Assessment {.unnumbered}
 
 ::: {.note}
 
@@ -347,4 +347,4 @@ Note that entries are expected after every unit. Your journal reflections are su
 
 This final short film project will account for 40% of your grade. See the Assessments section for more details on your Final short Film Project and how to submit it, as well as the grading criteria.
 
-:::-->
+:::

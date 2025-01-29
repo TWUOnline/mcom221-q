@@ -149,8 +149,7 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 :::
 
-<!-- ## Assessment {.unnumbered}
-
+## Assessment {.unnumbered}
 
 ::: {.note}
 
@@ -170,4 +169,4 @@ For this exercise on motion, you will shoot **5 different types** of motivated k
 
 See the Assessments section for more details, as well as the grading criteria.
 
-::: -->
+:::

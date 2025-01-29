@@ -195,7 +195,7 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 :::
 
-<!-- ## Assessment {.unnumbered}
+## Assessment {.unnumbered}
 
 ::: {.note}
 
@@ -207,7 +207,7 @@ Note that entries are expected after every unit. Your journal reflections are su
 
 *See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
 
-::: -->
+:::
 
 <!-- #### Grading Criteria: See the Assessments section for more details on submitting your journal, as well as the grading criteria. -->
 

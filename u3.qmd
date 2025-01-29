@@ -161,7 +161,7 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 :::
 
-<!-- ## Assessment {.unnumbered}
+## Assessment {.unnumbered}
 
 ::: {.note}
 
@@ -185,7 +185,7 @@ Remember, the name of the game is to learn not to be perfect.bRefer to the speci
 
 *See the Assessments section for more details on your composition, as well as the grading criteria.*
 
-::: -->
+:::
 
 <!-- #### Grading Criteria See the Assessments section for more details on your composition, as well as the grading criteria. Note that entries are expected for every unit. Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 30% of your course grade. -->
 

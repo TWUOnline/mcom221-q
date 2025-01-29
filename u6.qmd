@@ -199,7 +199,7 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 :::
 
-<!-- ## Assessment {.unnumbered}
+## Assessment {.unnumbered}
 
 ::: {.note}
 
@@ -223,7 +223,7 @@ Create a brief mini movie that shows your understanding of how to apply composit
 
 See the Assessments section for more details on submitting your journal, as well as the grading criteria.
 
-:::-->
+:::
 
 
 

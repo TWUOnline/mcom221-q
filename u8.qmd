@@ -225,7 +225,7 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 :::
 
-<!--## Assessment {.unnumbered}
+## Assessment {.unnumbered}
 
 ::: {.note}
 
@@ -239,7 +239,7 @@ Be sure to make a note of what films stood out and who did them. You will consul
 
 *See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
 
-:::-->
+:::
 
 
 

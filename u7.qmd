@@ -283,7 +283,7 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 :::
 
-<!--## Assessment {.unnumbered}
+## Assessment {.unnumbered}
 
 ::: {.note}
 
@@ -308,7 +308,7 @@ This montage project will account for 30 % of your grade and will be broken down
 
 See the Assessment section of the course for more details.
 
-::: -->
+:::
 
 
 
