@@ -18,14 +18,15 @@ Before moving ahead, view this resource:
 
 This unit is divided into the following topics:
 
-- Types of films and genres
-- The Logistics for the Final Project
-- Script and Story Development
-- Creating a Scriptment
+1. Types of Short Films
+1. Film Genres
+1. The Logistics for the Final Project
+2. Script and Story Development
+3. Creating a Scriptment
 
 ### Learning Outcomes {.unnumbered}
 
-When you have completed this unit, you should be able to:
+When you have completed this unit, you will be able to:
 
 - Describe the different types of short films
 - Define film genre and why it is important
@@ -50,7 +51,17 @@ Working through course activities will help you to meet the learning outcomes an
 
 ### Assessment {.unnumbered}
 
-Please see the Assessment section in Moodle for assignment details.
+**Course Journal**
+
+After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
+
+Also, log in your journal what you learned from the creating and filming of your In-Camera exercise. Log what you thought about the films of your peers and what you learned from the feedback from them and your instructor.
+
+Be sure to make a note of what films stood out and who did them. You will consult this at the end of the course when the class determines: Best Overall Film. Most Imaginative Film, Best Story, Best Cinematography, Best Editing, etc.
+
+::: {.note icon="true"}
+Please see the Assessment section in Moodle for assignment details as well as the grading criteria.
+:::
 
 ### Resources {.unnumbered}
 
@@ -65,9 +76,7 @@ Here are the resources you will need to complete this unit.
 - [Outlines, Treatments, and Scriptments, Oh My\! by Ken Miyamoto](https://screencraft.org/2018/02/27/outlines-treatments-and-scriptments-oh-my/){target="_blank"}
 - Other resources will be available online and in the course text.
 
-## Types of Film and Genres
-
-**Types of Film **
+## Types of Short Films
 
 There are three main types of short films that we can do for the project ahead:
 
@@ -79,7 +88,7 @@ Most of you will probably choose the classical narrative, but you are free to do
 
 As a transferable skill, like in many industries and businesses, smart filmmakers look for a market before they commit too much time and money to a film project. Others of course rely on their intuition and passion. Either way, it is wise to see what those who distribute or stream and screen short films, such as festivals and competitions, look for in making their choices. Their criteria can you vet the quality of your story and its execution. See Film Shortage’s [What Type Of Short Films Do We Prefer?](https://filmshortage.com/what-we-like/){target="_blank"}
 
-**Film Genres**
+## Film Genres
 
 The main films genres include:
 
@@ -110,7 +119,13 @@ Knowing your genre will also help you develop your story and script in this and 
 
 Log in your journal what type of film you want to work on for your final film project and why.
 
-Next, view this list of loglines (short one line descriptions of a film story) in various genres: [Popular Short film genres](https://www.slideshare.net/BigBadBoobyLady/popular-short-film-genres){target="_blank"} Which genre appeals to you most? Why? Log this reflection and start to brainstorm genre-based story concepts.
+Next, view this list of loglines (short one line descriptions of a film story) in various genres: [Popular Short film genres.](https://www.slideshare.net/BigBadBoobyLady/popular-short-film-genres){target="_blank"} 
+
+Which genre appeals to you most? Why? Log this reflection and start to brainstorm genre-based story concepts.
+
+To improve your grasp of genre consult this resource:
+
+[What Is Genre and How Is It Determined?](https://milnepublishing.geneseo.edu/exploring-movie-construction-and-production/chapter/2-what-is-genre-and-how-is-it-determined/){target="_blank"}
 
 :::
 
@@ -138,11 +153,103 @@ To help you do this, follow the steps in Story Research Section of Chapter Eight
 
 :::
 
+## Script and Story Development
+
+Our goal in this unit is to find and create a strong story to film. As we have seen, brainstorming is a great method to help do this.
+
+Once you have created a story concept that inspires you pitch it to the class to see if other classmates want to join you in your project.
+
+Once you have your team in place you will then follow the process for creating a shooting script for pre-production and production.
+
 ### Activity: Brainstorm and Prepare Your Pitch
 
 ::: {.learning-activity}
 
 Brainstorm either alone or with a partner and come up with a story concept to pitch to the class. The goal of this activity is to do find a compelling story and to pitch it in a way that will attract the teammates you will need to make your longer film.
+
+***Helpful Hint:*** Sometimes a title for your film can lend lots of inspiration. Professional screenwriters and Hollywood spend a lot of time finding the right title that captures the spirit of the film and can aid in marketing. Think *Rebel Without A Cause, Slum Dog Millionaire, Vertigo, Dumb and Dumber, The
+Haunting, Groundhog Day, When Harry Met Sally*.
+
+To prepare for your pitch make sure you:
+  - Know your genre. The story above could be a comedy, a drama, thriller, or a horror film. Which genre you decide will determine the following.
+  - Establish your main characters.
+  - Establish the main conflict.
+  - Escalate the conflict.
+  - Create some of the obstacles that will have to be overcome.
+  - Have a clear beginning, middle, and end.
+  - Know what crew members you will need and what they will do, e.g., a screenwriter, producer, cinematographer, editor, etc.
+
+Make sure the story is compressed, a la Aristotle’s *Poetics*, with a limited number of characters, locations, and action.
+
+***Helpful Hint:*** Most of the short films that won or where nominated for the Academy Award for Best Live Action Short Film follow Aristotle’s idea of great drama and comedy: a few characters and locations and action that takes place over a brief amount of time. For a list of nominees and winners see: [Academy Award for Best Live Action Short Film](https://en.wikipedia.org/wiki/Academy_Award_for_Best_Live_Action_Short_Film){target="_blank"}. 
+
+Also be prepared to explain what crew members you will need and what they need to do.
+
+Make your pitch to your classmates and then see who wants to join which team.
+
+If your project is not chosen, that is, no one wants to work on it with you, you can still do it but know that it will be a lot of work.
+
+#### Guidelines for Pitching a Film Project
+
+**Purpose of a Pitch:** To get people to work on your project, commission your
+project, fund your project, help with your project, distribute your project,
+etc. Pitches also help you to clarity what you want to do and why.
+
+**Steps to a Good Pitch**
+
+1.  If you can, open with a teaser or dramatic statement or question.
+2.  Meet and greet your audience—minimum chitchat, professionals are busy, busy
+    people.
+3.  Dress appropriately—relative to the audience and the project. Artists dress
+    “artsy”; corporate people dress with business attire.
+4.  Project the proper persona (your personality and character)—knowledgeable,
+    credible, trustworthy, smart, clever, etc.
+5.  Explain your qualifications, background, and why you are competent and the
+    right person to do the project. If you do not have a demo reel then sell
+    people with your passion, e.g., WHIPLASH filmmaker.
+6.  Give the title of the film/project—titles shape perception and expectations.
+7.  State the Genre—comedy, drama, documentary, etc. This also shapes
+    perceptions and expectations. The basic concept of a comedy should make us
+    laugh or at lease smile.
+8.  Give the Unique Angle or Hook of your project—what makes it stand out as
+    something different and catchy/edgy/clever, etc. E.g., SHOE IN LOVE, a
+    romantic comedy from the POV of a pair of cowboy boots and stilettos falling
+    in love with each other. The special angle concept is to use foot ware as
+    the main characters and the execution hook is to shoot POVs at foot level or
+    from the shin down.
+9.  Briefly state the logline or basic concept: a one or two sentence
+    description of the core story. E.g., a young, bored dirt farmer gets a
+    message that he has to help rescue a faraway princes and save the universe.
+    STAR WARS.
+10. Project synopsis—succinctly tell the beginning/middle/end of your story or
+    if a documentary the main message of your doc.
+11. Summarize your end goal: to wow my audience with extraordinary nature
+    photography or to make my audience laugh, cry, fall in love, etc.
+12. Explain what you need—cast, crew, funding, etc.
+13. Ask for Questions—also be open to criticism and constructive comments and
+    feedback.
+14. Gratitude—be thankful and gracious even if your project is not received well
+    or as anticipated. Burning bridges is wrongheaded. Pitching can be a
+    training ground for how to deal with rejection.
+
+*Examples of Types of Montage Projects to Pitch*
+
+The goal of your Montage Short assignment (see the syllabus) will be to explore how to make an effective montage-based film that uses picture and sound editing to convey meaning, emotion, story and/or mood.
+
+For this project, you can:
+
+- Create a music video where you take a song and create images that
+        express the mood, feeling, meaning, etc. of the song.
+- Find a poem, fairy tale, or passage from the Bible and “visualize” and
+        enhance it with music and sound effects.
+- Create a chase scene—someone steals something and is on the run and
+        using music and sound effects to enhance the excitement and dynamism.
+- Create a love or horror or thriller story —use can use dialogue but
+        there must be an edited montage—a series of edited shots that convey the
+        mood, meaning etc.
+- Etc.
+
+<!-- Brainstorm either alone or with a partner and come up with a story concept to pitch to the class. The goal of this activity is to do find a compelling story and to pitch it in a way that will attract the teammates you will need to make your longer film.
 
 Check the [Guidelines for Pitching a Film Project](assets/u8/Guidelines_for_fairytale_template_for_a_short_film.pdf){target="_blank"}
 
@@ -165,7 +272,7 @@ Make sure the story is compressed, a la Aristotle’s *Poetics*, with a limited 
 - Sometimes a title for your film can lend lots of inspiration. Professional screenwriters and Hollywood spend a lot of time finding the right title that captures the spirit of the film and can aid in marketing. Think *Rebel Without A Cause, Slum Dog Millionaire, Vertigo, Dumb and Dumber, The Haunting, Groundhog Day, When Harry Met Sally.*
 - Most of the short films that won or were nominated for the Academy Award for Best Live Action Short Film follow Aristotle’s idea of great drama and comedy: a few characters and locations and action that takes place over a brief amount of time.
 
-:::
+::: -->
 
 :::
 
@@ -222,22 +329,6 @@ Before you move on to the next unit, you may want to check to make sure that you
 - Define film genre and why it is important
 - Determine how to approach making a film script to shoot and edit.
 - Create a shooting script.
-
-:::
-
-## Assessment {.unnumbered}
-
-::: {.note}
-
-**Course Journal**
-
-After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
-
-Also, log in your journal what you learned from the creating and filming of your In-Camera exercise. Log what you thought about the films of your peers and what you learned from the feedback from them and your instructor.
-
-Be sure to make a note of what films stood out and who did them. You will consult this at the end of the course when the class determines: Best Overall Film. Most Imaginative Film, Best Story, Best Cinematography, Best Editing, etc.
-
-*See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
 
 :::
 

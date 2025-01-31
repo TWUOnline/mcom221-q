@@ -16,17 +16,20 @@ Let’s dig in.
 
 This unit is divided into the following topics:
 
-- The Syntax of Film
-- The Importance and Types of Camera Coverage
-- Continuity
-- Storyboarding and Shot Lists
-- Casting
-- Sound Recording
-- The Final Steps
+1. The Syntax of Film
+1. The Importance and Types of Camera Coverage
+1. Continuity
+1. Storyboarding
+1. Shot Lists
+1. Casting
+1. Other Types of Short Films
+1. Sound Recording
+1. The Final Steps
+1. Guidelines for Doing and Evaluating the Final Film Project
 
 ### Learning Outcomes {.unnumbered}
 
-When you have completed this unit, you should be able to:
+When you have completed this unit, you will be able to:
 
 - Define film syntax and its key terms to describe your filmmaking process.
 - Describe camera coverage and contrast the types of Coverage.
@@ -34,6 +37,7 @@ When you have completed this unit, you should be able to:
 - Create Storyboards and Shot Lists.
 - Demonstrate Casting Skills.
 - Apply L Cuts and J Cuts.
+- Evaluate the final film project.
 
 ### Learning Activities {.unnumbered}
 
@@ -53,7 +57,19 @@ Working through course activities will help you to meet the learning outcomes an
 
 ### Assessment {.unnumbered}
 
-Please see the Assessment section in Moodle for assignment details.
+**Course Journal**
+
+After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
+
+Note that entries are expected after every unit. Your journal reflections are submitted at the end of the course as part of the Journal One: Personal Journal and self assessment.
+
+**Final Film Project**
+
+This final short film project will account for 40% of your grade.
+
+::: {.note icon="true"}
+Please see the Assessment section in Moodle for assignment details as well as the grading criteria.
+:::
 
 ### Resources {.unnumbered}
 
@@ -182,7 +198,7 @@ It will help your scene coverage if you storyboard your shots. They do not have 
 
 ::: {#fig-Picture1}
 
-![](assets/u9/Picture1.png){fig-alt="*graphic stick figure pushing*" .lightbox fig-align="left"}
+![A graphic stick figure pushing](assets/u9/Picture1.png){fig-alt="*graphic stick figure pushing*" .lightbox fig-align="left"}
 
 *graphic stick figure pushing*
 
@@ -192,7 +208,7 @@ The important thing is not the quality but that your storyboards make sense to y
 
 At the same time, do not become a slave to your storyboard. If you discover something better or get inspired on the film set, try the new thing. For safety, shoot it the storyboard way and then the new way and decide during post-production which one will work best.
 
-## Shot Lists
+<!-- ## Shot Lists
 
 Once you have your scriptment describing all of the action and dialogue you will film and have storyboarded your film, you can now create a shot list which will help ensure you get all the shots needed for your coverage.
 
@@ -207,9 +223,7 @@ Study the Shot List Example in Chapter Nine to see what you need to include.
 - Read the section on Storyboarding and Shot Lists in Chapter 9.
 - Next, read the article ["What Is a Storyboard and How Do You Make One for Your Video?](https://www.wyzowl.com/what-is-a-storyboard/){target="_blank"} to better understand storyboards
 - Storyboard the scenes from your scriptment you plan to film. You can do this alone but it will be better if at least the director and cinematographer for your project work on this together. Ideally everyone on the team should work on this so that you will bond and have a unified vision of how to stage and shoot your shots.
-- Watch the video [Watch: *Master the Art of Shot Lists: Boost Your Filmmaking Efficiency!*](https://www.youtube.com/watch?v=-rzJP_5L_yQ){target="_blank"} <!-- Auto title, auto embed--> 
 
-{{< video https://www.youtube-nocookie.com/embed/-rzJP_5L_yQ >}}
 
 - Make sure to include your shot lists in your final project and course journal.
 
@@ -219,6 +233,24 @@ Study the Shot List Example in Chapter Nine to see what you need to include.
 
 :::
 
+::: -->
+
+## Shot Lists
+
+Once you have your scriptment describing all of the action and dialogue you will film and have storyboarded your film, you can now create a shot list which will help ensure you get all the shots needed for your coverage.
+
+It is better if your whole production team gives feedback on the shot list. Ultimately, it is the director who will make the final choice but hearing what other team members feel can help cut down on mistakes.
+
+Study the Shot List Example in Chapter Nine to see what you need to include.
+
+### Activity: Read and Watch
+
+::: {.learning-activity}
+
+- Read about Shot Lists in Chapter 9.
+- Watch the video [Watch: *Master the Art of Shot Lists: Boost Your Filmmaking Efficiency!*](https://www.youtube.com/watch?v=-rzJP_5L_yQ){target="_blank"} <!-- Auto title, auto embed--> 
+
+{{< video https://www.youtube-nocookie.com/embed/-rzJP_5L_yQ >}}
 :::
 
 ## Casting
@@ -229,7 +261,7 @@ This pre-production process emphasized here will also help you to know if some s
 
 Having good actors is critical to having a good film. Follow the tips and guidelines in the chapter and work hard to find the best actors you can. It will pay off a lot.
 
-### Read and Watch {.unnumbered}
+### Activity: Read, View and Listen {.unnumbered}
 
 ::: {.learning-activity}
 
@@ -249,9 +281,21 @@ For detailed information regarding how to work with actors and casting for low b
 
 :::
 
+## Other Types of Films
+
+Some of you might want to do a documentary or an experimental film. Though this course centers on classical approaches to fictional narrative film, you are free to work on such projects. It is important that you pitch such projects ahead of time to your instructor to make sure it is doable within the confines of this course.
+
+#### Activity: Other Types of Film
+
+::: {.learning-activity}
+See the section on Other Types of Film if you want to do a documentary or experimental film and view the resources for them.
+:::
+
 ## Sound Recording
 
 Audio can make or break a film, especially in no-budget and low-budget filmmaking. Proper sound recording and sound editing is a course unto itself and if you want to go into filmmaking professionally you should take at least one course in this.
+
+Study the Sound Recording section in Chapter Nine and the suggested resources to help up get better quality sound for your project.
 
 ### Activity: Read and Research
 
@@ -275,22 +319,24 @@ Review Unit 7 to refresh yourself about what is involved in the post-production 
 
 :::
 
-### Activity: Guidelines for Doing and Evaluating The Final Film Project
+## Guidelines for Doing and Evaluating The Final Film Project
 
-::: {.learning-activity}
+Continuity or the non-distracting and motivated and smooth flow of action is another skill set essential to the filmmaker’s took kit.
 
-Continuity or the non-distracting and motivated and smooth flow of action is another skill set essential to the filmmaker’s toolkit. Study the following resources and practice applying them in your edited scenes especially those with dialogue or where one scene transitions into another:
+Study these resources and practice applying them in your edited scenes especially those with dialogue or where one scene transitions into another:
 
-- [SFX Secrets: The J Cut & The L Cut](https://www.youtube.com/watch?v=eyH-a964kAs){target="_blank"}
-
+[Watch: *SFX Secrets: The J Cut & The L Cut*](https://www.youtube.com/watch?v=eyH-a964kAs){target="_blank"}
 {{< video https://www.youtube-nocookie.com/embed/eyH-a964kAs >}}
 
-- [Watch: *Video Editing Tips: J Cut vs L Cut*](https://www.youtube.com/watch?v=fT5rRPMnka0){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Video Editing Tips: J Cut vs L Cut*](https://www.youtube.com/watch?v=fT5rRPMnka0){target="_blank"}
 
 {{< video https://www.youtube-nocookie.com/embed/fT5rRPMnka0 >}}
 
 In addition, study the *Steps to Making an Excellent Short Film* section in the chapter. It is both a good recap and a good checklist to help ensure you have the elements need to make an excellent final film.
 
+### Activity: Final Project Guidelines
+
+::: {.learning-activity}
 Please study the guidelines and the Evaluation Criteria closely for the final project. They will help you to do well. This criteria closely tracks that which was used to evaluate your montages so the process should be more comfortable for you now.
 
 - Did the film make sense and work overall?
@@ -317,6 +363,9 @@ In this unit, you learned about:
 - Storyboarding and Shot Lists
 - Casting
 - Sound Recording
+- Other Types of Short Films
+- The Final Steps
+- Guidelines for Doing and Evaluating the Final Film Project
 
 ::: {.check}
 
@@ -328,23 +377,7 @@ Before you move on to the next unit, you may want to check to make sure that you
 - Create Storyboards and Shot Lists.
 - Demonstrate Casting Skills.
 - Apply L Cuts and J Cuts.
+- Evaluate the final film project.
 
 :::
 
-## Assessment {.unnumbered}
-
-::: {.note}
-
-**Course Journal**
-
-After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
-
-Note that entries are expected after every unit. Your journal reflections are submitted at the end of the course as part of the Journal One: Personal Journal and self assessment.
-
-*See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
-
-**Short Film Project **
-
-This final short film project will account for 40% of your grade. See the Assessments section for more details on your Final short Film Project and how to submit it, as well as the grading criteria.
-
-:::

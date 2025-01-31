@@ -12,12 +12,14 @@ Like in a story that has a beginning, middle and end, the filmmaking process is 
 
 This unit is divided into the following topics:
 
-1. The Three Phases of Filmmaking.
-2. Pre-Production, Production, and Post-Production.
+1. The Three Phases of Filmmaking
+1. Pre-Production
+1. Production
+1. Post-Production
 
 ### Learning Outcomes {.unnumbered}
 
-When you have completed this unit, you should be able to:
+When you have completed this unit, you will be able to:
 
 - Describe the big picture of the film production process
 - Determine what is involved in each phase and why it is important
@@ -41,7 +43,15 @@ Working through course activities will help you to meet the learning outcomes an
 
 ### Assessment {.unnumbered}
 
-Please see the Assessment section in Moodle for assignment details.
+**Course Journal**
+
+After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
+
+Note that entries are expected after every unit. Your journal reflections are submitted at the end of the course as part of the Journal One: Personal Journal and self assessment.
+
+::: {.note icon="true"}
+Please see the Assessment section in Moodle for assignment details as well as the grading criteria.
+:::
 
 ### Resources {.unnumbered}
 
@@ -128,6 +138,21 @@ Note: The lion’s share of this unit and Chapter Two in the course book is devo
 
 :::
 
+### Activity: Pre-Production Planning
+
+::: learning-activity
+- Read the Pre-Production section of the course text. What part of the pre-production process appeals to you most? Why? Log this in your journal and share your responses with your facilitator and classmates when you meet for this unit.
+- View this resource and share with your facilitator and course mates why pitching is important:
+
+[Watch: *Pitching and Pre-Production: Crash Course Film Production with Lily Gladstone*](https://youtu.be/JE53JL60ihc?si=oVHz_PQEsKXc3GL_){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/JE53JL60ihc >}}
+
+**Questions to Consider**
+
+- Murphy’s Law states that “what can go wrong will go wrong” but many people forget the last component “at the worse possible moment.” Have you ever experienced it? Share this experience with your facilitator and classmates, the result and if and how it was overcome.
+:::
+
 ## Production
 
 The production phase involves the shooting of the film, what is often referred to as "principle photography". (Sometimes pick-up shots, re-dos, and B-roll footage are done during post-production.) For many filmmakers this is the most exciting part of filmmaking when they get a chance to go on location and watch actors do their magic.
@@ -141,6 +166,24 @@ Most of the production process takes place on real locations such as streets, sc
 Production can also include green screen and CGI (computer generated imagery) work, but these are normally for bigger budget productions since they are specialized skills and it’s costly to do them well. They are also time consuming. (If you have After Effects and other special effects software skills please consider using them in this course.)
 
 Performance is a crucial part of the filming process. Many filmmakers forget this and get so caught up in the shooting process that they overlook or miss bad acting. Don’t fall into this trap. You want to work on having your actors deliver believable, motivated, non-melodramatic performances. More on this later.
+
+<!-- #### Activity: Shooting a Scene
+
+::: learning-activity
+- Read the Production section of the course text.
+What part of the production process appeals to you? Why?
+- View this resource to get a feel for what is involved in shooting a scene:
+
+[Watch: *Pitching and Pre-Production: Crash Course Film Production with Lily Gladstone*](https://youtu.be/JE53JL60ihc?si=oVHz_PQEsKXc3GL_){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/y9_LW5H2EC4 >}}
+
+**Questions to Consider**
+
+- What did you learn from this? Share this with your Facilitator and classmates.
+::: -->
+
+<!-- This above activity is commented out as the video link is broken. -->
 
 ## Post-Production
 
@@ -192,20 +235,6 @@ Before you move on to the next unit, you may want to check to make sure that you
 - Determine what is involved in each phase and why it is important
 - Capture an overview of what lies ahead
 - Define why excellence should be the bench mark of each phase
-
-:::
-
-## Assessment {.unnumbered}
-
-::: {.note}
-
-**Assignment 1: Course Journal**
-
-After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
-
-Note that entries are expected after every unit. Your journal reflections are submitted at the end of the course as part of the Journal One: Personal Journal and self assessment.
-
-*See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
 
 :::
 

@@ -1,6 +1,6 @@
 # Welcome {.unnumbered}
 
-This is the course book for **MCOM 221**. This book is divided into thematic units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportunities to practice various skills.
+This is the course book for **MCOM 221: Digital Filmmaking**. This book is divided into thematic units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportunities to practice various skills.
 
 ::: {.note icon="true"}
 Please read the full course syllabus located on the Course Home page in Moodle. It includes key information about the course schedule, assignments, and policies.

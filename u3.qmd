@@ -12,8 +12,9 @@ Visual composition will play an important role in this course, so taking the tim
 
 This unit is divided into the following topics:
 
-1. Elements and Principles of Composition
-2. Photographic Themes
+1. Elements of Composition
+1. Principles of Composition
+1. Photographic Themes
 
 ### Learning Outcomes {.unnumbered}
 
@@ -41,8 +42,23 @@ Working through course activities will help you to meet the learning outcomes an
 
 ### Assessment {.unnumbered}
 
-- Film Journal
-- Visual Composition Exercise (ungraded, but part of journal entry)
+**Course Journal**
+
+After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
+
+Note that entries are expected after every unit. Your journal reflections are submitted at the end of the course as part of the Journal One: Personal Journal and self assessment.
+
+**Assignment 2: Composition Exercise**
+
+*This activity is ungraded, but part of journal entry*
+
+After you have done some composition research and explored great photographers and photos and their compositional techniques and aesthetics, review Chapter 3 and go out and find and create five outstanding visual compositions with your camera (cell phone, DSLR, etc.). Share these with your family, friends, and peers and get their feedback about what worked and did not work. When you have found your best images upload them to the course online folder where the class assignments will be stored.
+
+Remember, the name of the game is to learn not to be perfect.
+
+::: {.note icon="true"}
+Please see the Assessment section in Moodle for assignment details as well as the grading criteria.
+:::
 
 ### Resources {.unnumbered}
 
@@ -57,9 +73,7 @@ Here are the resources you will need to complete this unit.
 - Guidelines for Visual Composition Assignment
 - Other resources will be provided in the unit.
 
-## Elements and Principles of Composition
-
-**Elements of Composition**
+## Elements of Composition
 
 At heart, visual composition means the intentional arrangement or conscious activity of constructing the “ingredients” of an image. As we grow in our filmmaking craft, we must continually be aware of what takes place within the frame (the border of a picture or a film shot). Focusing on a single image can help train us to do this.
 
@@ -80,37 +94,45 @@ The following are some of the formal elements that make up the design and struct
 - Space (positive/objects); (negative/space between objects)
 - Depth (foreground/mid-ground/background)
 
-**Principles of Composition**
+## Principles of Composition
 
 In addition to elements of design, there are also principles or general rules that help give structure to visual compositions and which can also lend meaning or a theme to an image. Elements are specific things whereas principles are more general. Here are four that the course text focuses on:
 
 **1. Balance**
-
 **2. Rule of Thirds**
-
 **3. Repetition and Patterns**
-
 **4. Combinations**
 
 There are many other principles such as the use of triangles and frame within a frame in compositions.
 
 ### Activity: Read and Study
 
-::: {.learning-activity}
+:::: {.learning-activity}
 
 Read and study Chapter 3. Be sure to study each of the images provided in this section and how the elements are used. This will increase your understanding of how they function in visual compositions. Before exploring the rest of this chapter, study this essay to help guide you during the process we are exploring: [11 Thoughts: An Introduction to Photographic Composition](https://www.bhphotovideo.com/explora/photography/tips-and-solutions/11-thoughts-introduction-photographic-composition){target="_blank"}, by Todd Vorenkamp.
 
+::: note
+
+***Helpful Hint:*** New York-based B and H Photo is a great resource for buying and learning about photographic and film and video gear.
+:::
+
 **Question to Consider**
 
-Based on your study of this section, what are some observations you can share in your journal and with you facilitator and classmates?
+- Based on your study of this section, what are some observations you can share in your journal and with you facilitator and classmates?
 
-:::
+::::
 
 ### Activity: Readings on Techniques and Principles of Composition
 
 ::: {.learning-activity}
 
-Read the article [28 Composition Techniques That Will Improve Your Photos](https://petapixel.com/photography-composition-techniques/){target="_blank"}, and [Principles of Design](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf){target="_blank"}. Practice and apply techniques and principles of design.
+<!-- Read the article [28 Composition Techniques That Will Improve Your Photos](https://petapixel.com/photography-composition-techniques/){target="_blank"}, and [Principles of Design](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf){target="_blank"}. Practice and apply techniques and principles of design. -->
+
+- Study these helpful resources: [*28 Composition Techniques That Will Improve Your Photos*](https://petapixel.com/photography-composition-techniques/){target="_blank"}, and [*Principles of Design*](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf){target="_blank"}.  
+
+- Read the next section of Chapter 3, Principles of Composition, and see if you have a richer understanding of composition. Log your observations in your journal.
+
+- Find an example of the use of frame-within-a-frame and triangular composition and share them with your facilitator and classmates.  
 
 :::
 
@@ -158,32 +180,6 @@ Before you move on to the next unit, you may want to check to make sure that you
 - Define composition principles.
 - Study the works of noted photographers and apply composition elements and principles to photographs you create.
 - Create photographs that reveal your understanding of the chapter’s content.
-
-:::
-
-## Assessment {.unnumbered}
-
-::: {.note}
-
-**Course Journal**
-
-After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
-
-Note that entries are expected after every unit. Your journal reflections are submitted at the end of the course as part of the Journal One: Personal Journal and self assessment.
-
-*See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
-
-**Composition Exercise**
-
-*This activity is ungraded, but part of journal entry*
-
-Congratulations! You have earned the right to shoot your first assignment for the course.
-
-After you have done some composition research and explored great photographers and photos and their compositional techniques and aesthetics, review Chapter 3 and go out and find and create five outstanding visual compositions with your camera (cell phone, DSLR, etc.). Share these with your family, friends, and peers and get their feedback about what worked and did not work. When you have found your best images upload them to the course online folder where the class assignments will be stored.
-
-Remember, the name of the game is to learn not to be perfect.bRefer to the specific guidelines in the assessment section. Be sure to study them carefully.
-
-*See the Assessments section for more details on your composition, as well as the grading criteria.*
 
 :::
 

@@ -19,7 +19,7 @@ This unit is divided into the following topics:
 
 ### Learning Outcomes {.unnumbered}
 
-When you have completed this unit, you should be able to:
+When you have completed this unit, you will be able to:
 
 - Define the basic elements of the grammar of film
 - Describe basic shots and their descriptions
@@ -44,7 +44,15 @@ Working through course activities will help you to meet the learning outcomes an
 
 ### Assessment {.unnumbered}
 
-Please see the Assessment section in Moodle for assignment details.
+**Course Journal**
+
+After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
+
+Note that entries are expected after every unit. Your journal reflections are submitted at the end of the course as part of the Journal One: Personal Journal and self assessment.
+
+::: {.note icon="true"}
+Please see the Assessment section in Moodle for assignment details as well as the grading criteria.
+:::
 
 ### Resources {.unnumbered}
 
@@ -114,7 +122,7 @@ In addition to shot size we also designate film shots by who or what is in the f
 
 ::: {.learning-activity}
 
-As they say, a picture is worth a thousand words, and when you see the shots in action in these resources they become more clear. Watch the video resources below to learn more about basic shots
+As they say, a picture is worth a thousand words, and when you see the shots in action in these resources they become more clear. Watch the video resources below to learn more about basic shots.
 
 [Watch: *Introduction to shot types and camera movement*](https://www.youtube.com/watch?v=lRo2IqYbEaE){target="_blank"} <!-- Auto title, auto embed--> 
 
@@ -182,6 +190,22 @@ After thoroughly reading and studying Chapter 5, it's time to put theory into pr
 
 :::
 
+### Activity: Exercise for Applying Grammar of Film
+
+::: {.learning-activity}
+
+Now that you have done the theory, it is time to practice and apply what you have learned. Be sure to use both sides of your brain—the conscious, intentional shot logic part and the intuitive, feeling, follow your gut and take a risk part. Learning to combine both will help you grow immensely in your creativity.
+
+For this exercise you will engage in street photography, that is, go out into your local world and explore it through your cell phone camera lens and capture photos that use at least ten different shot sizes, subject framing, subject angles, and camera angles and heights.
+
+For inspiration about street photography see:
+
+  - [17 Lessons Henri Cartier-Bresson Has Taught Me About Street Photography](https://erickimphotography.com/blog/2014/12/09/17-lessons-henri-cartier-bresson-taught-street-photography/)
+
+Share your four best shots with your classmates and log in your journal what learned from your street photography and exploring of camera angles.
+
+:::
+
 ## Summary {.unnumbered}
 
 In this unit, you learned about the importance of film grammar and the multitude of shot sizes, framings, angles, etc. In doing so, you now have a good foundational grasp of the basic components needed to make excellent film projects.
@@ -195,20 +219,6 @@ Before you move on to the next unit, you may want to check to make sure that you
 - Contrast camera angles and heights.
 - Determine when and how to use subject angles.
 - Create shots that reveal what you discovered in this unit.
-
-:::
-
-## Assessment {.unnumbered}
-
-::: {.note}
-
-**Course Journal**
-
-After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
-
-Note that entries are expected after every unit. Your journal reflections are submitted at the end of the course as part of the Journal One: Personal Journal and self assessment.
-
-*See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
 
 :::
 
