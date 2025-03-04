@@ -1,5 +1,37 @@
 {
     "files.exclude": {
+        "**/.git": false,
+        "**/.svn": false,
+        "**/.hg": false,
+        "**/CVS": false,
+        "**/.DS_Store": false,
+        "**/Thumbs.db": false,
+        "**/.quarto": false,
+        ".quarto": false,
+        "**/bookdown_archive": false,
+        "bookdown_archive": false,
+        "**/yml-assets": false,
+        "yml-assets": false,
+        "**/_quarto.yml": false,
+        "*.yml": false,
+        "_quarto.yml": false,
+        "**/*.yml": false,
+        "**/.gitignore": false,
+        ".gitignore": false,
+        "**/CODEOWNERS": false,
+        "CODEOWNERS": false,
+        "**/docs": false,
+        "docs": false,
+        "**/assets": false,
+        "assets": false,
+        "**/archive-04.mcom221": false,
+        "*.mcom221": false,
+        "archive-04.mcom221": false,
+        "**/*.mcom221": false,
+        "**/.vscode": false,
+        ".vscode": false
+    },
+    "explorerExclude.backup": {
         "**/.git": true,
         "**/.svn": true,
         "**/.hg": true,
@@ -30,6 +62,5 @@
         "**/*.mcom221": true,
         "**/.vscode": true,
         ".vscode": true
-    },
-    "explorerExclude.backup": {}
+    }
 }

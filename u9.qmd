@@ -171,6 +171,10 @@ There are many resources that can help you to understand the various parts of co
 
 {{< video https://www.youtube-nocookie.com/embed/El28XrjtcMI >}}
 
+:::
+
+::: {.learning-activity}
+
 - [Watch: *Screen Direction rule*](https://www.youtube.com/watch?v=9XOn5uxdSJc){target="_blank"} <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/9XOn5uxdSJc >}}
@@ -196,11 +200,11 @@ By now you might feel overwhelmed with camera coverage and all that it takes to 
 
 It will help your scene coverage if you storyboard your shots. They do not have to be elaborate. They can be simple stick figures such as this one that shows a long shot of someone pushing or struggling against something (the context of your story will determine this).
 
-::: {#fig-Picture1}
+:::{#fig-Picture1}
 
 ![A graphic stick figure pushing](assets/u9/Picture1.png){fig-alt="*graphic stick figure pushing*" .lightbox fig-align="left"}
 
-*graphic stick figure pushing*
+*Graphic Stick Figure Pushing*
 
 :::
 
