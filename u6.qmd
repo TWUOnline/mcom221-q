@@ -12,13 +12,15 @@ But fear not. Based on your previous work and what you will learn in this unit y
 
 This unit is divided into the following topics:
 
-- In-Camera Project and Its Benefits
-- Brainstorming and Successful Creativity
-- Direction Vectors and Eye-line Requirements
+1. The In-Camera Project and Its Benefits
+1. Secrets to a Simple Story
+1. Brainstorming and Successful Creativity
+1. Short Story Film Template
+1. Direction Vectors and Eye-line Requirements
 
 ### Learning Outcomes {.unnumbered}
 
-When you have completed this unit, you should be able to:
+When you have completed this unit, you will be able to:
 
 - Describe what constitutes a liner story
 - Define what constitutes an “In-Camera” film
@@ -41,7 +43,24 @@ Working through course activities will help you to meet the learning outcomes an
 
 ### Assessment {.unnumbered}
 
-Please see the Assessment section in Moodle for assignment details.
+**Course Journal**
+
+After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
+
+Also, log in your journal what you learned from the creating and filming of your In-Camera exercise. Log what you thought about the films of your peers and what you learned from the feedback from them and your instructor.
+
+Be sure to make a note of what films stood out and who did them. You will consult this at the end of the course when the class determines: Best Overall Film. Most Imaginative Film, Best Story, Best Cinematography, Best Editing, etc.
+
+**In-Camera Exercise**
+
+*This activity is ungraded, but important*
+
+Create a brief mini movie that shows your understanding of how to apply composition, motivated camera movement, and a variety of shots to visually tell a story. That is, images and not dialogue should drive your story.
+
+::: {.note icon="true"}
+Please see the Assessment section in Moodle for assignment details as well as the grading criteria.
+:::
+
 
 ### Resources {.unnumbered}
 
@@ -79,9 +98,11 @@ To prime your imagination for the upcoming project, watch the video [Watch: *Vis
 
 {{< video https://www.youtube-nocookie.com/embed/iWQQgZh9EyE >}}
 
+- What was your best take-away from it? Log this in your journal and if there is time, share your insights with your facilitator and classmates.
+
 :::
 
-**Secrets to a Simple Story**
+## Secrets to a Simple Story
 
 In order to do this first project, you will need to come up with a story to film. Something has to happened to someone and they must engage in action to address it. But if we are to design a good story—one that holds the attention of our audience and engages them—we need to focus on several things in our short film project:
 
@@ -92,6 +113,14 @@ In order to do this first project, you will need to come up with a story to film
 - A satisfying ending.
 
 You need to keep this simple formula in mind in the projects ahead. There will be many forces and temptations that will distract you and pull you away from this simple understanding. Resist them and go back to basics if you get lost, confused, or frustrated.
+
+### Activity: Read and Reflect
+
+::: {.learning-activity}
+
+Study the next section in the course text Secrets to a Simple Story. What stands out for you? Did it inspire you? Did it help you find a good story concept to film? Log these observations and reflections in your course journal.
+
+:::
 
 ## Brainstorming and Successful Creativity
 
@@ -109,6 +138,11 @@ Even if you already have a story idea that you want to film you are strongly enc
 
 ::: {.learning-activity}
 
+Study the Brainstorming section in Chapter 6, including the Steps for Successful Brainstorming and the Tips for Success Creativity. Then consult these resources:
+
+- <a href="https://www.studiobinder.com/blog/short-film-ideas-you-can-actually-produce/">{target="_blank"}30 Ways to Brainstorm Short Film Ideas You Can Actually Produce</a>
+- <a href="https://www.indiewire.com/2015/08/19-great-ways-to-brainstorm-short-film-ideas-58785/">{target="_blank"}19 Great Ways to Brainstorm Short Film Ideas</a>
+
 After you feel you have a good grasp of brainstorming, engage in the process and come up with 5 story concepts that fit the criteria in the previous topic:
 
 - One or two main characters.
@@ -125,7 +159,7 @@ After you feel you have a good grasp of brainstorming, engage in the process and
 
 :::
 
-**Short Film Story Template**
+## Short Film Story Template
 
 Once you have your core story concept you now need to make it into a full story with a beginning, middle, and end. We also need to make sure we do not make it too complicated or muddled.
 
@@ -140,6 +174,52 @@ Have fun with this template process. Also do not forget to use brainstorming for
 Once you have brainstormed and have a clear and solid concept film, e.g., a student who has the power to turn things in gold, use the [Fairy Tale Template for a Short Film](assets/u6/Fairy_Tale_Template_for_a_Short_Film.pdf){target="_blank"} and write your story for your short film by filling in the blanks.
 
 Study the illustration example given in the chapter and then apply the process to the creation of your film story. In crafting your story you are not allowed to use dialogue beyond “yes,” “no,” and “okay.” That is, you must find visual ways to establish your story’s setup and context and its build and payoff. For example, you cannot have your character say “I am on my way to the store.” You will just show him or her getting in the car, driving, arriving at the store parking lot, and entering the store. (This has visual direction vectors discussed below in Topic 3.)
+
+**Fairy Tale Template for a Short Film**
+
+(This template is inspired by the one developed by Alexander Mackendrick.  See *On Filmmaking: An Introduction to the Craft of the Director*. London: Faber & Faber, 2005, pgs. 78-85.)
+
+**Once Upon a Time \_\_\_\_\_\_\_\_\_.**
+      *(Establish where your story will take place.)*
+
+**There Lived a \_\_\_\_\_\_\_\_\_\_\_\_\_.**
+      *Establish the main character, hero, or protagonist.*
+
+**But there was a Problem in the Land \_\_\_\_\_\_\_\_\_\_\_\_.**
+      *Establish the inciting incident that starts the story’s main conflict that the protagonist must face and overcome.*
+
+**That the Hero had to Solve \_\_\_\_\_\_\_\_\_\_.**
+      *Establish the main character’s drive, motive, goal, and stakes.*
+
+**By Defeating a Villain or Evil Force \_\_\_\_\_\_\_\_\_\_.**
+      *Establish the chief antagonist the protagonist has to overcome.*
+
+**That resulted in Battles and Obstacles \_\_\_\_\_\_\_\_\_\_\_.**
+      *Establish the problems and difficulties the protagonist must overcome to achieve the goal.*
+
+**The Result of Which \_\_\_\_\_\_\_\_.**
+      *Establish the chain of cause and effect conflict events that form the middle of the story. These should escalate, that is, grow more intense and challenging as the action develops.*
+
+**Produced Twists and Turns \_\_\_\_\_\_\_\_\_\_.**
+      *Establish the surprises and unexpected turn of events as the protagonist battles his or her foe.*
+
+**Until the Time came that \_\_\_\_\_\_\_\_.**
+      *Establish the obligatory scene or major confrontation or climax of the action.*
+
+**When Suddenly \_\_\_\_\_\_\_\_\_\_\_.**
+      *Establish the final major twist or surprise that heightens the action of the climax. This is optional.*
+
+**And it Turns Out that \_\_\_\_\_\_.**
+      *Establish the resolution or wrapping up of the story.*
+
+**And Forever After (or Not) \_\_\_\_\_\_\_\_\_.**
+      *Establish the end of the story and its closure which can be happy or sad.*
+
+Are you happy with your story? Do you have to make revisions? You should go through at least three drafts of your story to make sure it works. Test your story out on you family and friends. Ask them if it works but remember they are not filmmakers or professional critics so ignore things when they are too petty or too subjective.
+
+Read through the section in Chapter 6 on creating a Short Story Film Template.
+
+Be sure to lay out your story in single lines of action that can be filmed as in the example of PANIC in Chapter 6.
 
 :::
 
@@ -198,32 +278,6 @@ Before you move on to the next unit, you may want to check to make sure that you
 - Create a short simple story to film
 
 :::
-
-<!-- ## Assessment {.unnumbered}
-
-::: {.note}
-
-**Course Journal**
-
-After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
-
-Also, log in your journal what you learned from the creating and filming of your In-Camera exercise. Log what you thought about the films of your peers and what you learned from the feedback from them and your instructor.
-
-Be sure to make a note of what films stood out and who did them. You will consult this at the end of the course when the class determines: Best Overall Film. Most Imaginative Film, Best Story, Best Cinematography, Best Editing, etc.
-
-*See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
-
--
-
-**In-Camera Exercise**
-
-*This activity is ungraded, but important*
-
-Create a brief mini movie that shows your understanding of how to apply composition, motivated camera movement, and a variety of shots to visually tell a story. That is, images and not dialogue should drive your story.
-
-See the Assessments section for more details on submitting your journal, as well as the grading criteria.
-
-:::-->
 
 
 

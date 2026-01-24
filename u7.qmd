@@ -16,14 +16,17 @@ Don’t worry if you do not want to be an editor. You will work in teams this ti
 
 This unit is divided into the following topics covered in the course text:
 
-- Post-Production Workflow
-- Montage
-- Digital Video Editing Software
-- Montage Project
+1. Post-Production Workflow
+1. Montage
+1. Picture Cutting Techniques
+1. Types of Montage Projects
+1. Digital Video Editing Software
+1. Pitching Your Montage Project
+1. Steps for Creating Your Montage
 
 ### Learning Outcomes {.unnumbered}
 
-When you have completed this unit, you should be able to:
+When you have completed this unit, you will be able to:
 
 - Define the Post-Production workflow
 - Analyze the necessary elements needed for your montage
@@ -54,7 +57,24 @@ Working through course activities will help you to meet the learning outcomes an
 
 ### Assessment {.unnumbered}
 
-Please see the Assessment section in Moodle for assignment details.
+**Course Journal**
+
+After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
+
+Note that entries are expected after every unit. Your journal reflections are submitted at the end of the course as part of the Journal One: Personal Journal and self assessment.
+
+**Montage Short Project (30%)**
+
+This montage project will account for 30 % of your grade and will be broken down according to the following:
+
+- Story/Montage Concept: 20%
+- Cinematography: 20%
+- Editing: 40%
+- Overall all project quality: 20%
+
+::: {.note icon="true"}
+Please see the Assessment section in Moodle for assignment details as well as the grading criteria.
+:::
 
 ### Resources {.unnumbered}
 
@@ -87,7 +107,7 @@ There are many steps and elements involved in the post-production process. They 
 - Adding tiles and graphics
 - Etc.
 
-### Activity: Read and Watch
+### Activity: Planning Your Film
 
 ::: {.learning-activity}
 
@@ -106,6 +126,16 @@ Montage involves a type of editing where a series of images and sound elements a
 Montages can stand alone or be part of a larger documentary, film or television story, or a stand-alone film.
 
 You will focus on a montage project in this unit because they are a great way to learn the art of editing when you shoot images and edit them in timed rhythm to music, dialogue, and/or sound effects. In this exercise you are going to let emotions, feelings, and mood guide you as you learn to further develop your intuitive creative skills.
+
+### Activity: Movie Montages
+
+::: {.learning-activity}
+
+Read the second section of your text on the Montage. To get a feeling for how montages work and for how effective they can be view this resource:
+
+[“20 Montages That Might Be The Best Part Of The Movie”](https://www.refinery29.com/en-us/best-movie-montages)
+
+:::
 
 ## Picture Cutting Techniques
 
@@ -126,32 +156,19 @@ You can use J-cut and L-cuts when you are working with dialogue or you want to l
 
 {{< video https://www.youtube-nocookie.com/embed/PAvJevWUVsc >}}
 
-## Types of Montage Projects
-
-You are given creative latitude and freedom for the type of montage you will shoot and edit for this unit. Some of the most popular ones include:
-
-- Poetic Montages
-- Nature Montages
-- Street Montages
-- Sequence Sprint
-- Music Videos
-- Aesthetic Montages
-
-You can also combine these types of montages. As you read the description of these different types, have fun choosing the one you want to do.
-
-### Activity: Read and Study
+### Activity: Picture Cutting Techniques
 
 ::: {.learning-activity}
 
-Read and study the second section in Chapter 7, Montage, types of Montages, and Picture Cutting Techniques.
+<!-- Read the text section on Picture Cutting Techniques. For visual examples of the above techniques view this resource: **Cuts & Transitions 101**
 
-:::
+{{< video https://www.youtube-nocookie.com/embed/OAH0MoAv2CI >}}
 
-### Activity: Watch and Journal
+See also: **9 Cuts Every Video Editor Should Know | Filmmaking Tips**
 
-::: {.learning-activity}
+{{< video https://www.youtube-nocookie.com/embed/Wv3Hmf2Dxlo >}} -->
 
-For visual examples of Picture Cutting Techniques, watch the videos 
+Read the text section on Picture Cutting Techniques. For visual examples of Picture Cutting Techniques, watch the videos 
 
 [Watch: *Cuts Every Video Editor Should Know | Filmmaking Tips*](https://www.youtube.com/watch?v=Wv3Hmf2Dxlo){target="_blank"} <!-- Auto title, auto embed--> 
 
@@ -166,6 +183,33 @@ For visual examples of Picture Cutting Techniques, watch the videos
 {{< video https://www.youtube-nocookie.com/embed/oagszCmJLpU >}}
 
 Lastly, log in in your journal what you learn about this montage
+
+:::
+
+## Types of Montage Projects
+
+You are given creative latitude and freedom for the type of montage you will shoot and edit for this unit. Some of the most popular ones include:
+
+- Poetic Montages
+- Nature Montages
+- Street Montages
+- Sequence Sprint
+- Music Videos
+- Aesthetic Montages
+
+You can also combine these types of montages. As you read the description of these different types, have fun choosing the one you want to do.
+
+### Activity: Types of Montage Projects
+
+::: {.learning-activity}
+
+Read the Types of Montage Projects in the textbook. For an excellent example of a nature and time-lapse montage where a series of images are synced in to a powerful sound track view this resource: **Pursuit - A 4K storm time-lapse film**
+
+{{< video https://www.youtube-nocookie.com/embed/oagszCmJLpU >}}
+
+As you view it, pay attention to the way the types and rhythms of the images flow and work in sync with the music and sound effects especially from 2: 29 onward.
+
+What did you learn about this montage? Log this in your journal.
 
 :::
 
@@ -185,13 +229,94 @@ Read and study Chapter 7, Digital Editing Software section. Next, Find the digit
 
 The [Filmora](https://filmora.wondershare.net/filmora-video-editor.html?){target="_blank"} website gives an overview of the type of features you want to look for. For free and inexpensive Android-based video software see:[13 Best Android Video Editor Apps Of 2022](https://fossbytes.com/best-android-video-editor-apps/){target="_blank"} or search for best cellphone or DSLR video editing software such as [Best video editing apps 2023](https://www.tomsguide.com/best-picks/best-video-editing-apps){target="_blank"}
 
+***Note:*** When you pitch your montage project, see who already has editing software and who knows how to use it and try to join with them if you are a bit of a “tech-phobic.” If you can’t find someone, challenge yourself and learn something new. You will learn and grow a lot doing this.
+
 :::
 
-## Montage Project
+## Pitching Your Montage Project
 
-**Creating Your Montage**
+Because the montage project is more complicated, you are encouraged to work in teams to create an excellent montage. You can do the project solo if you feel you have the experience and understanding of the gear and software to create it.
 
-As we have seen, there are three main phases of film production and they will apply here:
+The reason almost all larger-scale film projects are done in teams with a lot of different crew positions is that over time, people specialize in their skill-sets and bring better expertise to a project. This is why film crews have a cinematographer, production designer, wardrobe, hair and make-up specialists, prop masters, special effects experts, etc. (You should be consulting your film terms website if you do not know these positions.)
+
+For this project, ideally you will have a team of two people. One to come up with the concept and film it and the other to edit it. In reality, both members will share the idea development, shooting, and editing. The important thing is that you both share equally in the work. (In some cases if the montage is highly complex or sophisticated you can have 3 or 4 members on the team as long as everyone does their fair share.)
+
+In order to find the find teammate, you will pitch your project to the class to see who wants to work on it.
+
+Pitching is a process central to the film and television industry. It involves an individual or team presenting their film project concept and why it is important and to a special audience such as a producer, agent, studio or television executive, distributor, film competition, etc. Everyone, no matter how big or important, has to pitch to those in the industry to find the money, resources, actors, crew, and/or distribution for their project.
+
+Pitching is a vital part of filmmaking and it is a great transferable skill to learn since you will have to pitch in many professions and industries today.
+
+### Activity: Pitching your Project
+
+::: {.learning-activity}
+
+You will have to develop a montage concept to pitch such as a day in the life of street vendors, or a music video, or visualizing a poem or something from the Bible. So review the brainstorming techniques in the previous unit and come up with at least 10 concepts and then choose the one that most appeals to you.
+
+Then review the section on *Pitching* in Chapter Two of the course text. Study *How to Pitch Your Montage Project* and *Steps for an Effective Pitch* in the Chapter 7 and practice doing your pitch before a friend or family member or to an imaginary audience before making the actual pitch to your course members.
+
+**Note**: Do not skimp on practicing your pitch. The more you practice it you will gain confidence and know how to present your concept in an effective way.
+
+**Guidelines for Pitching a Film Project**
+
+**Purpose of a Pitch:** To get people to work on your project, commission your
+project, fund your project, help with your project, distribute your project,
+etc. Pitches also help you to clarity what you want to do and why.
+
+**Steps to a Good Pitch**
+
+1.  If you can, open with a teaser or dramatic statement or question.
+2.  Meet and greet your audience—minimum chitchat, professionals are busy, busy
+    people.
+3.  Dress appropriately—relative to the audience and the project. Artists dress
+    “artsy”; corporate people dress with business attire.
+4.  Project the proper persona (your personality and character)—knowledgeable,
+    credible, trustworthy, smart, clever, etc.
+5.  Explain your qualifications, background, and why you are competent and the
+    right person to do the project. If you do not have a demo reel then sell
+    people with your passion, e.g., WHIPLASH filmmaker.
+6.  Give the title of the film/project—titles shape perception and expectations.
+7.  State the Genre—comedy, drama, documentary, etc. This also shapes
+    perceptions and expectations. The basic concept of a comedy should make us
+    laugh or at lease smile.
+8.  Give the Unique Angle or Hook of your project—what makes it stand out as
+    something different and catchy/edgy/clever, etc. E.g., SHOE IN LOVE, a
+    romantic comedy from the POV of a pair of cowboy boots and stilettos falling
+    in love with each other. The special angle concept is to use foot ware as
+    the main characters and the execution hook is to shoot POVs at foot level or
+    from the shin down.
+9.  Briefly state the logline or basic concept: a one or two sentence
+    description of the core story. E.g., a young, bored dirt farmer gets a
+    message that he has to help rescue a faraway princes and save the universe.
+    STAR WARS.
+10. Project synopsis—succinctly tell the beginning/middle/end of your story or
+    if a documentary the main message of your doc.
+11. Summarize your end goal: to wow my audience with extraordinary nature
+    photography or to make my audience laugh, cry, fall in love, etc.
+12. Explain what you need—cast, crew, funding, etc.
+13. Ask for Questions—also be open to criticism and constructive comments and
+    feedback.
+14. Gratitude—be thankful and gracious even if your project is not received well
+    or as anticipated. Burning bridges is wrongheaded. Pitching can be a
+    training ground for how to deal with rejection.
+
+**Examples of Types of Montage Projects to Pitch**
+
+The goal of your Montage Short assignment (see the syllabus) will be to explore how to make an effective montage-based film that uses picture and sound editing to convey meaning, emotion, story and/or mood.
+
+For this project, you can:
+
+- Create a music video where you take a song and create images that express the mood, feeling, meaning, etc. of the song.
+- Find a poem, fairy tale, or passage from the Bible and “visualize” and enhance it with music and sound effects.
+- Create a chase scene—someone steals something and is on the run and using music and sound effects to enhance the excitement and dynamism.
+- Create a love or horror or thriller story —use can use dialogue but there must be an edited montage—a series of edited shots that convey the mood, meaning etc.
+- Etc.
+
+:::
+
+## Steps for Creating Your Montage
+
+Once you have your montage project and team in place, you are ready to make your montage. As we have seen, there are three main phases of film production and they will apply here:
 
 - Montage Pre-Production
 - Montage Production
@@ -199,22 +324,7 @@ As we have seen, there are three main phases of film production and they will ap
 
 The lion’s share of the emphasis in the chapter has been on post-production, but this does not mean you must take your pre-production and production work lightly. Your montage will only be as good as the images you have for it.
 
-The following criteria can help us better evaluate our own work and that of others and to give constructive criticism on how to improve:
-
-- Overall did the montage work?
-- Did the music and/or sound effects work well with the images?
-- Did the montage convey a mood, emotion, a story and/or theme (some insight into life)? If so, what was it?
-- Were the shots well composed, motivated, and appropriately smooth or in some cases jarring depending on what is being communicated?
-- Were the cuts timed well? If not, where did they not work well?
-- Were the transitions appropriate and effective?
-- Was the action followed well?
-- Was there a sufficient variety of shots?
-- Were some shots or images too repetitive?
-- Were the shots and images interesting and noteworthy?
-- What did you like best about the project?
-- What suggestions would you offer to make it better?
-
-### Activity: Read and Study
+### Activity: Creating a Montage
 
 ::: {.learning-activity}
 
@@ -222,11 +332,27 @@ Study the next section of Chapter 7 on creating a montage. As you study montage 
 
 :::
 
-### Activity: Creating a Montage
+### Activity: Feedback and Self-Assessment for Montage Project
 
 ::: {.learning-activity}
 
-Once you have edited your project and exported it, you are ready to show it to your classmates and instructor. This should be an exciting time as you screen the fruits of your labor and creativity! As previously mentioned, film is a public medium and subject to critique and evaluation.
+Once you have edited your project and exported it, you are ready to show it to your classmates and instructor. This should be an exciting time as you screen the fruits of your labor and creativity.
+
+As mentioned previously, film is a public medium and subject to critique and evaluation.
+
+The following criteria can help us better evaluate our own work and that of others and to give constructive criticism on how to improve:
+  - Overall did the montage work?
+  - Did the music and/or sound effects work well with the images?
+  - Did the montage convey a mood, emotion, a story and/or theme (some insight into life)? If so, what was it?
+  - Were the shots well composed, motivated, and appropriately smooth or in some cases jarring depending on what is being communicated?
+  - Were the cuts timed well? If not, where did they not work well?
+  - Were the transitions appropriate and effective?
+  - Was the action followed well?
+  - Was there a sufficient variety of shots?
+  - Were some shots or images too repetitive?
+  - Were the shots and images interesting and noteworthy?
+  - What did you like best about the project?
+  - What suggestions would you offer to make it better?
 
 Evaluate and critique the work of your peers helping them to see what worked and did not work in their montage and why. When possible give suggestions of how something could have been done better. Remember the tone and substance of our critiques should be one that offers encouraging constructive insight and that helps each other to grow and improve their craft.
 
@@ -234,24 +360,17 @@ For insight into how to critique a short film watch the video [Watch: *Critiquin
 
 {{< video https://www.youtube-nocookie.com/embed/x5ASDkOSIBE >}}
 
-:::
-
-### Activity: Self-Assessment
-
-::: {.learning-activity}
-
 Write in your journal what you learned about your project and yourself from the montage projects.
 
 Use the following questions to guide you:
-
-- What was the best lesson I learned?
-- What did I do well? Why?
-- What did not work out as well as I planned? Why?
-- What can I do better next time?
-- What was the quality of my experience working with a partner?
-- If I did not work with a partner, could the project have been better if I had one?
-- How did this experience help me grow as a person and as a professional?
-- What did I learn new about myself?
+  - What was the best lesson I learned?
+  - What did I do well? Why?
+  - What did not work out as well as I planned? Why?
+  - What can I do better next time?
+  - What was the quality of my experience working with a partner?
+  - If I did not work with a partner, could the project have been better if I had one?
+  - How did this experience help me grow as a person and as a professional?
+  - What did I learn new about myself?
 
 Be sure to note which films and filmmakers had the best cinematography, editing, story, creativity, etc. so that you can consult this when you vote on the awards at the end of the course.
 
@@ -282,34 +401,3 @@ Before you move on to the next unit, you may want to check to make sure that you
 - Evaluate the quality of a montage
 
 :::
-
-<!--## Assessment {.unnumbered}
-
-::: {.note}
-
-**Course Journal**
-
-After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
-
-Note that entries are expected after every unit. Your journal reflections are submitted at the end of the course as part of the Journal One: Personal Journal and self assessment.
-
-*See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
-
--
-
-**Montage Short Project (30%)**
-
-This montage project will account for 30 % of your grade and will be broken down according to the following:
-
-- Story/Montage Concept: 20%
-- Cinematography: 20%
-- Editing: 40%
-- Overall all project quality: 20%
-
-See the Assessment section of the course for more details.
-
-::: -->
-
-
-
-

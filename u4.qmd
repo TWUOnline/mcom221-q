@@ -17,7 +17,7 @@ This unit is divided into the following topics:
 
 ### Learning Outcomes {.unnumbered}
 
-When you have completed this unit, you should be able to:
+When you have completed this unit, you will be able to:
 
 - Describe the various types of film motion shots
 - Contrast the various types of film motion shots
@@ -40,7 +40,21 @@ Working through course activities will help you to meet the learning outcomes an
 
 ### Assessment {.unnumbered}
 
-Please see the Assessment section in Moodle for assignment details.
+**Course Journal**
+
+After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
+
+Note that entries are expected after every unit. Your journal reflections are submitted at the end of the course as part of the Journal One: Personal Journal and self assessment.
+
+**Motivated Camera Movement Exercise**
+
+*This activity is ungraded, but part of journal entry*
+
+For this exercise on motion, you will shoot **5 different types** of motivated kinetic shots, e.g., a pan, tilt, zoom, following action shot, etc. that have smooth motion from the beginning to the end of the shot and “disguise” the camera technique by matching the rate of camera move and subject movement.
+
+::: {.note icon="true"}
+Please see the Assessment section in Moodle for assignment details as well as the grading criteria.
+:::
 
 ### Resources {.unnumbered}
 
@@ -125,7 +139,7 @@ The following sections will help you have properly motivated and framed movement
 
 ::: {.learning-activity}
 
-After you have viewed the resources and studied the properly motivated camera movements, find someone to film and practice each of the techniques with your cell phone. For inspiration and how-to-do techniques watch the video [Watch: *8 Cinematic Camera Moves For Video*](https://www.youtube.com/watch?v=6_p93J3OwfU){target="_blank"} <!-- Auto title, auto embed--> 
+After you have viewed the resources and studied the properly motivated camera movements, find someone to film and practice each of the techniques with your cell phone. For inspiration and how-to-do techniques watch the video [Watch: *8 Cinematic Camera Moves For Video*](https://youtu.be/6_p93J3OwfU){target="_blank"} <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/6_p93J3OwfU >}}
 
@@ -149,25 +163,3 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 :::
 
-<!-- ## Assessment {.unnumbered}
-
-
-::: {.note}
-
-**Course Journal**
-
-After completing this unit, including the learning activities, you are asked to make sure you are doing journal entries and when appropriate to share your responses with your facilitator and classmates when you meet.
-
-Note that entries are expected after every unit. Your journal reflections are submitted at the end of the course as part of the Journal One: Personal Journal and self assessment.
-
-*See the Assessments section for more details on submitting your journal, as well as the grading criteria.*
-
-**Motivated Camera Movement Exercise**
-
-*This activity is ungraded, but part of journal entry*
-
-For this exercise on motion, you will shoot **5 different types** of motivated kinetic shots, e.g., a pan, tilt, zoom, following action shot, etc. that have smooth motion from the beginning to the end of the shot and “disguise” the camera technique by matching the rate of camera move and subject movement.
-
-See the Assessments section for more details, as well as the grading criteria.
-
-::: -->
