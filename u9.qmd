@@ -41,7 +41,9 @@ When you have completed this unit, you will be able to:
 
 ### Learning Activities {.unnumbered}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
+
+::: {.learning-activity}
 
 - Study the next section of Chapter 9 and watch the videos related to it. The selected videos for this unit are extremely important for you to understand how to make your final project. Failure to study them could jeopardize your final project.
 - Please log in your journal your key takeaways from the watched videos along with your responses to specific questions.
@@ -49,13 +51,11 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Review Unit 7 to refresh your knowledge about what is involved in the post-production process.
 - Study the guidelines and the Evaluation Criteria closely for the final project. They will help you to do well.
 
-::: {.note icon="true"}
-
-Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+*Note*: Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
 
 :::
 
-### Assessment {.unnumbered}
+<!-- ### Assessment {.unnumbered}
 
 **Course Journal**
 
@@ -69,29 +69,32 @@ This final short film project will account for 40% of your grade.
 
 ::: {.note icon="true"}
 Please see the Assessment section in Moodle for assignment details as well as the grading criteria.
-:::
+::: -->
+
+### Assessment {.unnumbered} 
+
+Please see the Assessment section in Moodle for assignment details.
 
 ### Resources {.unnumbered}
 
 Here are the resources you will need to complete this unit.
 
 - Chapter 8 of course text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft,* by Ned Vankevich (e-text)
-- [How to Shoot a Scene! - Film Riot](https://www.youtube.com/watch?v=IK2IAEO-FUI){target="_blank"}
-- [Film Blocking Tutorial — Filmmaking Techniques for Directors: Ep3](https://www.youtube.com/watch?v=9AGaECt9j4g){target="_blank"}
-- [FilmSkills.com - Getting the right shots and coverage](https://www.youtube.com/watch?v=okphB85lfjk){target="_blank"}
-- [What Is A Master Shot?](https://www.youtube.com/watch?v=cz3nBkIa9K0){target="_blank"}
-- [Watch: *Match on Action technique*](https://www.youtube.com/watch?v=eou7A-e2e4I){target="_blank"} <!-- Auto title, auto embed-->
-- [Watch: *Match Cuts in Film Editing*](https://www.youtube.com/watch?v=El28XrjtcMI){target="_blank"} <!-- Auto title, auto embed-->
-- [Watch: *Screen Direction rule*](https://www.youtube.com/watch?v=9XOn5uxdSJc){target="_blank"} <!-- Auto title, auto embed-->
-- [Watch: *Screen direction*](https://www.youtube.com/watch?v=RogoUz_pk4Y){target="_blank"} <!-- Auto title, auto embed--> 
-- [Watch: *Breaking Down the 180-Degree Rule*](https://www.youtube.com/watch?v=HinUychY3sE){target="_blank"}
-- [Watch: *The 30 Degree Rule in Filmmaking | Kaicreative | Tips*](https://www.youtube.com/watch?v=1K8EUc98VoQ){target="_blank"} <!-- Auto title, auto embed--> 
-- [Is a Storyboard and How Do You Make One for Your Video?](https://www.wyzowl.com/what-is-a-storyboard/What){target="_blank"}
-- [Basics of Creating a Shot List](https://www.youtube.com/watch?v=-rzJP_5L_yQ){target="_blank"}
-- [How to Cast an ACTOR for a Low Budget Film | The Film Look](https://www.youtube.com/watch?v=YpCkRPqsiJ4){target="_blank"}
-- [Auditioning Actors](https://www.youtube.com/watch?v=x0G6n346m90){target="_blank"}
-- [Watch: *SFX Secrets: The J Cut & The L Cut*](https://www.youtube.com/watch?v=eyH-a964kAs){target="_blank"} <!-- Auto title, auto embed--> 
-- and [Video Editing Tips: J Cut vs L Cut](https://www.youtube.com/watch?v=fT5rRPMnka0){target="_blank"}
+- How to Shoot a Scene! - Film Riot
+- Film Blocking Tutorial — Filmmaking Techniques for Directors: Ep3
+- FilmSkills.com - Getting the right shots and coverage
+- What Is A Master Shot?
+- Watch: *Match on Action technique*
+- Watch: *Match Cuts in Film Editing*
+- Watch: *Screen Direction rule*
+- Watch: *Screen direction*
+- Breaking Down the 180-Degree Rule
+- The 30 Degree Rule in Filmmaking | Kaicreative | Tips
+- Is a Storyboard and How Do You Make One for Your Video?
+- Basics of Creating a Shot List
+- How to Cast an ACTOR for a Low Budget Film | The Film Look
+- Auditioning Actors
+- Watch: *SFX Secrets: The J Cut & The L Cut* and Video Editing Tips: J Cut vs L Cut
 
 ## The Syntax of Film
 
@@ -385,3 +388,4 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 :::
 
+## References {.unnumbered}

@@ -35,7 +35,9 @@ When you have completed this unit, you will be able to:
 
 ### Learning Activities {.unnumbered}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
+
+::: {.learning-activity}
 
 - Log in your journal what type of film you want to work on for your final film project and why.
 - Review popular short film genres.
@@ -43,13 +45,11 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Brainstorm and develop a core story idea to pitch to the class.
 - Create a scriptment with your group.
 
-::: {.note icon="true"}
-
-Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+*Note*: Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
 
 :::
 
-### Assessment {.unnumbered}
+<!-- ### Assessment {.unnumbered}
 
 **Course Journal**
 
@@ -61,19 +61,23 @@ Be sure to make a note of what films stood out and who did them. You will consul
 
 ::: {.note icon="true"}
 Please see the Assessment section in Moodle for assignment details as well as the grading criteria.
-:::
+::: -->
+
+### Assessment {.unnumbered} 
+
+Please see the Assessment section in Moodle for assignment details.
 
 ### Resources {.unnumbered}
 
 Here are the resources you will need to complete this unit.
 
 - Chapter Eight of the course text
-- [7 Things to Know About Making Short Films\! : FRIDAY 101](https://www.youtube.com/watch?v=mYnsKATCrdw){target="_blank"}
-- [What Is Genre and How Is It Determined?](https://milnepublishing.geneseo.edu/exploring-movie-construction-and-production/chapter/2-what-is-genre-and-how-is-it-determined/){target="_blank"}
-- [How to Write a Short Film](https://www.youtube.com/watch?v=wMqIQcTMlA0){target="_blank"}
-- [Writing 101: Basic Story Structure](https://www.youtube.com/watch?v=F7oi_V7JXCg){target="_blank"}
-- [Poetics by Aristotle, translated by S. H. Butcher, The Internet Classics Archive](http://classics.mit.edu/Aristotle/poetics.mb.txt){target="_blank"}
-- [Outlines, Treatments, and Scriptments, Oh My\! by Ken Miyamoto](https://screencraft.org/2018/02/27/outlines-treatments-and-scriptments-oh-my/){target="_blank"}
+- 7 Things to Know About Making Short Films\! : FRIDAY 101
+- What Is Genre and How Is It Determined?
+- How to Write a Short Film
+- Writing 101: Basic Story Structure
+- Poetics by Aristotle, translated by S. H. Butcher, The Internet Classics Archive
+- Outlines, Treatments, and Scriptments, Oh My\! by Ken Miyamoto
 - Other resources will be available online and in the course text.
 
 ## Types of Short Films
@@ -332,6 +336,6 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 :::
 
-
+## References {.unnumbered}
 
 

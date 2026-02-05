@@ -36,17 +36,19 @@ When you have completed this unit, you will be able to:
 
 ### Learning Activities {.unnumbered}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
+
+::: {.learning-activity}
 
 -   The Importance of the Film Journal: Write your first two Film Journal entries for this unit.
 -   Read and Reflect: Read the Introduction which sets up the course ahead and Chapter One “Project Excellence and Professionalism” in the course textbook.
 -   Reflect on the 15 Tips for Doing Your Best
 
-::: {.note icon="true"}
-Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+*Note*: Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+
 :::
 
-### Assessment {.unnumbered}
+<!-- ### Assessment {.unnumbered}
 
 **Course Journal**
 
@@ -56,17 +58,21 @@ Note that entries are expected after every unit. Your journal reflections are su
 
 ::: {.note icon="true"}
 Please see the Assessment section in Moodle for assignment details as well as the grading criteria.
-:::
+::: -->
+
+### Assessment {.unnumbered} 
+
+Please see the Assessment section in Moodle for assignment details.
 
 ### Resources {.unnumbered}
 
 Here are the resources you will need to complete this unit.
 
 -   Introduction and Chapter One of the course text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft*, by Ned Vankevich (e-text)
--   [How to Start a Creative Journal](https://karenbanes.com/how-to-start-a-creative-journal){target="_blank"} (Be sure to click on the internal links on this website)
--   [Watch: *How to Journal Every Day for Increased Productivity, Clarity, and Mental Health*](https://www.youtube.com/watch?v=hUTWo7_W0lc){target="_blank"} <!-- Auto title, auto embed-->
--   [How To Grow Professionally](https://brandyourself.com/blog/guide/how-to-grow-professionally/){target="_blank"}
--   [Creative blocks website](https://www.goodtherapy.org/learn-about-therapy/issues/creative-blocks){target="_blank"}
+-   How to Start a Creative Journal (Be sure to click on the internal links on this website)
+-   Watch: *How to Journal Every Day for Increased Productivity, Clarity, and Mental Health*
+-   How To Grow Professionally
+-   Creative blocks website
 -   Other resources will be provided in the unit.
 
 ## Course Introduction
@@ -234,3 +240,5 @@ Before you move on to the next unit, you may want to check to make sure that you
 -   Self-assessing your strengths and weaknesses.
 -   Plan what you want to focus on during the course in terms of professional and personal growth.
 :::
+
+## References {.unnumbered}

@@ -29,20 +29,20 @@ When you have completed this unit, you will be able to:
 
 ### Learning Activities {.unnumbered}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
+
+::: {.learning-activity}
 
 - Find and consult a film glossary such as Brooklyn College Film Glossary. Read and study the one you like throughout this course. Set a goal to learn 5 new terms or concepts each day.
 - Watch two videos about Basic Shots in action
 - Read and Study Chapter 5 and explain how frames and shots become scenes and sequences and how they add up to a complete film story.
 - After thoroughly reading and studying Chapter 5 to grasp the concepts of shots, camera angles, heights, and camera subject angles, engage in practical application.
 
-::: {.note icon="true"}
-
-Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+*Note*: Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
 
 :::
 
-### Assessment {.unnumbered}
+<!-- ### Assessment {.unnumbered}
 
 **Course Journal**
 
@@ -52,18 +52,22 @@ Note that entries are expected after every unit. Your journal reflections are su
 
 ::: {.note icon="true"}
 Please see the Assessment section in Moodle for assignment details as well as the grading criteria.
-:::
+::: -->
+
+### Assessment {.unnumbered} 
+
+Please see the Assessment section in Moodle for assignment details.
 
 ### Resources {.unnumbered}
 
 Here are the resources you will need to complete this unit.
 
 - Chapter 5 of course text, *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft*.
-- [21 Eye-Opening Ways To Develop Your Intuition](https://liveboldandbloom.com/04/self-improvement/develop-your-intuition){target="_blank"}
-- Studying film shots is an essential part of mastering the craft of filmmaking. Study this helpful overview: [15 Essential Camera Shots, Angles and Movements in Filmmaking](https://www.youtube.com/watch?v=7y0ouVBcogU){target="_blank"}
-- For an overview of the types of film shots and angles see: [The Ultimate Guide to Camera Shots (over 50+ Types of Shots and Angles in Film)](https://www.studiobinder.com/blog/ultimate-guide-to-camera-shots/){target="_blank"}
-- [Brooklyn College Film Glossary](http://userhome.brooklyn.cuny.edu/anthro/jbeatty/COURSES/glossary.htm){target="_blank"}
-- [17 Lessons Henri Cartier-Bresson Has Taught Me About Street Photography](https://erickimphotography.com/blog/2014/12/09/17-lessons-henri-cartier-bresson-taught-street-photography/){target="_blank"}
+- 21 Eye-Opening Ways To Develop Your Intuition
+- Studying film shots is an essential part of mastering the craft of filmmaking. Study this helpful overview: 15 Essential Camera Shots, Angles and Movements in Filmmaking
+- For an overview of the types of film shots and angles see: The Ultimate Guide to Camera Shots (over 50+ Types of Shots and Angles in Film)
+- Brooklyn College Film Glossary
+- 17 Lessons Henri Cartier-Bresson Has Taught Me About Street Photography
 - Other online resources will be provided in the unit and text chapter.
 
 ## Basic Grammar of Film
@@ -222,5 +226,5 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 :::
 
-
+## References {.unnumbered}
 

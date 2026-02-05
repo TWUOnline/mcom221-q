@@ -26,19 +26,19 @@ When you have completed this unit, you will be able to:
 
 ### Learning Activities {.unnumbered}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
+
+::: {.learning-activity}
 
 - Read and Study: Read and study Chapter 4 of course e-text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft.*
 - Motion Shots Practice: Practice doing as many of the main types of motion shots as you can. Discuss what you did and why with your peers.
 - Proper Motivation Practice: Find someone to film and practice each of the cinematic motion techniques with your cell phone.
 
-::: {.note icon="true"}
-
-Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+*Note*: Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
 
 :::
 
-### Assessment {.unnumbered}
+<!-- ### Assessment {.unnumbered}
 
 **Course Journal**
 
@@ -54,16 +54,20 @@ For this exercise on motion, you will shoot **5 different types** of motivated k
 
 ::: {.note icon="true"}
 Please see the Assessment section in Moodle for assignment details as well as the grading criteria.
-:::
+::: -->
+
+### Assessment {.unnumbered} 
+
+Please see the Assessment section in Moodle for assignment details.
 
 ### Resources {.unnumbered}
 
 Here are the resources you will need to complete this unit.
 
 - Chapter Four of the course text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft*, by Ned Vankevich
-- [8 Basic Types of Camera Movements](https://www.youtube.com/watch?v=g6zMtnLC50w){target="_blank"}
-- [5 Brilliant Moments of Camera Movement](https://www.youtube.com/watch?v=h2c3JZ6X3f8){target="_blank"}
-- [Perfect your Film with Cinematic Motion](https://www.youtube.com/watch?v=VPfKsdPsS5w){target="_blank"}
+- 8 Basic Types of Camera Movements
+- 5 Brilliant Moments of Camera Movement
+- Perfect your Film with Cinematic Motion
 - Guidelines for Motion Exercises
 - Other online resources will be provided in the course text and unit.
 
@@ -139,7 +143,7 @@ The following sections will help you have properly motivated and framed movement
 
 ::: {.learning-activity}
 
-After you have viewed the resources and studied the properly motivated camera movements, find someone to film and practice each of the techniques with your cell phone. For inspiration and how-to-do techniques watch the video [Watch: *8 Cinematic Camera Moves For Video*](https://youtu.be/6_p93J3OwfU){target="_blank"} <!-- Auto title, auto embed--> 
+After you have viewed the resources and studied the properly motivated camera movements, find someone to film and practice each of the techniques with your cell phone. For inspiration and how-to-do techniques watch the video [*8 Cinematic Camera Moves For Video*](https://youtu.be/6_p93J3OwfU){target="_blank"} <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/6_p93J3OwfU >}}
 
@@ -163,3 +167,4 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 :::
 
+## References {.unnumbered}

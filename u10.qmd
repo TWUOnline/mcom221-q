@@ -25,19 +25,19 @@ When you have completed this unit, you will be able to:
 
 ### Learning Activities {.unnumbered}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
+
+::: {.learning-activity}
 
 - Decide on your film favourites.
 - Consider submitting to a film festival.
 - Study resources that deal with jobs in the film industry and careers that can use the filmmaking skills you are acquiring.
 
-::: {.note icon="true"}
-
-Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+*Note*: Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
 
 :::
 
-### Assessment {.unnumbered}
+<!-- ### Assessment {.unnumbered}
 
 **Course Journal**
 
@@ -60,21 +60,25 @@ As a reminder, the following is the point scale for determining your grade:
 
 ::: {.note icon="true"}
 Please see the Assessment section in Moodle for assignment details as well as the grading criteria.
-:::
+::: -->
+
+### Assessment {.unnumbered} 
+
+Please see the Assessment section in Moodle for assignment details.
 
 ### Resources {.unnumbered}
 
 Here are the resources you will need to complete this unit.
 
- - Chapter Ten course text
-- <a href="https://medium.com/filmfreeway/how-to-pick-which-festivals-to-submit-to-5c230989c607" target="_blank"> How to Pick Which Festivals to Submit to (And Get the Most from Your Submissions). </a>
-- <a href="http://resourcemagonline.com/2017/11/20-film-festivals-you-should-enter-your-short-film-into/82548/" target="_blank"> For a list of festivals focusing on short films see: “20 Film Festivals You Should Enter Your Short Film Into, Bridget Schneider </a>
-- <a href="https://www.youtube.com/watch?v=1grxjdy831g" target="_blank">8 ESSENTIAL skills you need for a Career in filmmaking\! </a>
-- <a href="https://www.youtube.com/watch?v=Tvjg1ndrPlQ" target="_blank"> 20+ FILM SET JOBS FOR YOU </a>
-- <a href="https://www.careeraddict.com/film-jobs" target="_blank"> “The 20 Best Careers in the Film Industry, Joanna Zambas </a>
-- <a href="https://nofilmschool.com/film-crew-jobs" target="_blank"> Film Crew Positions And Why All Jobs on a Movie Set Matter,” George Edelman </a>
-- <a href="https://filmincolorado.com/resources/job-descriptions/" target="_blank"> “Film In Colorado, Job Descriptions,” </a> This is an example of a local film commission.
-- <a href="https://career.noomii.com/life-skills-need-land-dream-career/" target="_blank"> 10 Life Skills You Need to Land Your Dream Career </a>
+- Chapter Ten course text
+- How to Pick Which Festivals to Submit to (And Get the Most from Your Submissions).
+- For a list of festivals focusing on short films see: “20 Film Festivals You Should Enter Your Short Film Into, Bridget Schneider
+- 8 ESSENTIAL skills you need for a Career in filmmaking\!
+- 20+ FILM SET JOBS FOR YOU
+- The 20 Best Careers in the Film Industry, Joanna Zambas
+-  Film Crew Positions And Why All Jobs on a Movie Set Matter,” George Edelman 
+- “Film In Colorado, Job Descriptions,” This is an example of a local film commission.
+- 10 Life Skills You Need to Land Your Dream Career
 - Other resources will be provided in the course text.
 
 ## Course Awards
@@ -162,3 +166,4 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 :::
 
+## References {.unnumbered}

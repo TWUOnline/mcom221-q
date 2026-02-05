@@ -28,20 +28,20 @@ When you have completed this unit, you will be able to:
 
 ### Learning Activities {.unnumbered}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
+
+::: {.learning-activity}
 
 - Watch the video “Shooting a Film- START to FINISH!”
 - Watch the video “Pitching and Pre-Production” to learn why pitching is important.
 - Read and study Chapter 2, and answer to the questions provided
 - Share in your journal what you learn from shooting a film from start to finish.
 
-::: {.note icon="true"}
-
-Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+*Note*: Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
 
 :::
 
-### Assessment {.unnumbered}
+<!-- ### Assessment {.unnumbered}
 
 **Course Journal**
 
@@ -51,17 +51,20 @@ Note that entries are expected after every unit. Your journal reflections are su
 
 ::: {.note icon="true"}
 Please see the Assessment section in Moodle for assignment details as well as the grading criteria.
-:::
+::: -->
+### Assessment {.unnumbered} 
+
+Please see the Assessment section in Moodle for assignment details.
 
 ### Resources {.unnumbered}
 
 Here are the resources you will need to complete this unit.
 
 - Chapter Two of <span class="underline">Digital Filmmaking: A Beginner’s Guide to Mastering the Craft</span>, by Ned Vankevich (e-text)
-- [**Pitching and Pre-Production: Crash Course Film Production \#2**](https://www.youtube.com/watch?v=JE53JL60ihc){target="_blank"}
-- [**Shooting a film - START to FINISH\!**](https://www.youtube.com/watch?v=8NCLf9rF6IQ){target="_blank"}
-- [**Filmmaking From Beginning to End: Preproduction to Production**](https://www.youtube.com/watch?v=oj_Blr8JE1I){target="_blank"} (Don’t worry if you do not understand everything in these tutorials. You will at the right time as you follow this course.)
-- [**How to Shoot a Scene - Blocking Actors**](https://www.youtube.com/watch?v=y9_LW5H2EC4){target="_blank"}
+- Pitching and Pre-Production: Crash Course Film Production
+- Shooting a film - START to FINISH!
+- Filmmaking From Beginning to End: Preproduction to Production (Don’t worry if you do not understand everything in these tutorials. You will at the right time as you follow this course.)
+- How to Shoot a Scene - Blocking Actors
 - Other resources will be provided in the unit.
 
 ## The Three Phases of Filmmaking
@@ -240,6 +243,6 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 <!-- #### Grading Criteria: See the Assessments section for more details on submitting your journal, as well as the grading criteria. -->
 
-
+## References {.unnumbered}
 
 

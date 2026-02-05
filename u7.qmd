@@ -36,7 +36,9 @@ When you have completed this unit, you will be able to:
 
 ### Learning Activities {.unnumbered}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
+
+::: {.learning-activity}
 
 - Read and study Chapter7 of course etext: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft.* The readings are divided into 6 topics:
     - The Post-Production Workflow
@@ -49,13 +51,11 @@ Here is a checklist of learning activities you will benefit from in completing t
 - As you read Chapter 7 “Digital Editing Software” section, find the digital video editing program you want to use and learn how to do basic editing with it.
 - Practice doing your pitch before a friend or family member or to an imaginary audience before making the actual pitch to your course members.
 
-::: {.note icon="true"}
-
-Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+*Note*: Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
 
 :::
 
-### Assessment {.unnumbered}
+<!-- ### Assessment {.unnumbered}
 
 **Course Journal**
 
@@ -74,20 +74,24 @@ This montage project will account for 30 % of your grade and will be broken down
 
 ::: {.note icon="true"}
 Please see the Assessment section in Moodle for assignment details as well as the grading criteria.
-:::
+::: -->
+
+### Assessment {.unnumbered} 
+
+Please see the Assessment section in Moodle for assignment details.
 
 ### Resources {.unnumbered}
 
 Here are the resources you will need to complete this unit.
 
 - Chapter 7 of course text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft,* by Ned Vankevich (e-text)
-- [Stages of Post Production for Filmmaking in Cinema](https://www.youtube.com/watch?v=IFjyVW21Vpw){target="_blank"}
-- [“20 Montages That Might Be The Best Part Of The Movie](https://www.refinery29.com/en-us/best-movie-montages){target="_blank"}
-- [How To Pitch A Project](https://www.youtube.com/watch?v=dak2DkfDTuU){target="_blank"}
-- [Cuts & Transitions 101](https://www.youtube.com/watch?v=OAH0MoAv2CI&t=31s){target="_blank"}
-- [9 Cuts Every Video Editor Should Know | Filmmaking Tips](https://www.youtube.com/watch?v=Wv3Hmf2Dxlo){target="_blank"}
-- [VIDEO EDITING TRANSITIONS (Taylor Cut Tutorial)](https://www.youtube.com/watch?v=bdpbYeoZKnk){target="_blank"}
-- [Critiquing Your Short Films](https://www.youtube.com/watch?v=x5ASDkOSIBE){target="_blank"}
+- Stages of Post Production for Filmmaking in Cinema
+- “20 Montages That Might Be The Best Part Of The Movie
+- How To Pitch A Project
+- Cuts & Transitions 101
+- 9 Cuts Every Video Editor Should Know | Filmmaking Tips
+- VIDEO EDITING TRANSITIONS (Taylor Cut Tutorial)
+- Critiquing Your Short Films
 - Other online resources provided in the course text and this unit.
 
 ## Post-Production Workflow
@@ -401,3 +405,5 @@ Before you move on to the next unit, you may want to check to make sure that you
 - Evaluate the quality of a montage
 
 :::
+
+## References {.unnumbered}

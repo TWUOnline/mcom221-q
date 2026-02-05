@@ -30,18 +30,18 @@ When you have completed this unit, you will be able to:
 
 ### Learning Activities {.unnumbered}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
+
+::: {.learning-activity}
 
 - Read, Study, and Reflect: Read and study Chapter 6 of course e-text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft.* Write in your journal your initial thoughts regarding the benefits of doing an in-camera film
 - Brainstorming: Brainstorm at least five story ideas and use the “Fairy Tale Template for a Short Film” to write your story for your short film.
 
-::: {.note icon="true"}
-
-Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+*Note*: Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
 
 :::
 
-### Assessment {.unnumbered}
+<!-- ### Assessment {.unnumbered}
 
 **Course Journal**
 
@@ -59,21 +59,24 @@ Create a brief mini movie that shows your understanding of how to apply composit
 
 ::: {.note icon="true"}
 Please see the Assessment section in Moodle for assignment details as well as the grading criteria.
-:::
+::: -->
 
+### Assessment {.unnumbered} 
+
+Please see the Assessment section in Moodle for assignment details.
 
 ### Resources {.unnumbered}
 
 Here are the resources you will need to complete this unit.
 
 - Chapter Six course text
-- [Visual Storytelling 101](https://www.youtube.com/watch?v=iWQQgZh9EyE){target="_blank"}
-- [Visual Storytelling in Filmmaking](https://www.youtube.com/watch?v=4X5xvlTZpcY){target="_blank"}
-- [“30 Ways to Brainstorm Short Film Ideas You Can Actually Produce](https://www.studiobinder.com/blog/short-film-ideas-you-can-actually-produce/){target="_blank"}
-- [19 Great Ways to Brainstorm Short Film Ideas](https://www.indiewire.com/2015/08/19-great-ways-to-brainstorm-short-film-ideas-58785/){target="_blank"}
-- [The eyeline match](https://www.youtube.com/watch?v=y_1H6V7uyYc){target="_blank"}
-- [Screen Direction rule](https://www.youtube.com/watch?v=9XOn5uxdSJc){target="_blank"}
-- [Filmmaking Tutorial: Head room, lead room & Framing](https://www.youtube.com/watch?v=0pd0K2u1Bk8){target="_blank"} YouTube, LightsFilmSchool.
+- Visual Storytelling 101
+- Visual Storytelling in Filmmaking
+- “30 Ways to Brainstorm Short Film Ideas You Can Actually Produce
+- 19 Great Ways to Brainstorm Short Film Ideas
+- The eyeline match
+- Screen Direction rule
+- Filmmaking Tutorial: Head room, lead room & Framing
 
 ## In-Camera Project and Its Benefits
 
@@ -279,6 +282,6 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 :::
 
-
+## References {.unnumbered}
 
 

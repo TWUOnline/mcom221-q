@@ -27,20 +27,20 @@ When you have completed this unit, you should be able to:
 
 ### Learning Activities {.unnumbered}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
+
+::: {.learning-activity}
 
 - Read and study Chapter 3 of course e-text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft.*
 - Read the article “11 Thoughts: An Introduction to Photographic Composition” by Todd Vorenkamp and reflect on the question provided.
 - Read the article “20 Composition Techniques That Will Improve Your Photos”, and practice and apply techniques and principles of design.
 - Review the suggested websites to enrich your understanding of photographic themes and find images that stand out in intriguing, startling, fascinating, and emotionally moving ways.
 
-::: {.note icon="true"}
-
-Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+*Note*: Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
 
 :::
 
-### Assessment {.unnumbered}
+<!-- ### Assessment {.unnumbered}
 
 **Course Journal**
 
@@ -58,18 +58,22 @@ Remember, the name of the game is to learn not to be perfect.
 
 ::: {.note icon="true"}
 Please see the Assessment section in Moodle for assignment details as well as the grading criteria.
-:::
+::: -->
+
+### Assessment {.unnumbered} 
+
+Please see the Assessment section in Moodle for assignment details.
 
 ### Resources {.unnumbered}
 
 Here are the resources you will need to complete this unit.
 
 - Chapter Three of course text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft*, by Ned Vankevich (e-text)
-- [The Visual Elements: The Building Blocks of Composition in Art](http://www.artyfactory.com/art_appreciation/visual-elements/visual-elements.html){target="_blank"}
-- [20 Composition Techniques That Will Improve Your Photos](https://petapixel.com/2016/09/14/20-composition-techniques-will-improve-photos/){target="_blank"}
-- [Taking Constructive Criticism Like a Champ](https://www.themuse.com/advice/taking-constructive-criticism-like-a-champ){target="_blank"}
-- [How Criticism triggers Growth…](https://artplusmarketing.com/how-criticism-triggers-growth-52d775e97557){target="_blank"}
-- [Principles of Design](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf){target="_blank"}
+- The Visual Elements: The Building Blocks of Composition in Art
+- 20 Composition Techniques That Will Improve Your Photos
+- Taking Constructive Criticism Like a Champ
+- How Criticism triggers Growth…
+- Principles of Design
 - Guidelines for Visual Composition Assignment
 - Other resources will be provided in the unit.
 
@@ -185,6 +189,6 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 <!-- #### Grading Criteria See the Assessments section for more details on your composition, as well as the grading criteria. Note that entries are expected for every unit. Your journal reflections are submitted at the end of the course as part of the Final Exam: Self Assessment worth 30% of your course grade. -->
 
-
+## References {.unnumbered}
 
 
