@@ -134,7 +134,7 @@ Filmmaking is not a “paint by numbers” art. If you follow formulas, most lik
 
 ::: {.learning-activity}
 
-Study the next section of Chapter 9 "The Importance and Types of Camera Coverage". Next, watch the video [Watch: *What Is A Master Shot?*](https://www.youtube.com/watch?v=cz3nBkIa9K0){target="_blank"} <!-- Auto title, auto embed--> 
+Study the next section of Chapter 9 "The Importance and Types of Camera Coverage". Next, watch the video [*What Is A Master Shot?*](https://www.youtube.com/watch?v=cz3nBkIa9K0){target="_blank"} <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/cz3nBkIa9K0 >}}
 
@@ -173,10 +173,6 @@ There are many resources that can help you to understand the various parts of co
 - [Watch: *Match Cuts in Film Editing*](https://www.youtube.com/watch?v=El28XrjtcMI){target="_blank"} <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/El28XrjtcMI >}}
-
-:::
-
-::: {.learning-activity}
 
 - [Watch: *Screen Direction rule*](https://www.youtube.com/watch?v=9XOn5uxdSJc){target="_blank"} <!-- Auto title, auto embed--> 
 
@@ -255,7 +251,7 @@ Study the Shot List Example in Chapter Nine to see what you need to include.
 ::: {.learning-activity}
 
 - Read about Shot Lists in Chapter 9.
-- Watch the video [Watch: *Master the Art of Shot Lists: Boost Your Filmmaking Efficiency!*](https://www.youtube.com/watch?v=-rzJP_5L_yQ){target="_blank"} <!-- Auto title, auto embed--> 
+- Watch the video [*Master the Art of Shot Lists: Boost Your Filmmaking Efficiency!*](https://www.youtube.com/watch?v=-rzJP_5L_yQ){target="_blank"} <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/-rzJP_5L_yQ >}}
 :::
@@ -268,7 +264,7 @@ This pre-production process emphasized here will also help you to know if some s
 
 Having good actors is critical to having a good film. Follow the tips and guidelines in the chapter and work hard to find the best actors you can. It will pay off a lot.
 
-### Activity: Read, View and Listen {.unnumbered}
+### Activity: Read, View and Listen
 
 ::: {.learning-activity}
 
@@ -278,11 +274,13 @@ Before auditioning and casting your film, watch the video [“How to Cast an ACT
 
 {{< video https://www.youtube-nocookie.com/embed/YpCkRPqsiJ4?si=IbsICPDDO42pTPbK >}}
 
-For practical tips for auditioning actors watch the video [Watch: *Auditioning Actors*](https://www.youtube.com/watch?v=x0G6n346m90){target="_blank"} <!-- Auto title, auto embed--> 
+For practical tips for auditioning actors watch the video [*Auditioning Actors*](https://www.youtube.com/watch?v=x0G6n346m90){target="_blank"} <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/x0G6n346m90 >}}
 
-For detailed information regarding how to work with actors and casting for low budget films listen to this podcast:[Watch: *How to Cast a No Budget Indie Film with Casting Director Veronika Lee (Backstage Magazine)*](https://www.youtube.com/watch?v=-DwKilT0T34){target="_blank"} <!-- Auto title, auto embed--> 
+For detailed information regarding how to work with actors and casting for low budget films listen to this podcast:
+
+[Watch: *How to Cast a No Budget Indie Film with Casting Director Veronika Lee (Backstage Magazine)*](https://www.youtube.com/watch?v=-DwKilT0T34){target="_blank"} <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/-DwKilT0T34 >}}
 
@@ -292,7 +290,7 @@ For detailed information regarding how to work with actors and casting for low b
 
 Some of you might want to do a documentary or an experimental film. Though this course centers on classical approaches to fictional narrative film, you are free to work on such projects. It is important that you pitch such projects ahead of time to your instructor to make sure it is doable within the confines of this course.
 
-#### Activity: Other Types of Film
+### Activity: Other Types of Film
 
 ::: {.learning-activity}
 See the section on Other Types of Film if you want to do a documentary or experimental film and view the resources for them.

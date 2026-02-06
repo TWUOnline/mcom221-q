@@ -117,7 +117,7 @@ There are many steps and elements involved in the post-production process. They 
 
 Before completing your reading for this unit, log in your journal what type of film you want to work on for your final film project and why.
 
-Then, read the first section in Chapter 7, the Post-Production Workflow. For a detailed overview of the post-production process, watch the video [Watch: *Stages of Post Production for Filmmaking in Cinema*](https://www.youtube.com/watch?v=IFjyVW21Vpw){target="_blank"} <!-- Auto title, auto embed--> 
+Then, read the first section in Chapter 7, the Post-Production Workflow. For a detailed overview of the post-production process, watch the video [*Stages of Post Production for Filmmaking in Cinema*](https://www.youtube.com/watch?v=IFjyVW21Vpw){target="_blank"} <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/IFjyVW21Vpw >}}
 
@@ -156,7 +156,7 @@ There are many types of cuts and transitions that can be used in a montage as yo
 - Wipes
 - Fades
 
-You can use J-cut and L-cuts when you are working with dialogue or you want to lead into a new shot or scene or carry the audio to a new shot or scene. If you are interested in doing this, watch the video [Watch: *Film Making 101 Tutorial - L & J Cuts*](https://www.youtube.com/watch?v=PAvJevWUVsc){target="_blank"} <!-- Auto title, auto embed--> 
+You can use J-cut and L-cuts when you are working with dialogue or you want to lead into a new shot or scene or carry the audio to a new shot or scene. If you are interested in doing this, watch the video [*Film Making 101 Tutorial - L & J Cuts*](https://www.youtube.com/watch?v=PAvJevWUVsc){target="_blank"} <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/PAvJevWUVsc >}}
 
@@ -233,7 +233,7 @@ Read and study Chapter 7, Digital Editing Software section. Next, Find the digit
 
 The [Filmora](https://filmora.wondershare.net/filmora-video-editor.html?){target="_blank"} website gives an overview of the type of features you want to look for. For free and inexpensive Android-based video software see:[13 Best Android Video Editor Apps Of 2022](https://fossbytes.com/best-android-video-editor-apps/){target="_blank"} or search for best cellphone or DSLR video editing software such as [Best video editing apps 2023](https://www.tomsguide.com/best-picks/best-video-editing-apps){target="_blank"}
 
-***Note:*** When you pitch your montage project, see who already has editing software and who knows how to use it and try to join with them if you are a bit of a “tech-phobic.” If you can’t find someone, challenge yourself and learn something new. You will learn and grow a lot doing this.
+*Note:* When you pitch your montage project, see who already has editing software and who knows how to use it and try to join with them if you are a bit of a “tech-phobic.” If you can’t find someone, challenge yourself and learn something new. You will learn and grow a lot doing this.
 
 :::
 
@@ -259,7 +259,7 @@ You will have to develop a montage concept to pitch such as a day in the life of
 
 Then review the section on *Pitching* in Chapter Two of the course text. Study *How to Pitch Your Montage Project* and *Steps for an Effective Pitch* in the Chapter 7 and practice doing your pitch before a friend or family member or to an imaginary audience before making the actual pitch to your course members.
 
-**Note**: Do not skimp on practicing your pitch. The more you practice it you will gain confidence and know how to present your concept in an effective way.
+*Note*: Do not skimp on practicing your pitch. The more you practice it you will gain confidence and know how to present your concept in an effective way.
 
 **Guidelines for Pitching a Film Project**
 
@@ -345,6 +345,7 @@ Once you have edited your project and exported it, you are ready to show it to y
 As mentioned previously, film is a public medium and subject to critique and evaluation.
 
 The following criteria can help us better evaluate our own work and that of others and to give constructive criticism on how to improve:
+
   - Overall did the montage work?
   - Did the music and/or sound effects work well with the images?
   - Did the montage convey a mood, emotion, a story and/or theme (some insight into life)? If so, what was it?
@@ -360,13 +361,14 @@ The following criteria can help us better evaluate our own work and that of othe
 
 Evaluate and critique the work of your peers helping them to see what worked and did not work in their montage and why. When possible give suggestions of how something could have been done better. Remember the tone and substance of our critiques should be one that offers encouraging constructive insight and that helps each other to grow and improve their craft.
 
-For insight into how to critique a short film watch the video [Watch: *Critiquing Your Short Films*](https://www.youtube.com/watch?v=x5ASDkOSIBE){target="_blank"} <!-- Auto title, auto embed--> 
+For insight into how to critique a short film watch the video [*Critiquing Your Short Films*](https://www.youtube.com/watch?v=x5ASDkOSIBE){target="_blank"} <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/x5ASDkOSIBE >}}
 
 Write in your journal what you learned about your project and yourself from the montage projects.
 
 Use the following questions to guide you:
+
   - What was the best lesson I learned?
   - What did I do well? Why?
   - What did not work out as well as I planned? Why?

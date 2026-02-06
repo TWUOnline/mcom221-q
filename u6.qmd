@@ -97,7 +97,7 @@ Here you will be forced to shoot at a location and move to the next, and if the 
 
 Read and study Chapter 6. Write in your journal your initial thoughts regarding the benefits of doing an in-camera film. Does it thrill and excite you or make you apprehensive and anxious? Or maybe a combination of these feelings and emotions. As artists we need to get in touch with our feelings and learn to work with them not fear them.
 
-To prime your imagination for the upcoming project, watch the video [Watch: *Visual Storytelling 101*](https://www.youtube.com/watch?v=iWQQgZh9EyE){target="_blank"} <!-- Auto title, auto embed--> 
+To prime your imagination for the upcoming project, watch the video [*Visual Storytelling 101*](https://www.youtube.com/watch?v=iWQQgZh9EyE){target="_blank"} <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/iWQQgZh9EyE >}}
 
@@ -143,8 +143,8 @@ Even if you already have a story idea that you want to film you are strongly enc
 
 Study the Brainstorming section in Chapter 6, including the Steps for Successful Brainstorming and the Tips for Success Creativity. Then consult these resources:
 
-- <a href="https://www.studiobinder.com/blog/short-film-ideas-you-can-actually-produce/">{target="_blank"}30 Ways to Brainstorm Short Film Ideas You Can Actually Produce</a>
-- <a href="https://www.indiewire.com/2015/08/19-great-ways-to-brainstorm-short-film-ideas-58785/">{target="_blank"}19 Great Ways to Brainstorm Short Film Ideas</a>
+- [30 Ways to Brainstorm Short Film Ideas You Can Actually Produce](https://www.studiobinder.com/blog/short-film-ideas-you-can-actually-produce/){target="_blank"}
+- [19 Great Ways to Brainstorm Short Film Ideas](https://www.indiewire.com/2015/08/19-great-ways-to-brainstorm-short-film-ideas-58785/){target="_blank"}
 
 After you feel you have a good grasp of brainstorming, engage in the process and come up with 5 story concepts that fit the criteria in the previous topic:
 
@@ -154,11 +154,7 @@ After you feel you have a good grasp of brainstorming, engage in the process and
 - A simple setting or number of locations.
 - A satisfying ending. After you have done this go through your concept list and choose your top one and apply it to the template in the next topic.
 
-::: {.note}
-
 **Helpful Hint:** If you find yourself stuck and can’t come up with a story concept, tell your facilitator and have a group brainstorming session. Take one of the ideas and develop it. Share your concept if you are stuck finding one of the criteria such as a goal or stakes and ask for brainstorming help to solve the problem. Remember, film is mostly a collaborative venture.
-
-:::
 
 :::
 
@@ -246,7 +242,7 @@ These requirements should not worry you since you have explored and tried many o
 
 In order to do well and follow the direction vectors and eyeline requirements for this first film project, be sure to consult the following resources which explain them in visual ways. As you do so, pre-visualize how you will film your project:
 
-[Watch: *The eyeline match*](https://www.youtube.com/watch?v=y_1H6V7uyYc){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *The Eyeline Match*](https://www.youtube.com/watch?v=y_1H6V7uyYc){target="_blank"} <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/y_1H6V7uyYc >}}
 

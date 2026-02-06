@@ -79,21 +79,21 @@ However, as we explore film motion, we must remember that film and video involve
 
 The main types of motion shots include:
 
-- ZOOMS
-- PAN SHOTS
-- SWISH OR WHIP PAN
-- TILT SHOTS
-- DOLLY
-- DOLLY ZOOMS
-- TRACKING
-- ARCING
-- FOLLOW SHOTS
-- CRANE SHOTS
-- 360-DEGREE TRACKING SHOTS
-- SLIDERS
-- GOPRO
-- DRONES
-- SHAKY CAMERA
+- Zooms
+- Pan Shots
+- Swish Or Whip Pan
+- Tilt Shots
+- Dolly
+- Dolly Zooms
+- Tracking
+- Arcing
+- Follow Shots
+- Crane Shots
+- 360-Degree Tracking Shots
+- Sliders
+- Gopro
+- Drones
+- Shaky Camera
 
 ### Activity: Motion Shots Reading
 
@@ -123,7 +123,7 @@ Before moving on to the next topic, watch the video [“5 Brilliant Moments of C
 
 ::: note
 
-**Note:** *Do not try doing zoom shots with your cell camera unless you have a special app that makes it smooth. Squeezing your finger in and out to move closer or further away from your subject will result in a shaky shot. Our goal is to disguise movement, not to draw attention to it.*
+*Note:* Do not try doing zoom shots with your cell camera unless you have a special app that makes it smooth. Squeezing your finger in and out to move closer or further away from your subject will result in a shaky shot. Our goal is to disguise movement, not to draw attention to it.*
 
 :::
 

@@ -30,14 +30,11 @@ book:
 # Note: If you do not have any Zotero references, you should disable the 'references.qmd' file or else it will cause an error when rendering.    
 #    - references.qmd
 
-# Note: If you do not have any Zotero references, you should disable the 'references.qmd' file or else it will cause an error when rendering.    
-#    - references.qmd
-
 # References
 bibliography: https://twuonline.github.io/course-materials/quarto/references.bib
 csl: https://twuonline.github.io/course-materials/quarto/apa.csl
 link-bibliography: true
-link-citations: false
+link-citations: true
 
 # Lua Filters
 filters:

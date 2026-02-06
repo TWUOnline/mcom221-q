@@ -193,7 +193,7 @@ Make your pitch to your classmates and then see who wants to join which team.
 
 If your project is not chosen, that is, no one wants to work on it with you, you can still do it but know that it will be a lot of work.
 
-#### Guidelines for Pitching a Film Project
+#### Guidelines for Pitching a Film Project {.unnumbered}
 
 **Purpose of a Pitch:** To get people to work on your project, commission your
 project, fund your project, help with your project, distribute your project,
