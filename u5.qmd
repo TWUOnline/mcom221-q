@@ -90,7 +90,7 @@ These components give you the big picture of how the many smaller elements add u
 
 ::: {.learning-activity}
 
-Find and consult a film glossary such as [Brooklyn College Film Glossary](http://userhome.brooklyn.cuny.edu/anthro/jbeatty/COURSES/glossary.htm){target="_blank"}. Continue to read and study the one you like throughout this course and it will help you grow your film vocabulary and your understanding of the many components and processes involved in filmmaking. Set a goal to learn 5 new terms or concepts each day.
+Find and consult a film glossary such as [Brooklyn College Film Glossary](http://userhome.brooklyn.cuny.edu/anthro/jbeatty/COURSES/glossary.htm){target="_blank"} [@FILMTERMGLOSSARY]. Continue to read and study the one you like throughout this course and it will help you grow your film vocabulary and your understanding of the many components and processes involved in filmmaking. Set a goal to learn 5 new terms or concepts each day.
 
 :::
 
@@ -129,11 +129,11 @@ In addition to shot size we also designate film shots by who or what is in the f
 
 As they say, a picture is worth a thousand words, and when you see the shots in action in these resources they become more clear. Watch the video resources below to learn more about basic shots.
 
-[Watch: *Introduction to shot types and camera movement*](https://www.youtube.com/watch?v=lRo2IqYbEaE){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Introduction to shot types and camera movement*](https://www.youtube.com/watch?v=lRo2IqYbEaE){target="_blank"} [@manwithnonameIntroductionShotTypes2016] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/lRo2IqYbEaE >}}
 
-[Watch: *15 Essential Camera Shots, Angles and Movements in Filmmaking*](https://www.youtube.com/watch?v=7y0ouVBcogU){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *15 Essential Camera Shots, Angles and Movements in Filmmaking*](https://www.youtube.com/watch?v=7y0ouVBcogU){target="_blank"} [@wolfcrow15EssentialCamera2017] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/7y0ouVBcogU >}}
 
@@ -167,7 +167,7 @@ Read and study Chapter 5. In your Film Journal, explain how frames and shots bec
 
 Commit to doing one technique several times a day, and reflect on what you learnt from this experience.
 
-**Helpful Hint:** It is recommended but not mandatory that you study a web essay on how to build your intuition such as [21 Eye-Opening Ways To Develop Your Intuition](https://liveboldandbloom.com/04/self-improvement/develop-your-intuition){target="_blank"}
+**Helpful Hint:** It is recommended but not mandatory that you study a web essay on how to build your intuition such as [21 Eye-Opening Ways To Develop Your Intuition](https://liveboldandbloom.com/04/self-improvement/develop-your-intuition){target="_blank"} [@Davenport21WaysDevelop2023]
 
 :::
 
@@ -205,7 +205,7 @@ For this exercise you will engage in street photography, that is, go out into yo
 
 For inspiration about street photography see:
 
-  - [17 Lessons Henri Cartier-Bresson Has Taught Me About Street Photography](https://erickimphotography.com/blog/2014/12/09/17-lessons-henri-cartier-bresson-taught-street-photography/)
+  - [17 Lessons Henri Cartier-Bresson Has Taught Me About Street Photography](https://erickimphotography.com/blog/2014/12/09/17-lessons-henri-cartier-bresson-taught-street-photography/) [@17LessonsHenri2014]
 
 Share your four best shots with your classmates and log in your journal what learned from your street photography and exploring of camera angles.
 

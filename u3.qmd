@@ -68,7 +68,7 @@ Please see the Assessment section in Moodle for assignment details.
 
 Here are the resources you will need to complete this unit.
 
-- Chapter Three of course text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft*, by Ned Vankevich (e-text)
+- Chapter Three of course text: *Digital Filmmaking: A Beginner’s Guide to Mastering the Craft*, by Ned Vankevich [-@VankevichDigitalFilmmaking] (e-text)
 - The Visual Elements: The Building Blocks of Composition in Art
 - 20 Composition Techniques That Will Improve Your Photos
 - Taking Constructive Criticism Like a Champ
@@ -116,7 +116,7 @@ There are many other principles such as the use of triangles and frame within a 
 
 :::: {.learning-activity}
 
-Read and study Chapter 3. Be sure to study each of the images provided in this section and how the elements are used. This will increase your understanding of how they function in visual compositions. Before exploring the rest of this chapter, study this essay to help guide you during the process we are exploring: [11 Thoughts: An Introduction to Photographic Composition](https://www.bhphotovideo.com/explora/photography/tips-and-solutions/11-thoughts-introduction-photographic-composition){target="_blank"}, by Todd Vorenkamp.
+Read and study Chapter 3. Be sure to study each of the images provided in this section and how the elements are used. This will increase your understanding of how they function in visual compositions. Before exploring the rest of this chapter, study this essay to help guide you during the process we are exploring: [11 Thoughts: An Introduction to Photographic Composition](https://www.bhphotovideo.com/explora/photography/tips-and-solutions/11-thoughts-introduction-photographic-composition){target="_blank"}, by Todd Vorenkamp [-@11ThoughtsIntroduction].
 
 ::: note
 
@@ -135,7 +135,7 @@ Read and study Chapter 3. Be sure to study each of the images provided in this s
 
 <!-- Read the article [28 Composition Techniques That Will Improve Your Photos](https://petapixel.com/photography-composition-techniques/){target="_blank"}, and [Principles of Design](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf){target="_blank"}. Practice and apply techniques and principles of design. -->
 
-- Study these helpful resources: [*28 Composition Techniques That Will Improve Your Photos*](https://petapixel.com/photography-composition-techniques/){target="_blank"}, and [*Principles of Design*](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf){target="_blank"}.  
+- Study these helpful resources: [*28 Composition Techniques That Will Improve Your Photos*](https://petapixel.com/photography-composition-techniques/){target="_blank"} [@Carroll28CompositionTechniques2023], and [*Principles of Design*](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf){target="_blank"} [@Principlesofdesign].  
 
 - Read the next section of Chapter 3, Principles of Composition, and see if you have a richer understanding of composition. Log your observations in your journal.
 
@@ -157,9 +157,9 @@ As you grow in your composition skills you will discover how to add more depth, 
 
 You do not have to create a theme for your photographs in this unit. However, studying websites like the following can help enrich your understanding and find images that stand out in intriguing, startling, fascinating, and emotionally moving ways.
 
-- [Walker Evans MoMA Exhibit](https://www.moma.org/artists/1777){target="_blank"}
-- The outstanding Depression Era works of Dorothea Lange are also rich with theme. See [The History Place Dorothea Lange](http://www.historyplace.com/unitedstates/lange/){target="_blank"}
-- [Top 10 Most Famous Portrait Photographers In The World](https://www.boredpanda.com/top-10-photographers-for-travel-portraits/?utm_source=google&utm_medium=organic&utm_campaign=organic){target="_blank"}
+- [Walker Evans MoMA Exhibit](https://www.moma.org/artists/1777){target="_blank"} [-@WalkerEvansMoMA]
+- The outstanding Depression Era works of Dorothea Lange are also rich with theme. See [The History Place Dorothea Lange](http://www.historyplace.com/unitedstates/lange/){target="_blank"} [-@HistoryPlaceDorothea]
+- [Top 10 Most Famous Portrait Photographers In The World](https://www.boredpanda.com/top-10-photographers-for-travel-portraits/?utm_source=google&utm_medium=organic&utm_campaign=organic){target="_blank"} [-@FamousPhotographersPose2015]
 
 ::: note
 

@@ -117,7 +117,7 @@ Write in your journal your observations about each type of shot and what you lea
 
 ::: {.learning-activity}
 
-Before moving on to the next topic, watch the video [“5 Brilliant Moments of Camera Movement”](https://www.youtube.com/watch?v=h2c3JZ6X3f8){target="_blank"} to augment your understanding of camera movement
+Before moving on to the next topic, watch the video [“5 Brilliant Moments of Camera Movement”](https://www.youtube.com/watch?v=h2c3JZ6X3f8){target="_blank"} [@cinefix5BrilliantMoments2017] to augment your understanding of camera movement
 
 {{< video https://www.youtube-nocookie.com/embed/h2c3JZ6X3f8 >}}
 
@@ -143,7 +143,7 @@ The following sections will help you have properly motivated and framed movement
 
 ::: {.learning-activity}
 
-After you have viewed the resources and studied the properly motivated camera movements, find someone to film and practice each of the techniques with your cell phone. For inspiration and how-to-do techniques watch the video [*8 Cinematic Camera Moves For Video*](https://youtu.be/6_p93J3OwfU){target="_blank"} <!-- Auto title, auto embed--> 
+After you have viewed the resources and studied the properly motivated camera movements, find someone to film and practice each of the techniques with your cell phone. For inspiration and how-to-do techniques watch the video [*8 Cinematic Camera Moves For Video*](https://youtu.be/6_p93J3OwfU){target="_blank"} [@theslantedlens8CinematicCamera2018] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/6_p93J3OwfU >}}
 
