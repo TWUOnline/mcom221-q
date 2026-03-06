@@ -10,7 +10,7 @@ Narrative films, whether fiction or non-fiction, are popular because they tell s
 
 Before moving ahead, view this resource:
 
-[Watch: *7 Things to Know About Making Short Films! : FRIDAY 101*](https://www.youtube.com/watch?v=mYnsKATCrdw){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *7 Things to Know About Making Short Films! : FRIDAY 101*](https://www.youtube.com/watch?v=mYnsKATCrdw){target="_blank"} [@indymogul7ThingsKnow2013] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/mYnsKATCrdw >}}
 
@@ -90,7 +90,7 @@ There are three main types of short films that we can do for the project ahead:
 
 Most of you will probably choose the classical narrative, but you are free to do the other two with the caveat that experimental/*avant-garde* films are far more challenging than they might appear.
 
-As a transferable skill, like in many industries and businesses, smart filmmakers look for a market before they commit too much time and money to a film project. Others of course rely on their intuition and passion. Either way, it is wise to see what those who distribute or stream and screen short films, such as festivals and competitions, look for in making their choices. Their criteria can you vet the quality of your story and its execution. See Film Shortage’s [What Type Of Short Films Do We Prefer?](https://filmshortage.com/what-we-like/){target="_blank"}
+As a transferable skill, like in many industries and businesses, smart filmmakers look for a market before they commit too much time and money to a film project. Others of course rely on their intuition and passion. Either way, it is wise to see what those who distribute or stream and screen short films, such as festivals and competitions, look for in making their choices. Their criteria can you vet the quality of your story and its execution. See Film Shortage’s [What Type Of Short Films Do We Prefer?](https://filmshortage.com/what-we-like/){target="_blank"} [@adminWhatTypeShort2012]
 
 ## Film Genres
 
@@ -123,13 +123,13 @@ Knowing your genre will also help you develop your story and script in this and 
 
 Log in your journal what type of film you want to work on for your final film project and why.
 
-Next, view this list of loglines (short one line descriptions of a film story) in various genres: [Popular Short film genres.](https://www.slideshare.net/BigBadBoobyLady/popular-short-film-genres){target="_blank"} 
+Next, view this list of loglines (short one line descriptions of a film story) in various genres: [Popular Short film genres.](https://www.slideshare.net/BigBadBoobyLady/popular-short-film-genres){target="_blank"} [@PopularShortFilm]
 
 Which genre appeals to you most? Why? Log this reflection and start to brainstorm genre-based story concepts.
 
 To improve your grasp of genre consult this resource:
 
-[What Is Genre and How Is It Determined?](https://milnepublishing.geneseo.edu/exploring-movie-construction-and-production/chapter/2-what-is-genre-and-how-is-it-determined/){target="_blank"}
+[What Is Genre and How Is It Determined?](https://milnepublishing.geneseo.edu/exploring-movie-construction-and-production/chapter/2-what-is-genre-and-how-is-it-determined/){target="_blank"} [@reich2WhatGenre2017]
 
 :::
 
@@ -151,7 +151,7 @@ In the next activity, you'll be asked to brainstorm and develop a core story ide
 
 To help you do this, follow the steps in Story Research Section of Chapter Eight and ask and answer the questions in the What to Look for Section. This should prime your creative pump for the next topic. Also view this helpful resource:
 
-[Watch: *How to Write a Short Film*](https://www.youtube.com/watch?v=wMqIQcTMlA0){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *How to Write a Short Film*](https://www.youtube.com/watch?v=wMqIQcTMlA0){target="_blank"} [@tylermoweryHowWriteShort2019] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/wMqIQcTMlA0 >}}
 
@@ -293,7 +293,7 @@ Your scriptment should be written in a way that someone who reads it should be a
 
 ::: {.learning-activity}
 
-For an overview of scriptments, consult this resource: [Outlines, Treatments, and Scriptments, Oh My!](https://screencraft.org/blog/outlines-treatments-and-scriptments-oh-my/){target="_blank"} by Ken Miyamoto.
+For an overview of scriptments, consult this resource: [Outlines, Treatments, and Scriptments, Oh My!](https://screencraft.org/blog/outlines-treatments-and-scriptments-oh-my/){target="_blank"} by Ken Miyamoto [@OutlinesTreatmentsScriptments].
 
 As you do other drafts (good writing involves a lot of re-writing) to improve your story and polish your script so that everything is clear, it is helpful to ask the following questions. (These questions are designed for a fiction narrative film, though some of them can help vet your documentary or experimental film.) You might not have answers to all of them but you should for most of them. Again the emphasis in on helping you to be clear about your project.
 
