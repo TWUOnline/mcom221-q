@@ -117,7 +117,7 @@ There are many steps and elements involved in the post-production process. They 
 
 Before completing your reading for this unit, log in your journal what type of film you want to work on for your final film project and why.
 
-Then, read the first section in Chapter 7, the Post-Production Workflow. For a detailed overview of the post-production process, watch the video [*Stages of Post Production for Filmmaking in Cinema*](https://www.youtube.com/watch?v=IFjyVW21Vpw){target="_blank"} <!-- Auto title, auto embed--> 
+Then, read the first section in Chapter 7, the Post-Production Workflow. For a detailed overview of the post-production process, watch the video [*Stages of Post Production for Filmmaking in Cinema*](https://www.youtube.com/watch?v=IFjyVW21Vpw){target="_blank"} [@wolfcrowStagesPostProduction2016] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/IFjyVW21Vpw >}}
 
@@ -137,7 +137,7 @@ You will focus on a montage project in this unit because they are a great way to
 
 Read the second section of your text on the Montage. To get a feeling for how montages work and for how effective they can be view this resource:
 
-[“20 Montages That Might Be The Best Part Of The Movie”](https://www.refinery29.com/en-us/best-movie-montages)
+[“20 Montages That Might Be The Best Part Of The Movie”](https://www.refinery29.com/en-us/best-movie-montages) [@weiss20MontagesThat]
 
 :::
 
@@ -156,7 +156,7 @@ There are many types of cuts and transitions that can be used in a montage as yo
 - Wipes
 - Fades
 
-You can use J-cut and L-cuts when you are working with dialogue or you want to lead into a new shot or scene or carry the audio to a new shot or scene. If you are interested in doing this, watch the video [*Film Making 101 Tutorial - L & J Cuts*](https://www.youtube.com/watch?v=PAvJevWUVsc){target="_blank"} <!-- Auto title, auto embed--> 
+You can use J-cut and L-cuts when you are working with dialogue or you want to lead into a new shot or scene or carry the audio to a new shot or scene. If you are interested in doing this, watch the video [*Film Making 101 Tutorial - L & J Cuts*](https://www.youtube.com/watch?v=PAvJevWUVsc){target="_blank"} [@surfacedstudioFilmMaking1012016] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/PAvJevWUVsc >}}
 
@@ -174,15 +174,15 @@ See also: **9 Cuts Every Video Editor Should Know | Filmmaking Tips**
 
 Read the text section on Picture Cutting Techniques. For visual examples of Picture Cutting Techniques, watch the videos 
 
-[Watch: *Cuts Every Video Editor Should Know | Filmmaking Tips*](https://www.youtube.com/watch?v=Wv3Hmf2Dxlo){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Cuts Every Video Editor Should Know | Filmmaking Tips*](https://www.youtube.com/watch?v=Wv3Hmf2Dxlo){target="_blank"} [@shutterstocktutorials9CutsEvery2018] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/Wv3Hmf2Dxlo >}}
 
-[Watch: *Cuts & Transitions 101*](https://www.youtube.com/watch?v=Wv3Hmf2Dxlo){target="_blank"}
+[Watch: *Cuts & Transitions 101*](https://www.youtube.com/watch?v=Wv3Hmf2Dxlo){target="_blank"} [@rocketjumpfilmschoolCutsTransitions1012016]
 
 {{< video https://www.youtube-nocookie.com/embed/OAH0MoAv2CI?si=nUtixWWane1Ryrxl >}}
 
-**Optional**: For an excellent example of a nature and time-lapse montage where a series of images are synced into a powerful soundtrack , watch the video [“Pursuit - A 4K storm time-lapse film”.](https://www.youtube.com/watch?v=oagszCmJLpU){target="_blank"} As you view it, pay attention to the way the types and rhythms of the images flow and work in sync with the music and sound effects especially from 2: 29 onward.
+**Optional**: For an excellent example of a nature and time-lapse montage where a series of images are synced into a powerful soundtrack , watch the video [“Pursuit - A 4K storm time-lapse film”](https://www.youtube.com/watch?v=oagszCmJLpU){target="_blank"} [@mikeolbinskiphotographyPursuit4KStorm2017]. As you view it, pay attention to the way the types and rhythms of the images flow and work in sync with the music and sound effects especially from 2: 29 onward.
 
 {{< video https://www.youtube-nocookie.com/embed/oagszCmJLpU >}}
 
@@ -361,7 +361,7 @@ The following criteria can help us better evaluate our own work and that of othe
 
 Evaluate and critique the work of your peers helping them to see what worked and did not work in their montage and why. When possible give suggestions of how something could have been done better. Remember the tone and substance of our critiques should be one that offers encouraging constructive insight and that helps each other to grow and improve their craft.
 
-For insight into how to critique a short film watch the video [*Critiquing Your Short Films*](https://www.youtube.com/watch?v=x5ASDkOSIBE){target="_blank"} <!-- Auto title, auto embed--> 
+For insight into how to critique a short film watch the video [*Critiquing Your Short Films*](https://www.youtube.com/watch?v=x5ASDkOSIBE){target="_blank"} [@filmriotCritiquingYourShort2018] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/x5ASDkOSIBE >}}
 

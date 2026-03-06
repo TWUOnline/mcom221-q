@@ -97,7 +97,7 @@ Here you will be forced to shoot at a location and move to the next, and if the 
 
 Read and study Chapter 6. Write in your journal your initial thoughts regarding the benefits of doing an in-camera film. Does it thrill and excite you or make you apprehensive and anxious? Or maybe a combination of these feelings and emotions. As artists we need to get in touch with our feelings and learn to work with them not fear them.
 
-To prime your imagination for the upcoming project, watch the video [*Visual Storytelling 101*](https://www.youtube.com/watch?v=iWQQgZh9EyE){target="_blank"} <!-- Auto title, auto embed--> 
+To prime your imagination for the upcoming project, watch the video [*Visual Storytelling 101*](https://www.youtube.com/watch?v=iWQQgZh9EyE){target="_blank"} [@Filmriots2017] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/iWQQgZh9EyE >}}
 
@@ -143,8 +143,8 @@ Even if you already have a story idea that you want to film you are strongly enc
 
 Study the Brainstorming section in Chapter 6, including the Steps for Successful Brainstorming and the Tips for Success Creativity. Then consult these resources:
 
-- [30 Ways to Brainstorm Short Film Ideas You Can Actually Produce](https://www.studiobinder.com/blog/short-film-ideas-you-can-actually-produce/){target="_blank"}
-- [19 Great Ways to Brainstorm Short Film Ideas](https://www.indiewire.com/2015/08/19-great-ways-to-brainstorm-short-film-ideas-58785/){target="_blank"}
+- [30 Ways to Brainstorm Short Film Ideas You Can Actually Produce](https://www.studiobinder.com/blog/short-film-ideas-you-can-actually-produce/){target="_blank"} [@on30WaysBrainstorm2019]
+- [19 Great Ways to Brainstorm Short Film Ideas](https://www.indiewire.com/2015/08/19-great-ways-to-brainstorm-short-film-ideas-58785/){target="_blank"} [@grove19GreatWays2015]
 
 After you feel you have a good grasp of brainstorming, engage in the process and come up with 5 story concepts that fit the criteria in the previous topic:
 
@@ -242,11 +242,11 @@ These requirements should not worry you since you have explored and tried many o
 
 In order to do well and follow the direction vectors and eyeline requirements for this first film project, be sure to consult the following resources which explain them in visual ways. As you do so, pre-visualize how you will film your project:
 
-[Watch: *The Eyeline Match*](https://www.youtube.com/watch?v=y_1H6V7uyYc){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *The Eyeline Match*](https://www.youtube.com/watch?v=y_1H6V7uyYc){target="_blank"} [@iankillickEyelineMatch2014] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/y_1H6V7uyYc >}}
 
-[Watch: *Screen Direction rule*](https://www.youtube.com/watch?v=9XOn5uxdSJc){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Screen Direction rule*](https://www.youtube.com/watch?v=9XOn5uxdSJc){target="_blank"} [@Gvfstudio2013] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/9XOn5uxdSJc >}}
 
