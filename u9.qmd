@@ -108,11 +108,11 @@ Filmmaking is like a language where you use the elements of grammar to make sent
 
 Read and study the first section of Chapter 9: The Syntax of Film. Then, before moving on to the next topic in this unit, watch the following tutorials to re-enforce the big picture. Do not forget to log in your journal your best take-aways from them.
 
-[Watch: *How to Shoot a Scene! - Film Riot*](https://www.youtube.com/watch?v=IK2IAEO-FUI){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *How to Shoot a Scene! - Film Riot*](https://www.youtube.com/watch?v=IK2IAEO-FUI){target="_blank"} [@Filmriot2011] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/IK2IAEO-FUI >}}
 
-[Watch: *Film Blocking Tutorial — Filmmaking Techniques for Directors: Ep3*](https://www.youtube.com/watch?v=9AGaECt9j4g){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *Film Blocking Tutorial — Filmmaking Techniques for Directors: Ep3*](https://www.youtube.com/watch?v=9AGaECt9j4g){target="_blank"} [@Studiobinder2018] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/9AGaECt9j4g >}}
 
@@ -134,7 +134,7 @@ Filmmaking is not a “paint by numbers” art. If you follow formulas, most lik
 
 ::: {.learning-activity}
 
-Study the next section of Chapter 9 "The Importance and Types of Camera Coverage". Next, watch the video [*What Is A Master Shot?*](https://www.youtube.com/watch?v=cz3nBkIa9K0){target="_blank"} <!-- Auto title, auto embed--> 
+Study the next section of Chapter 9 "The Importance and Types of Camera Coverage". Next, watch the video [*What Is A Master Shot?*](https://www.youtube.com/watch?v=cz3nBkIa9K0){target="_blank"} [@Thefilmmakersblog2019] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/cz3nBkIa9K0 >}}
 
@@ -166,27 +166,27 @@ Read the Continuity section of Chapter 9.
 
 There are many resources that can help you to understand the various parts of continuity. It might seem like a lot but it will greatly benefit you if you view the following resources.
 
-- [Watch: *Match on Action technique*](https://www.youtube.com/watch?v=eou7A-e2e4I){target="_blank"} <!-- Auto title, auto embed--> 
+- [Watch: *Match on Action technique*](https://www.youtube.com/watch?v=eou7A-e2e4I){target="_blank"} [@BTEC2014] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/eou7A-e2e4I >}}
 
-- [Watch: *Match Cuts in Film Editing*](https://www.youtube.com/watch?v=El28XrjtcMI){target="_blank"} <!-- Auto title, auto embed--> 
+- [Watch: *Match Cuts in Film Editing*](https://www.youtube.com/watch?v=El28XrjtcMI){target="_blank"} [@TindellMatchcuts2016] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/El28XrjtcMI >}}
 
-- [Watch: *Screen Direction rule*](https://www.youtube.com/watch?v=9XOn5uxdSJc){target="_blank"} <!-- Auto title, auto embed--> 
+- [Watch: *Screen Direction rule*](https://www.youtube.com/watch?v=9XOn5uxdSJc){target="_blank"} [@Gvfstudio2013] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/9XOn5uxdSJc >}}
 
-- [Watch: *Screen direction*](https://www.youtube.com/watch?v=RogoUz_pk4Y){target="_blank"} <!-- Auto title, auto embed--> 
+- [Watch: *Screen direction*](https://www.youtube.com/watch?v=RogoUz_pk4Y){target="_blank"} [@Killick2014] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/RogoUz_pk4Y >}}
 
-- [Watch: *Breaking Down the 180-Degree Rule*](https://www.youtube.com/watch?v=HinUychY3sE){target="_blank"} <!-- Auto title, auto embed--> 
+- [Watch: *Breaking Down the 180-Degree Rule*](https://www.youtube.com/watch?v=HinUychY3sE){target="_blank"} [@Videomaker2013] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/HinUychY3sE >}}
 
-- [Watch: *The 30 Degree Rule in Filmmaking | Kaicreative | Tips*](https://www.youtube.com/watch?v=1K8EUc98VoQ){target="_blank"} <!-- Auto title, auto embed--> 
+- [Watch: *The 30 Degree Rule in Filmmaking | Kaicreative | Tips*](https://www.youtube.com/watch?v=1K8EUc98VoQ){target="_blank"} [@kaicreative30DegreeRule2017] <!-- Auto title, auto embed--> 
 {{< video https://www.youtube-nocookie.com/embed/1K8EUc98VoQ >}}
 
 Do you feel you have a stronger grasp of continuity and of each the techniques addressed? If not, review the videos of those parts you do not understand.
@@ -251,7 +251,7 @@ Study the Shot List Example in Chapter Nine to see what you need to include.
 ::: {.learning-activity}
 
 - Read about Shot Lists in Chapter 9.
-- Watch the video [*Master the Art of Shot Lists: Boost Your Filmmaking Efficiency!*](https://www.youtube.com/watch?v=-rzJP_5L_yQ){target="_blank"} <!-- Auto title, auto embed--> 
+- Watch the video [*Master the Art of Shot Lists: Boost Your Filmmaking Efficiency!*](https://www.youtube.com/watch?v=-rzJP_5L_yQ){target="_blank"} [@jaredishamMasterArtShot2017] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/-rzJP_5L_yQ >}}
 :::
@@ -270,17 +270,17 @@ Having good actors is critical to having a good film. Follow the tips and guidel
 
 Read the Casting section in Chapter 9.
 
-Before auditioning and casting your film, watch the video [“How to Cast an ACTOR for a No Budget Film”](https://www.youtube.com/watch?v=YpCkRPqsiJ4){target="_blank"} for a simple overview of a casting process
+Before auditioning and casting your film, watch the video [“How to Cast an ACTOR for a No Budget Film”](https://www.youtube.com/watch?v=YpCkRPqsiJ4){target="_blank"} [@thefilmlookHowCastACTOR2018] for a simple overview of a casting process
 
 {{< video https://www.youtube-nocookie.com/embed/YpCkRPqsiJ4?si=IbsICPDDO42pTPbK >}}
 
-For practical tips for auditioning actors watch the video [*Auditioning Actors*](https://www.youtube.com/watch?v=x0G6n346m90){target="_blank"} <!-- Auto title, auto embed--> 
+For practical tips for auditioning actors watch the video [*Auditioning Actors*](https://www.youtube.com/watch?v=x0G6n346m90){target="_blank"} [@thefrugalfilmmakerAuditioningActors2013] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/x0G6n346m90 >}}
 
 For detailed information regarding how to work with actors and casting for low budget films listen to this podcast:
 
-[Watch: *How to Cast a No Budget Indie Film with Casting Director Veronika Lee (Backstage Magazine)*](https://www.youtube.com/watch?v=-DwKilT0T34){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *How to Cast a No Budget Indie Film with Casting Director Veronika Lee (Backstage Magazine)*](https://www.youtube.com/watch?v=-DwKilT0T34){target="_blank"} [@thefilmlookHowCastACTOR2018] <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/-DwKilT0T34 >}}
 
@@ -330,10 +330,11 @@ Continuity or the non-distracting and motivated and smooth flow of action is ano
 
 Study these resources and practice applying them in your edited scenes especially those with dialogue or where one scene transitions into another:
 
-[Watch: *SFX Secrets: The J Cut & The L Cut*](https://www.youtube.com/watch?v=eyH-a964kAs){target="_blank"}
+[Watch: *SFX Secrets: The J Cut & The L Cut*](https://www.youtube.com/watch?v=eyH-a964kAs){target="_blank"} [@fandorSFXSecretsCut2018]
+
 {{< video https://www.youtube-nocookie.com/embed/eyH-a964kAs >}}
 
-[Watch: *Video Editing Tips: J Cut vs L Cut*](https://www.youtube.com/watch?v=fT5rRPMnka0){target="_blank"}
+[Watch: *Video Editing Tips: J Cut vs L Cut*](https://www.youtube.com/watch?v=fT5rRPMnka0){target="_blank"} [@kylerhollandVideoEditingTips2018]
 
 {{< video https://www.youtube-nocookie.com/embed/fT5rRPMnka0 >}}
 
