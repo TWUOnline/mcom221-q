@@ -34,7 +34,7 @@ book:
 bibliography: https://twuonline.github.io/course-materials/quarto/references.bib
 csl: https://twuonline.github.io/course-materials/quarto/apa.csl
 link-bibliography: true
-link-citations: true
+link-citations: false
 
 # Lua Filters
 filters:
